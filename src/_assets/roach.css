@@ -1,0 +1,659 @@
+    /* user styles */
+
+    /* styles are what change the color and sizes of stuff on your site. */
+
+    /* these are variables that are being used in the code
+    these tended to confuse some people,so I only kept
+    the images as variables */:root {
+  --bg-img:url('/_img/1bg.webp');
+  --brdr:#007FFF;
+  --bord: 2px solid var(--brdr);
+  --bord2: 4px solid var(--brdr);
+  --bord3: 3px solid var(--brdr);
+  --glw:rgba(0,127,255,0.30);
+  --bg:#08031A;
+  --hdr:linear-gradient(0deg,rgba(8,3,26,1) 0%,rgba(8,3,26,0.75) 50%);
+  --mn:#0C132A;
+  --bx:#091C4B;
+  --shd:#020226;
+  --grdnt:linear-gradient(0deg,rgba(0,6,70,1) 0%,rgba(0,4,44,0.75) 50%);
+  --grdnt2:linear-gradient(90deg,rgba(2,4,41,1) 0%,rgba(0,127,255,0.5) 100%);
+  --grdnt3:linear-gradient(180deg,rgba(0,127,255,0.85) 0%,rgba(2,9,50,0) 20%,rgba(2,4,41,0) 50%,rgba(2,9,50,0) 80%,rgba(0,127,255,0.85) 100%);
+  --mn-fnt:#ebe6ff;
+  --sp-fnt:#53A9FF;
+  --sb_btn:#00064680;
+  --btn:#020745;
+}
+/* if you have the URL of a font,you can set it below */
+    /* feel free to delete this if it's not your vibe */
+
+    /* this seems like a lot for just one font and I would have to agree
+    but I wanted to include an example of how to include a custom font.
+    If you download a font file you can upload it onto your Neocities
+    and then link it! Many fonts have separate files for each style
+    (bold,italic,etc. T_T) which is why there are so many!
+
+    */
+
+    @font-face {
+  font-family:Quicksand;
+  src:url('/_quicksand/Quicksand-Medium.ttf');
+}
+@font-face {
+  font-family:Quicksand;
+  src:url('/_quicksand/Quicksand-Bold.otf');
+  font-weight:bold;
+}
+@font-face {
+  font-family:Quicksand;
+  src:url('/_quicksand/Quicksand-Italic.otf');
+  font-style:italic;
+}
+@font-face {
+  font-family:Quicksand;
+  src:url('/_quicksand/Quicksand-BoldItalic.otf');
+  font-style:italic;
+  font-weight:bold;
+}
+body {
+  font-family:'Quicksand',sans-serif;
+  font-size:18px;
+  color:var(--mn-fnt);
+  margin:0;
+  background-color:var(--bg);
+  /* you can delete the line below if you'd prefer to not use an image */
+  background-size:80px;
+  color:var(--mn-fnt);
+  background-image:var(--bg-img);
+  background-attachment: fixed;
+}
+* {
+  box-sizing:border-box;
+}
+.scrollbar-hidden::-webkit-scrollbar {
+  display:none;
+}
+/* below this line is CSS for the layout */
+
+    /* this is a CSS comment
+    to uncomment a line of CSS,remove the * and the /
+    before and after the text */
+
+
+    /* the "container" is what wraps your entire website */
+    /* if you want something (like the header) to be Wider than
+    the other elements,you will need to move that div outside
+    of the container */
+    #container {
+  max-width:100%;
+  /* this is the width of your layout! */
+    /* if you change the above value,scroll to the bottom
+    and change the media query according to the comment! */
+    margin:0 auto;
+  /* this centers the entire page */
+}
+#header {
+  width:75%;
+  height:auto;
+  padding:15px;
+  margin:0 auto;
+  background:var(--hdr);
+  border-radius:0px 0px 25px 25px;
+  border-left:var(--bord2);
+  border-right:var(--bord2);
+  border-bottom:var(--bord2);
+  text-align:center;
+  position:sticky;
+  background-size:100%;
+}
+#flex {
+  display:flex;
+}
+::-webkit-scrollbar {
+  width:0.3vw;
+}
+/* Track */::-webkit-scrollbar-track {
+  width: 15vw;
+  border-radius: 100px 0px 0px 100px;
+  background-color:var(--brdr);
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  padding: 5vh;
+}
+/* Handle */::-webkit-scrollbar-thumb {
+  background: var(--bx);
+  border-radius:100px;
+  margin: 3vh;
+}
+
+/* this colors BOTH sidebars
+    if you want to style them separately,create styles for #leftSidebar and #rightSidebar */
+    aside {
+  width:250px;
+  padding:20px;
+  overflow-y:auto;
+  background:var(--grdnt);
+  border:var(--bord2);
+  height:82.5vh;
+  margin:1%;
+}
+/* this is the color of the main content area,between the sidebars! */
+    main {
+  background:var(--mn);
+  height:75vh;
+  overflow-y:auto;
+  box-shadow:2px 2px 58px 0px var(--glw);
+  border:var(--bord2);
+  flex:1;
+  border-radius:25px;
+  padding:25px;
+  margin:2%;
+  order:2;
+}
+main2 {
+  background:var(--mn);
+  display: block;
+  width:70%;
+  height:86vh;
+  text-align:center;
+  overflow-y:auto;
+  box-shadow:2px 2px 58px 0px var(--glw);
+  border:var(--bord2);
+  border-radius:25px;
+  padding:25px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7vh;
+  margin-bottom: 7vh;
+  order:2;
+}
+main3 {
+  background:var(--mn);
+  min-height: 100vh;
+  height: auto !important;
+  height: 100vh;
+  width:60%;
+  box-shadow:2px 2px 58px 0px var(--glw);
+  border-left:var(--bord2);
+  border-right:var(--bord2);
+  border-top:var(--bord2);
+  padding:25px;
+  border-radius:25px 25px 0px 0px;
+  margin-top:5%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:auto;
+  order:2;
+}
+/* what's this "order" stuff about??
+    allow me to explain!
+    if you're using both sidebars,the "order" value
+    tells the CSS the order in which to display them.
+    left sidebar is 1,content is 2,and right sidebar is 3! */
+
+ #leftSidebar-desk {
+  order:1;
+  text-align:center;
+  border-radius:50px 10px;
+  display:block;
+}
+#leftSidebar-mobi {
+  order:1;
+  text-align:center;
+  border-radius:50px 10px;
+  padding:15px;
+  display:none;
+}
+#rightSidebar {
+  order:3;
+  text-align:center;
+  border-radius:10px 50px;
+}
+/*cosmetic*/
+iframe {
+  border:var(--bord3);
+  border-radius:15px;
+}
+iframe.music {
+  height:60px;
+  border:var(--bord3);
+  border-radius:15px;
+  width:50%;
+}
+img {
+  image-rendering:pixelated;
+}
+img.left {
+  margin-right:15px;
+  float:left;
+}
+img.bton {
+  width:auto;
+  height:33px;
+  border-radius:5px;
+  border:var(--bord);
+}
+img.tilt {
+  transform:rotate(-20deg);
+  float:right;
+  border-radius:15px;
+  border:var(--bord);
+}
+img.thumb {
+  border-radius:5px;
+  margin:5px;
+  border:var(--bord);
+  width:22%;
+}
+img.tramb {
+  width:22%;
+  margin:5px;
+  padding:2px;
+  border-radius:15px;
+  border-top:var(--bord);
+  border-bottom:var(--bord);
+  background:var(--grdnt3);
+}
+li{
+  margin-bottom:5px
+}
+hr {
+  border:var(--bord3);
+  border-radius:5px;
+}
+hr.th {
+  border:var(--bord);
+  border-radius:5px;
+  width:90%;
+}
+hr.vr {
+  border:var(--bord);
+  border-radius:5px;
+  width:0%;
+  margin-left:4px;
+  margin-right:4px;
+}
+/*text mod*/
+    h1,h2,h3 {
+  color:var(--sp-fnt);
+}
+h1 {
+  font-size:45px;
+  text-align:center;
+}
+h2 {
+  font-size:35px;
+}
+h3 {
+  font-size:25px;
+}
+code {
+  background-color:var(--sp-fnt);
+  color:var(--mn);
+  font-size:inherit;
+  font-family:inherit;
+  font-weight:bold;
+}
+.header__desktop {
+  display:block;
+}
+.header__mobile {
+  display:none;
+}
+/*link style*/
+    #container a {
+  color:var(--sp-fnt);
+  font-weight:bold;
+  font-style:italic;
+  text-decoration:none;
+}
+/* css containers*/
+    .bx1 {
+  background-color:var(--bx);
+  border:var(--bord);
+  box-shadow:0px 0px 50px 0px var(--shd) inset;
+  border-radius:15px;
+  padding:15px;
+  margin:5px 10px;
+  display:flex;
+  flex-direction:row;
+}
+.bx2 {
+  background-color:var(--bx);
+  border:var(--bord);
+  box-shadow:0px 0px 50px 0px var(--shd) inset;
+  border-radius:15px;
+  padding:15px;
+  margin:5px 10px;
+}
+.bx3 {
+  background:var(--grdnt2);
+  border:var(--bord);
+  width:95%;
+  border-radius:15px;
+  padding:15px;
+  margin:20px auto 20px auto;
+}
+.invis {
+  background-color:transparent;
+}
+.flex {
+  display: inline-grid;
+}
+#feed-reader {
+  background-color:var(--bg);
+  border:var(--bord);
+  height:300px;
+  width:90%;
+  overflow-y:auto;
+  margin:auto;
+  border-radius:15px;
+  padding-top:15px;
+  padding-bottom:15px;
+  padding-left:5%;
+  padding-right:5%;
+}
+#commitLink {
+  width:100%;
+  border-radius:15px;
+  padding:0px 30px;
+  margin:auto;
+}
+#shortHash,#commitLatest {
+  margin-right:10px;
+  margin-left:10px;
+  border-left:var(--bord);
+  border-right:var(--bord);
+  background-color:var(--bg);
+}
+#shortHash {
+  border-top:var(--bord);
+  border-bottom:1px solid var(--brdr);
+  color:var(--sp-fnt);
+  font-size:25px;
+  font-weight:bold;
+  overflow-x:auto;
+  border-radius:15px 15px 0px 0px;
+  padding:15px;
+  margin-bottom:0;
+  margin-top:5px;
+}
+#commitLatest {
+  border-bottom:var(--bord);
+  border-top:1px solid var(--brdr);
+  border-radius:0px 0px 15px 15px;
+  padding:15px;
+  margin-bottom:5px;
+  margin-top:0px;
+}
+.crnlft,.crnrht {
+  width:50%;
+}
+.crnlft {
+  left:0px;
+}
+.crnrht {
+  right:0px;
+}
+.copyButton {
+  width:176px;
+  height:62px;
+  font-size:15px;
+  background-color:var(--bg);
+  color:var(--mn-fnt);
+}
+table {
+  border-collapse:collapse;
+  width:100%;
+}
+th,td {
+  padding:8px;
+  text-align:center;
+  border-radius:15px;
+  border-left:var(--bord3);
+  border-right:var(--bord3);
+}
+th {
+  padding:8px;
+  text-align:center;
+  border-radius:15px;
+  border-bottom:var(--bord3);
+}
+th:first-child,td:first-child {
+  border-left:0;
+}
+th:last-child,td:last-child {
+  border-right:0;
+}
+/*buttons*/
+    #container .button {
+  background-color:var(--sb_btn);
+  box-shadow:0px 0px 10px 10px var(--shd);
+  color:var(--sp-fnt);
+  padding:12px;
+  border:var(--bord);
+  font-style:normal;
+  border-radius:15px;
+  text-align:center;
+  font-weight:bold;
+  display:inline-block;
+  float:left;
+  transition-duration:0.4s;
+}
+#container .button:hover {
+  background-color:var(--bg);
+  color:var(--mn-fnt);
+  font-style:normal;
+}
+#container .button1 {
+  width:100%;
+  margin:10px 0px;
+}
+#container .button2 {
+  padding:12px;
+  display:inline-grid;
+  float:none;
+}
+/*accordion*/
+    .accordion {
+  background-color:var(--btn);
+  color:var(--mn-fnt);
+  padding:10px;
+  box-shadow:0px 0px 20px 5px var(--shd) inset;
+  border:var(--bord);
+  border-radius:15px;
+  text-align:left;
+  margin:10px 0px;
+  outline:none;
+  font-size:inherit;
+  font-family:inherit;
+  font-weight:bold;
+  transition:0.4s;
+}
+.active,.accordion:hover {
+  background-color:var(--bg);
+  font-weight:bold;
+}
+.accordion:after,.accordion:before {
+  content:"\25BC";
+}
+.accordion.active:after,.accordion.active:before {
+  content:"\25B2";
+}
+.panel {
+  padding:0.18px;
+  max-height:0;
+  overflow:hidden;
+  transition:max-height 0.2s ease-out;
+}
+/*navccordion*/
+    .nav {
+  background-color:transparent;
+  border:none;
+  color:var(--sp-fnt);
+  text-align:left;
+  outline:none;
+  font-size:35px;
+  font-family:inherit;
+  transition:0.4s;
+}
+.nav:after,.nav:before {
+  content:'\25BC';
+  font-weight:bold;
+  float:right;
+  margin-left:5px;
+}
+.nav:after {
+  float:right;
+}
+.nav:before {
+  float:left;
+}
+.nav.active:after,.nav.active:before {
+  content:"\25B2";
+}
+/* Style the tab */
+  .tab {
+  overflow-x:auto;
+  overflow-y:hidden;
+  background-color:var(--bg);
+  border:var(--bord3);
+  margin:10px 0px 0px 0px;
+  display:flex;
+  border-radius:15px 15px 0px 0px;
+}
+/* Style the buttons inside the tab */
+  .tab button {
+  background-color:var(--bg);
+  border:none;
+  font-family:inherit;
+  font-size:inherit;
+  display:inline-block;
+  padding:14px 16px;
+  margin:0 0 -1px;
+  transition:0.4s;
+  color:var(--mn-fnt);
+}
+.tab button:hover,.tab button.active {
+  background-color:var(--brdr);
+  box-shadow:0px 0px 10px 6px rgba(0,128,255,0.50);
+  position:relative;
+  margin:0 0 -1px;
+  z-index:1;
+}
+.tab button.active {
+  z-index:2;
+}
+/* Style the tab content */
+    .tabcontent {
+  display:none;
+  padding:6px 12px;
+  margin:0px 0px 5px 0px;
+  overflow-x:auto;
+  background-color:var(--bx);
+  box-shadow:0px 0px 50px 0px var(--shd) inset;
+  border-bottom:var(--bord3);
+  border-left:var(--bord3);
+  border-right:var(--bord3);
+  border-radius:0px 0px 15px 15px;
+}
+/* BELOW THIS POINT IS MEDIA QUERY */
+
+    /* so you wanna change the width of your page?
+    by default,the container width is 900px.
+    in order to keep things responsive,take your new height,and then subtrack it by 100. use this new number as the
+    "max-width" value below
+    */
+
+    @media only screen and (max-width:800px) {
+  #flex {
+  flex-wrap:wrap;
+}
+.crnlft,.crnrht {
+  width:auto;
+}
+aside {
+  width:100%;
+  padding:5px;
+}
+hr {
+  border:var(--bord);
+  border-radius:5px;
+  width:90%;
+}
+hr.th {
+  border:1px solid var(--brdr);
+  border-radius:5px;
+  width:80%;
+}
+hr.vr {
+  border:1px solid var(--brdr);
+  border-radius:5px;
+  margin:0 auto;
+  width:80%;
+}
+#container .button {
+  margin:3px 10px 12px 0px;
+}
+#header {
+  width:100%;
+  margin:0px 0px 3% 0px;
+}
+main2,main3 {
+  height:100%;
+  width:100%;
+  border-left:0px;
+  border-right:0px;
+}
+.header__desktop {
+  display:none;
+}
+.header__mobile {
+  display:block;
+}
+#leftSidebar-desk {
+  display:none;
+}
+#leftSidebar-mobi {
+  display:block;
+}
+.bx1 {
+  flex-direction:column;
+}
+iframe.music {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:90%;
+}
+img.thumb,img.tramb {
+  width:25%;
+}
+img.tramb {
+  image-rendering:smooth;
+}
+/* the order of the items is adjusted here for responsiveness!
+    since the sidebars would be too small on a mobile device.
+    feel free to play around with the order!
+    */
+main {
+  order:2;
+  height:auto;
+  padding:25px;
+  margin:0%;
+  border-left:0px;
+  border-right:0px;
+}
+aside {
+  height:auto;
+}
+#leftSidebar {
+  order:1;
+}
+#rightSidebar {
+  order:3;
+}
+#navbar ul {
+  flex-wrap:wrap;
+}
+}

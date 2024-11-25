@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <title>Mechagic's Fun {{title}}</title>
+     <link rel="stylesheet" href="{{ '/_assets/roach.css' | url }}">
+     <link rel="stylesheet" href="{{ '/_assets/baguetteBox.min.css' | url }}">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <script src="https://unpkg.com/@phosphor-icons/web">
+     </script>
+     <link rel="stylesheet" href="/_assets/baguetteBox.min.css">
+     <link rel="stylesheet" href="/_assets/roach.css">  
+     <link rel="icon" type="image/x-icon" href="/_img/1favicon.webp">
+     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+     <meta name="title" content="Mechagic's Fun Zone" />
+     <meta name="description" content="{{ogd}}" />
+     <meta name="image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
+     <meta property="og:type" content="website" />
+     <meta property="og:url" content="https://mechagic.lexiqqq.com/" />
+     <meta property="og:title" content="Mechagic's Fun Zone" />
+     <meta property="og:description" content="{{propd}}" />
+     <meta property="og:image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
+ </head>
+  <body>
+<div id="container">
+    <div id="header">
+        <div class="header__desktop">
+            <span style="font-size: 45px;">
+                <i class="ph ph-bug">
+                </i>
+                MECHAGIC'S FUNZONE
+                <i class="ph ph-bug">
+                </i>
+            </span>
+        </div>
+        <div class="header__mobile">
+            <div style="font-size: 45px;">
+                MECHAGIC'S
+            </div>
+            <div style="font-size: 45px;">
+                FUNZONE
+            </div>
+        </div>
+    </div>
+    <div id="flex">
+        <aside id="leftSidebar-desk">
+            <h2>
+                LINKS
+            </h2>
+            <hr>
+            <div class="sidebar_content">
+            <a class="button button1" href="/home">
+                <i class="ph-fill ph-house">
+                </i>
+                HOME
+            </a>
+            <a class="button button1" href="/creations">
+                <i class="ph-fill ph-palette">
+                </i>
+                CREATIONS
+            </a>
+            <a class="button button1" href="/blog">
+                <i class="ph-fill ph-scroll">
+                </i>
+                BLOG
+            </a>
+            <a class="button button1" href="/platforms">
+                <i class="ph-fill ph-globe">
+                </i>
+                PLATFORMS
+            </a>
+            <a class="button button1" href="/resources">
+                <i class="ph-fill ph-bookmark">
+                </i>
+                RESOURCES
+            </a>
+            <a class="button button1" href="/misc">
+                <i class="ph-fill ph-folder">
+                </i>
+                MISC
+            </a>
+        </div>
+        </aside>
+
+        <aside id="leftSidebar-mobi">
+            <button class="nav">
+                <b>LINKS</b>
+            </button>
+            <div class="panel">
+              <hr>
+                <a class="button button2" href="/home">
+                    <i class="ph-fill ph-house">
+                    </i>
+                    HOME
+                </a>
+                <a class="button button2" href="/creations">
+                    <i class="ph-fill ph-palette">
+                    </i>
+                    CREATIONS
+                </a>
+                <a class="button button2" href="/blog">
+                    <i class="ph-fill ph-scroll">
+                    </i>
+                    BLOG
+                </a>
+                <a class="button button2" href="/platforms">
+                    <i class="ph-fill ph-globe">
+                    </i>
+                    PLATFORMS
+                </a>
+                <a class="button button2" href="/resources">
+                    <i class="ph-fill ph-bookmark">
+                    </i>
+                    RESOURCES
+                </a>
+                <a class="button button2" href="/misc">
+                    <i class="ph-fill ph-folder">
+                    </i>
+                    MISC
+                </a>
+            </div>
+        </aside>
+        <main>
+            {{content | safe}}
+        </main>
+        <aside id="rightSidebar" class="asideClass">
+            <h2>
+                STUFF
+            </h2>
+            <hr>
+            <section id="listen" style="margin-bottom:2px;">
+                CAN'T FETCH
+            </section>
+            <a href="" id="artworklink" target="_blank" style="display: block;">
+                <img id="artwork" src="" class="artworkimg" alt="Album artwork" style="border-radius:5px; border:2px solid #A7703E; filter: sepia(100%) hue-rotate(180deg) saturate(3);" width="auto" height="75px">
+                <div class="imgclipcentre">
+                </div>
+                <p id="track" direction="left" style="color: #ebe6ff; margin:0px; font-size:18px; height:42px; overflow-y:auto;">
+                </p>
+            </a>
+            <hr class="th">
+           <a href="/guestbook"><img src="/_img/1guestbook.webp" style="width:180px; border-radius:15px; border:2px solid var(--brdr);"></a>
+           <hr class="th">
+            <img class="bton" src="/_img/1button.webp">
+            <br>
+           <textarea class="copyButton">
+        <a href="https://mechagic.lexiqqq.com/" target="_blank"><img src="https://i.ibb.co/Lz759fF/1button.webp"></a>
+      </textarea>
+        </aside>
+    </div>
+</div>
+<script>
+    document.addEventListener("DOMContentLoaded",
+    function() {
+      var LASTFMUSER = "mechagic"
+      var url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + LASTFMUSER + "&api_key=347203869256097b1225d58c8753b950&format=json";
+    
+      fetch(url).then(response =>response.json()).then(data =>{
+        var artist = data.recenttracks.track[0].artist["#text"];
+        var song = data.recenttracks.track[0]["name"];
+        var artwork = data.recenttracks.track[0].image[3]["#text"];
+        var link = data.recenttracks.track[0]["url"];
+    
+        document.getElementById("artwork").src = artwork;
+        document.getElementById("track").innerHTML = "<strong>" + song + "</strong><br />" + artist;
+        document.getElementById("artworklink").href = link;
+    
+        if (typeof data.recenttracks.track[0]["@attr"] !== "undefined") {
+          document.getElementById("listen").innerHTML = '<span style="color: green;">listening</span> to:';
+          console.log("true");
+        } else {
+          document.getElementById("listen").innerHTML = "last <span>listened</span> to:";
+          console.log("false");
+        }
+      }).
+      catch(error =>{
+        console.error("Error fetching data:", error);
+      });
+    });
+</script>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+<script>
+    var acc = document.getElementsByClassName("nav");
+    var i;
+    
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click",
+      function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+      });
+    }
+</script>
+<script>
+    function openCity(evt, cityName) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablinks");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+      }
+      document.getElementById(cityName).style.display = "block";
+      evt.currentTarget.className += " active";
+    }
+    
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
+     <script src="/_assets/baguetteBox.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+window.addEventListener('load', function() { baguetteBox.run('.gallery');
+});
+</script>
+  </body>
+</html>
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <title>Mechagic's Fun {{title}}</title>
+     <link rel="stylesheet" href="{{ '/_assets/roach.css' | url }}">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <script src="https://unpkg.com/@phosphor-icons/web">
+     </script>
+     <link rel="stylesheet" href="/_assets/roach.css">  
+     <link rel="icon" type="image/x-icon" href="/_img/1favicon.webp">
+     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+     <meta name="title" content="Mechagic's Fun Zone" />
+     <meta name="description" content="{{ogd}}" />
+     <meta name="image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
+     <meta property="og:type" content="website" />
+     <meta property="og:url" content="https://mechagic.lexiqqq.com/" />
+     <meta property="og:title" content="Mechagic's Fun Zone" />
+     <meta property="og:description" content="{{propd}}" />
+     <meta property="og:image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
+ </head>
+  <body>
+    <div id="container">
+    <div id="flex">
+        <main2>
+          {{content | safe}}
+        </main2>
+    </div>
+</div>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+</body>
+</html>
+

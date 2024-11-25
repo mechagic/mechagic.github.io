@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <title>{{title}}</title>
+     <link rel="stylesheet" href="{{ '/_assets/roach.css' | url }}">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <script src="https://unpkg.com/@phosphor-icons/web">
+     </script>
+     <link rel="stylesheet" href="/_assets/roach.css">  
+     <link rel="icon" type="image/x-icon" href="/_img/1favicon.webp">
+     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+     <meta name="title" content="Mechagic's Very Cool Website" />
+     <meta name="description" content="{{ogd}}" />
+     <meta name="image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
+     <meta property="og:type" content="website" />
+     <meta property="og:url" content="https://mechagic.lexiqqq.com/" />
+     <meta property="og:title" content="Mechagic's Fun Zone" />
+     <meta property="og:description" content="{{propd}}" />
+     <meta property="og:image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
+ </head>
+  <body>
+<div id="container">
+    <div id="header">
+        <div class="header__desktop">
+            <span style="font-size: 45px;">
+                <i class="ph ph-bug">
+                </i>
+                MECHAGIC'S FUNZONE
+                <i class="ph ph-bug">
+                </i>
+            </span>
+        </div>
+        <div class="header__mobile">
+            <div style="font-size: 45px;">
+                MECHAGIC'S
+            </div>
+            <div style="font-size: 45px;">
+                FUNZONE
+            </div>
+        </div>
+    </div>
+    <div id="flex">
+        <main3>
+        <h1>{{title}}</h1>
+          {{content | safe}}
+
+         <center><h3><a href="javascript:window.history.back()">Go Back</a></h3></center>
+        </main3>
+    </div>
+</div>
+  </body>
+</html>
+
