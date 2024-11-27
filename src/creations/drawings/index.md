@@ -20,6 +20,9 @@ Interested in more story focused stuff? I have a good amount of concept art for 
        </button>    </div>
                 <div id="2024" class="tabcontent">
 <div class="gallery">
+        <a href="/_art/nov252024.webp" data-caption="Original quote from Unorthodox Kitten | afacelessdream on twitter | November 25 2024">
+            <img class="thumb" src="/_art/th/nov252024.webp" alt="Original quote from Unorthodox Kitten | afacelessdream on twitter | November 25 2024">
+        </a>
         <a href="/_art/oct292024.webp" data-caption="Tired of pacing, tired of the wind, tired of the rocks and tired of learning when there is no more to learn | My OC, Cogito | October 29 2024">
             <img class="thumb" src="/_art/th/oct292024.webp" alt="Tired of pacing, tired of the wind, tired of the rocks and tired of learning when there is no more to learn | My OC, Cogito |October 29 2024">
         </a>
