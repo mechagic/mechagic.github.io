@@ -40,7 +40,7 @@ jobs:
     needs: build
     environment:
       name: github-pages
-      url: https://moosyu.github.io/
+      url: https://mechagic.github.io/
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
