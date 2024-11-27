@@ -46,13 +46,10 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
 
-
-      - name: Deploy to Nekoweb
-        uses: mp-pinheiro/nekoweb-deploy@main
+      - name: Deploy to NekoWeb
+        uses: deploy2nekoweb/deploy2nekoweb@v4
         with:
-          API_KEY: ${{ secrets.NEKOWEB_API_KEY }}
-          BUILD_DIR: './_site'
-          DEPLOY_DIR: '/'
-          CLEANUP: 'False'
-          DELAY: '0.5'
-          NEKOWEB_PAGENAME: 'mechagic'
+          nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
+          nekoweb-cookie: ${{ secrets.NEKOWEB_COOKIE }}
+          nekoweb-folder: './_site'
+          directory: './_site'
