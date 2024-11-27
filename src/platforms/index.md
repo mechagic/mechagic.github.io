@@ -19,7 +19,7 @@ Besides if Tumblr goes down then this will probably be the only site I'm availab
 My Discord account is `mechagic` and my email is `mechagic@proton.me `
 
 - Kofi - [link <i class="ph ph-link"></i>](https://ko-fi.com/mechagic)
-- Github - [link <i class="ph ph-link"></i>](https://github.com/GenoTheMundane/)
+- Github - [link <i class="ph ph-link"></i>](https://github.com/mechagic/)
 - Tumblr - [link <i class="ph ph-link"></i>](https://mechagic.tumblr.com/)
 - Lemmy - [link <i class="ph ph-link"></i>](https://lemmy.world/u/MECHAGIC)
 

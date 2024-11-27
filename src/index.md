@@ -44,7 +44,7 @@ Code taken from [moosyu <i class="ph ph-link"></i>](https://moosyu.nekoweb.org/p
 <br> `Disclaimer`: It takes a while for the changes to appear on the website
 <div id="commitLink"><div id="shortHash"></div><div id="commitLatest"></div></div>
 <script>
-  fetch('https://api.github.com/repos/GenoTheMundane/mechasite/commits?per_page=1')
+  fetch('https://api.github.com/repos/mechagic/mechagic.github.io/commits?per_page=1')
       .then(res => res.json())
       .then(res => {
           let sha = res[0].sha;
