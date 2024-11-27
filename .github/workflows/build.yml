@@ -2,7 +2,7 @@ name: Build and Deploy Eleventy
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
   workflow_dispatch:
 
 # Set permissions for GitHub Pages deployment
