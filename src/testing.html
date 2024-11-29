@@ -25,41 +25,39 @@
 <style>
     .charimg {
         background-color:var(--bg);
-        border:var(--bord);
-        border-radius:15px;
-        height: 500px;
+        border:var(--bord3);
+        border-bottom: 0px;
+        border-radius:15px 15px 0px 0px ;
+        height: 450px;
         width: 300px;
-        background-image: url('https://www.pngmart.com/files/3/Sparkle-PNG-Clipart.png');
+        background-image: url('/_img/1placeholder.webp');
         background-size: auto;
+    }
+    .charnme {
+        border:var(--bord3);
+        border-top: 0px;
+        border-radius:0px 0px 15px 15px;
     }
     .invis {
         display: flex;
     }
+
 </style>
 <div id="container">
     <div id="header">
         <div class="header__desktop">
             <span style="font-size: 45px;">
-                <i class="ph ph-bug">
-                </i>
-                MECHAGIC'S FUNZONE
-                <i class="ph ph-bug">
-                </i>
+                {{title}}red
             </span>
         </div>
         <div class="header__mobile">
-            <div style="font-size: 45px;">
-                MECHAGIC'S
-            </div>
-            <div style="font-size: 45px;">
-                FUNZONE
+                {{titlemobi}}red
             </div>
         </div>
     </div>
     <div id="flex">
         <main4>
         <div class="invis">
-        <h1>{{title}}</h1>
         <div class="charimg">test</div>
           {{content}}
         </div>
