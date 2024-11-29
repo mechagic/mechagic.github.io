@@ -7,4 +7,8 @@ propd: A wiki for my Original Characters
 # oc wiki
 ---
 
-Currently being built
+Currently being built.
+
+In-progress: 
+- character page layout
+- thumbnail art
