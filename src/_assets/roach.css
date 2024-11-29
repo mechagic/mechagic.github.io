@@ -185,6 +185,26 @@ main3 {
   margin-bottom:auto;
   order:2;
 }
+
+main4 {
+  background:var(--mn);
+  min-height: 100vh;
+  height: auto !important;
+  height: 100vh;
+  width:70%;
+  box-shadow:2px 2px 58px 0px var(--glw);
+  border-left:var(--bord2);
+  border-right:var(--bord2);
+  border-top:var(--bord2);
+  padding:25px;
+  border-radius:25px 25px 0px 0px;
+  margin-top:3%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:auto;
+  order:2;
+}
+
 /* what's this "order" stuff about??
     allow me to explain!
     if you're using both sidebars,the "order" value
@@ -557,6 +577,7 @@ th:last-child,td:last-child {
   border-right:var(--bord3);
   border-radius:0px 0px 15px 15px;
 }
+
 /* BELOW THIS POINT IS MEDIA QUERY */
 
     /* so you wanna change the width of your page?
@@ -599,7 +620,7 @@ hr.vr {
   width:100%;
   margin:0px 0px 3% 0px;
 }
-main2,main3 {
+main2,main3,main4 {
   height:100%;
   width:100%;
   border-left:0px;
