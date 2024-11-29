@@ -28,18 +28,23 @@
         border:var(--bord3);
         border-bottom: 0px;
         border-radius:15px 15px 0px 0px ;
-        height: 450px;
-        width: 300px;
+        height: 64.103vh;
+        width: 19.531vw;
         background-image: url('/_img/1placeholder.webp');
         background-size: auto;
     }
-    .charnme {
+    .charname {
         border:var(--bord3);
-        border-top: 0px;
         border-radius:0px 0px 15px 15px;
+        padding: 15px;
+        height: auto;
+        width: 19.531vw;
+        background-color:var(--bg);
+    }
+    h3{
+        margin: 0px;
     }
     .invis {
-        display: flex;
     }
 
 </style>
@@ -58,10 +63,9 @@
     <div id="flex">
         <main4>
         <div class="invis">
-        <div class="charimg">test</div>
+        <div class="charimg">test</div><div class="charname"><h3>{{name}}Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
           {{content}}
         </div>
-         <center><h3><a href="javascript:window.history.back()">Go Back</a></h3></center>
         </main4>
     </div>
 </div>
