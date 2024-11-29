@@ -16,4 +16,6 @@ In-progress:
 - character art made specifically for the pages
 - as well as a few more things that I don't know how to describe
 
-Things from [tsag_art <i class="ph ph-link"></i>](https://mechagic.github.io/creations/tsag_art/) will be moved here and that page will likely be deleted after the completion of this one
+**Important notes:** <br>
+Progress on the character layout can be viewed [here <i class="ph ph-link"></i>](/testing/).<br>
+Things from [tsag_art <i class="ph ph-link"></i>](/creations/tsag_art/) will be moved here and that page will likely be deleted after the completion of this one.
