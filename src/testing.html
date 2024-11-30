@@ -43,7 +43,7 @@
     h1,h2,h3{
         margin: 0px;
     }
-    .rflex {
+    .rflex, .r2flex {
         display: flex;
         flex-direction:row;
     }
@@ -64,11 +64,23 @@
     .tab, .tabcontent{
         margin-left: 20px;
     }
-    .stick{
-        top:15px;
-        position: sticky;
-    }
 
+@media only screen and (max-width:800px) {
+    .rflex,.cflex{
+        display: block;
+    }
+    .r2flex{
+        margin-right: auto;
+        margin-left: 30%;
+    }
+    .clrcnt{
+        border-radius: 100%;
+        width: 30px;
+        height: 30px;
+        margin: 5px;
+        border:var(--bord3);
+    }
+}
 
 </style>
 <body>
@@ -80,7 +92,9 @@
         </span>
       </div>
       <div class="header__mobile">
-        ocverse name
+        <span style="font-size: 45px;">
+          ocverse name
+        </span>
       </div>
     </div>
   </div>
@@ -88,7 +102,7 @@
     <main4>
       <div class="rflex">
         <div class="invis">
-         <div class="stick">
+         <div class="cflex">
           <div class="charimg"></div>
           <div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
          </div>
@@ -120,15 +134,15 @@
               <div class="bx2">
                 <b>COLORS</b>
                 <hr class="th">
-                <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
-                <div class="rflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
-                <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
               </div>
             </div>
           </div>
           <div class="invis">
               <div class="tab">
-                <button class="tablinks" onclick="openCity(event, '1')">Personality</button>
+                <button class="tablinks" onclick="openCity(event, '1')" id="defaultOpen">Personality</button>
                 <button class="tablinks" onclick="openCity(event, '2')">Biography</button>
                 <button class="tablinks" onclick="openCity(event, '3')">Abilities</button>
                 <button class="tablinks" onclick="openCity(event, '4')">More Lore</button>
