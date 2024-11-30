@@ -79,7 +79,9 @@
       <div class="invis">
         <div class="charimg"></div><div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
       </div>
-      <div class="invis"><div class="bx2">
+      <div class="invis"style="display: flex; flex-direction:coloumn;">
+        <div class="invis"style="display: flex; flex-direction:row;">
+          <div class="invis"><div class="bx2">
           <h2>INFORMATION</h2>
           <hr>
           <div class="wflex">
@@ -97,11 +99,30 @@
             <b>ALTERNATE NAME:</b> alias <br>
           </p>
           </div></div></div>
-      <div class="invis"><div class="bx2">
+          <div class="invis"><div class="bx2">
         <b>COLORS</b><hr class="th">
             <div class="wflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
             <div class="wflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
             <div class="wflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+          </div>
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p> 
+</div>
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
+        </div>
       </div>
     </div>
   </main4>
