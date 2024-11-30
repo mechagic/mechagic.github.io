@@ -22,7 +22,7 @@ Have a button that I made:
 <br><br>
 <img class="bton" src="/_img/1button.webp">
 <br><br>
-<textarea class="copyButton"><a href="https://mechagic.lexiqqq.com/" target="_blank"><img src="https://i.ibb.co/wyKpKxK/1button.png"></a></textarea>
+<textarea class="copyButton"><a href="https://mechagic.github.io/" target="_blank"><img src="https://i.ibb.co/wyKpKxK/1button.png"></a></textarea>
 </div>
  <hr class="vr">
 <div class="crnrht">
