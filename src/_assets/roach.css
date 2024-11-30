@@ -62,7 +62,7 @@ body {
   margin:0;
   background-color:var(--bg);
   /* you can delete the line below if you'd prefer to not use an image */
-  background-size:80px;
+  background-size:11.396vh;
   color:var(--mn-fnt);
   background-image:var(--bg-img);
   background-attachment: fixed;
@@ -129,7 +129,7 @@ body {
 /* this colors BOTH sidebars
     if you want to style them separately,create styles for #leftSidebar and #rightSidebar */
     aside {
-  width:250px;
+  width:16.276vw;
   padding:20px;
   overflow-y:auto;
   background:var(--grdnt);
