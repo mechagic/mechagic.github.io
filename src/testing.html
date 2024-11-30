@@ -41,11 +41,16 @@
         width: 19.531vw;
         background-color:var(--bg);
     }
-    h3{
+    h1,h2,h3{
         margin: 0px;
     }
-    .invis {
+    .wflex {
+        display: flex;
     }
+    .invis {
+        display:block;
+    }
+
 
 </style>
 <div id="container">
@@ -62,10 +67,17 @@
     </div>
     <div id="flex">
         <main4>
-        <div class="invis">
-        <div class="charimg">test</div><div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
-        </div>
-        <p>testing</p>
+           <div class="wflex">
+            <div class="invis">
+              <div class="charimg">test</div><div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
+            </div>
+            <div class="invis">
+                  <div class="bx1">
+                    <h2>INFORMATION</h2>
+                    <hr>
+            </div>
+            </div>
+           </div>
         </main4>
     </div>
 </div>
