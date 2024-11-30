@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-     <title>Mechagic's Fun {{title}}</title>
+     <meta name="title" content="Mechagic's Fun Zone" />
      <link rel="stylesheet" href="{{ '/_assets/roach.css' | url }}">
      <link rel="stylesheet" href="{{ '/_assets/baguetteBox.min.css' | url }}">
      <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@
  <style>
     .charimg {
         background-color:var(--bg);
-        background-image: url('/_img/1placeholder.webp');
+        background-image: url('{{charimg}}');
         border:var(--bord3);
         border-bottom: 0px;
         border-radius:15px 15px 0px 0px ;
@@ -105,12 +105,12 @@
     <div id="header">
       <div class="header__desktop">
         <span style="font-size: 45px;">
-          ocverse name
+          {{ocversedesk}}
         </span>
       </div>
       <div class="header__mobile">
         <span style="font-size: 45px;">
-          ocverse name
+          {{ocversemob}}
         </span>
       </div>
     </div>
@@ -120,7 +120,7 @@
       <div class="rflex">
         <div class="invis">
           <div class="charimg"></div>
-          <div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
+          <div class="charname"><h3>{{name}} | <a href="javascript:window.history.back()">Go Back</a></h3></div>
         </div>
         <div class="cflex">
           <div class="rflex">
@@ -130,17 +130,17 @@
                 <hr>
                 <div class="rflex">
                   <p>
-                    <b>AGE:</b> age<br>
-                    <b>SPECIES:</b> species<br>
-                    <b>PRONOUNS:</b> pronouns<br>
-                    <b>GENDER:</b> gender<br>
+                    <b>AGE:</b> {{age}}<br>
+                    <b>SPECIES:</b> {{species}}<br>
+                    <b>PRONOUNS:</b> {{pronouns}}<br>
+                    <b>GENDER:</b> {{gender}}<br>
                   </p>
                   <hr class="vr" style="margin: 0px 10px 0px 10px;">
                   <p>
-                    <b>ORIENTATION:</b> orientation<br>
-                    <b>ALIGNMENT:</b> alignment<br>
-                    <b>OCCUPATION:</b> occupation<br>
-                    <b>FAVORITE COLOR:</b> favorite color
+                    <b>ORIENTATION:</b> {{orientation}}<br>
+                    <b>OCCUPATION:</b> {{occupation}}<br>
+                    <b>VOICE CLAIM:</b> {{voiceclaim}}<br>
+                    <b>ALIGNMENT:</b> {{alignment}}
                   </p>
                 </div>
               </div>
@@ -149,9 +149,7 @@
               <div class="bx2">
                 <b>COLORS</b>
                 <hr class="th">
-                <div class="r2flex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
-                <div class="r2flex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
-                <div class="r2flex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+                {{color}}
               </div>
             </div>
           </div>
@@ -163,16 +161,16 @@
                 <button class="tablinks" onclick="openCity(event, '4')">More Lore</button>
               </div>
               <div id="1" class="tabcontent">
-                <p>Personality</p>
+                <p>{{personality}}</p>
               </div>
               <div id="2" class="tabcontent">
-                <p>Biography</p>
+                <p>{{biography}}</p>
               </div>
               <div id="3" class="tabcontent">
-                <p>Abilities</p>
+                <p>{{abilities}}</p>
               </div>
               <div id="4" class="tabcontent">
-                <p>More Lore</p>
+                <p>{{morelore}}</p>
               </div>
           </div>
         </div>
@@ -182,12 +180,7 @@
       <br>
       <div class="bx2">
          <div class="gallery">
-        <a href="/_art/nov252024.webp" data-caption="Original quote from Unorthodox Kitten | afacelessdream on twitter | November 25 2024">
-            <img class="thumb" src="/_art/th/nov252024.webp" alt="Original quote from Unorthodox Kitten | afacelessdream on twitter | November 25 2024">
-        </a>
-        <a href="/_art/oct292024.webp" data-caption="Tired of pacing, tired of the wind, tired of the rocks and tired of learning when there is no more to learn | My OC, Cogito | October 29 2024">
-            <img class="thumb" src="/_art/th/oct292024.webp" alt="Tired of pacing, tired of the wind, tired of the rocks and tired of learning when there is no more to learn | My OC, Cogito |October 29 2024">
-        </a>
+          {{content | safe}}
          </div>
       </div>
     </main4>
