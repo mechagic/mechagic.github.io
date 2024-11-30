@@ -39,6 +39,43 @@ A buncha people I met on the `r/neocities discord server`
 
 [<img class="bton" style="image-rendering: smooth;" src="https://xobyte.org/files/poyo-reporter.png">](https://reporter.poyo.study/) [<img class="bton" src="https://april.lexiqqq.com/buttons/button.webp">](https://april.lexiqqq.com/) [<img class="bton" src="https://xobyte.org/files/button.gif">](https://xobyte.org/) [<img class="bton" src="https://moosyu.github.io/assets/swirlCatppuccin.gif">](https://moosyu.github.io/)
 
+## Webrings
+
+<div class="invis">
+     <button style="margin:0px 0px 15px 0px;" class="accordion">Open</button>
+        <div class="panel">
+          <div style="width:90%; margin:auto;" class="bx2">
+            <div class="flex">
+                    <div style="width:20%; margin: auto;">
+                      <a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a><br>
+                      <a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a>
+                      <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a>
+                      <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
+                    </div>
+                    <div id='gfdkris'>
+                    <script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-variables.js"></script>
+                    <script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-widget.js"></script>
+                    </div>
+                    <div style="width: fit-content; margin: auto;" id='furryring'>
+                        <script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
+                        <script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
+                    </div>
+                    <div id='xenicRing'>
+                        <script type="text/javascript" src="https://xenics.neocities.org/onionring-variables.js"></script>
+                        <script type="text/javascript" src="https://xenics.neocities.org/onionring-widget.js"></script>
+                        <link rel="stylesheet" href="https://xenics.neocities.org/onionring.css">
+                    </div>
+                    <script src="https://webcatz.neocities.org/beepbox-webring/ring.js"></script>
+                    <!--START OF SELF INSERT WEBRING-->
+                    <div id="selfinsertwebring">
+                        <script src="/_assets/showWebring.js"></script>
+                    </div>
+                    <!--END OF SELF INSERT WEBRING-->
+        </div>
+        </div>
+      </div>
+</div>
+
 ## Latest Updates
 Code taken from [moosyu <i class="ph ph-link"></i>](https://moosyu.nekoweb.org/pages/guides/latest_commit/)
 <br> `Disclaimer`: It takes a while for the changes to appear on the website
@@ -80,40 +117,3 @@ Code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
     html2 += ` <p> <a href='https://status.cafe/users/mechagic'> See more at StatusCafe <i class="ph ph-link"></i></a></p> `; document.getElementById("feed-reader").innerHTML = html; document.getElementById("feed-reader").innerHTML = html2;
   })
 </script>
-
-## Webrings
-
-<div class="invis">
-     <button style="margin:0px 0px 15px 0px;" class="accordion">Open</button>
-        <div class="panel">
-          <div style="width:90%; margin:auto;" class="bx2">
-            <div class="flex">
-                    <div style="width:20%; margin: auto;">
-                      <a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a><br>
-                      <a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a>
-                      <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a>
-                      <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
-                    </div>
-                    <div id='gfdkris'>
-                    <script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-variables.js"></script>
-                    <script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-widget.js"></script>
-                    </div>
-                    <div style="width: fit-content; margin: auto;" id='furryring'>
-                        <script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
-                        <script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
-                    </div>
-                    <div id='xenicRing'>
-                        <script type="text/javascript" src="https://xenics.neocities.org/onionring-variables.js"></script>
-                        <script type="text/javascript" src="https://xenics.neocities.org/onionring-widget.js"></script>
-                        <link rel="stylesheet" href="https://xenics.neocities.org/onionring.css">
-                    </div>
-                    <script src="https://webcatz.neocities.org/beepbox-webring/ring.js"></script>
-                    <!--START OF SELF INSERT WEBRING-->
-                    <div id="selfinsertwebring">
-                        <script src="/_assets/showWebring.js"></script>
-                    </div>
-                    <!--END OF SELF INSERT WEBRING-->
-        </div>
-        </div>
-      </div>
-</div>
