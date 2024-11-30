@@ -64,6 +64,10 @@
     .tab, .tabcontent{
         margin-left: 20px;
     }
+    .stick{
+        top:15px;
+        position: sticky;
+    }
 
 
 </style>
@@ -84,8 +88,10 @@
     <main4>
       <div class="rflex">
         <div class="invis">
+         <div class="stick">
           <div class="charimg"></div>
           <div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
+         </div>
         </div>
         <div class="cflex">
           <div class="rflex">
@@ -95,17 +101,17 @@
                 <hr>
                 <div class="rflex">
                   <p>
-                    <b>AGE:</b>age<br>
-                    <b>SPECIES:</b>species<br>
-                    <b>PRONOUNS:</b>pronouns<br>
-                    <b>GENDER:</b>gender<br>
+                    <b>AGE:</b> age<br>
+                    <b>SPECIES:</b> species<br>
+                    <b>PRONOUNS:</b> pronouns<br>
+                    <b>GENDER:</b> gender<br>
                   </p>
                   <hr class="vr" style="margin: 0px 10px 0px 10px;">
                   <p>
-                    <b>ORIENTATION:</b>orientation<br>
-                    <b>ALIGNMENT:</b>alignment<br>
-                    <b>OCCUPATION:</b>occupation<br>
-                    <b>FAVORITE COLOR:</b>favorite color
+                    <b>ORIENTATION:</b> orientation<br>
+                    <b>ALIGNMENT:</b> alignment<br>
+                    <b>OCCUPATION:</b> occupation<br>
+                    <b>FAVORITE COLOR:</b> favorite color
                   </p>
                 </div>
               </div>
@@ -122,21 +128,22 @@
           </div>
           <div class="invis">
               <div class="tab">
-                <button class="tablinks" onclick="openCity(event, '1')">London</button>
-                <button class="tablinks" onclick="openCity(event, '2')">Paris</button>
-                <button class="tablinks" onclick="openCity(event, '3')">Tokyo</button>
+                <button class="tablinks" onclick="openCity(event, '1')">Personality</button>
+                <button class="tablinks" onclick="openCity(event, '2')">Biography</button>
+                <button class="tablinks" onclick="openCity(event, '3')">Abilities</button>
+                <button class="tablinks" onclick="openCity(event, '4')">More Lore</button>
               </div>
               <div id="1" class="tabcontent">
-                <h3>London</h3>
-                <p>London is the capital city of England.</p>
+                <p>Personality</p>
               </div>
               <div id="2" class="tabcontent">
-                <h3>Paris</h3>
-                <p>Paris is the capital of France.</p>
+                <p>Biography</p>
               </div>
               <div id="3" class="tabcontent">
-                <h3>Tokyo</h3>
-                <p>Tokyo is the capital of Japan.</p>
+                <p>Abilities</p>
+              </div>
+              <div id="4" class="tabcontent">
+                <p>More Lore</p>
               </div>
           </div>
         </div>
