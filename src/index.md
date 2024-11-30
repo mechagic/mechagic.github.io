@@ -94,6 +94,10 @@ Code taken from [bechnokid <i class="ph ph-link"></i>](https://bechnokid.neociti
                       <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a>
                       <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
                     </div>
+                    <div id='gfdkris'>
+                    <script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-variables.js"></script>
+                    <script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-widget.js"></script>
+                    </div>
                     <div style="width: fit-content; margin: auto;" id='furryring'>
                         <script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
                         <script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
