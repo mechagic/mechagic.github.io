@@ -21,8 +21,7 @@
      <meta property="og:description" content="{{propd}}" />
      <meta property="og:image" content="https://mechagic.lexiqqq.com/_img/1favicon.webp" />
  </head>
-  <body>
-<style>
+ <style>
     .charimg {
         background-color:var(--bg);
         background-image: url('/_img/1placeholder.webp');
@@ -44,9 +43,13 @@
     h1,h2,h3{
         margin: 0px;
     }
-    .wflex {
+    .rflex {
         display: flex;
         flex-direction:row;
+    }
+    .cflex {
+        display: flex;
+        flex-direction:column;
     }
     .bx2{
         margin-left: 20px;
@@ -58,76 +61,88 @@
         margin: 5px;
         border:var(--bord3);
     }
+    .tab, .tabcontent{
+        margin-left: 20px;
+    }
 
 
 </style>
-<div id="container">
-  <div id="header">
-    <div class="header__desktop">
-      <span style="font-size: 45px;">
+<body>
+  <div id="container">
+    <div id="header">
+      <div class="header__desktop">
+        <span style="font-size: 45px;">
+          ocverse name
+        </span>
+      </div>
+      <div class="header__mobile">
         ocverse name
-      </span>
-    </div>
-    <div class="header__mobile">
-      ocverse name
+      </div>
     </div>
   </div>
-</div>
-<div id="flex">
-  <main4>
-    <div class="wflex">
-      <div class="invis">
-        <div class="charimg"></div><div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
-      </div>
-      <div class="invis"style="display: flex; flex-direction:coloumn;">
-        <div class="invis"style="display: flex; flex-direction:row;">
-          <div class="invis"><div class="bx2">
-          <h2>INFORMATION</h2>
-          <hr>
-          <div class="wflex">
-          <p>
-            <b>AGE:</b> age <br>
-            <b>SPECIES:</b> species <br>
-            <b>PRONOUNS:</b> pronouns <br>
-            <b>GENDER:</b> gender <br>
-          </p>
-          <hr class="vr" style="margin: 0px 10px 0px 10px;">
-          <p>
-            <b>ORIENTATION:</b> orientation <br>
-            <b>ALIGNMENT:</b> alignment <br>
-            <b>OCCUPATION:</b> occupation <br>
-            <b>ALTERNATE NAME:</b> alias <br>
-          </p>
-          </div></div></div>
-          <div class="invis"><div class="bx2">
-        <b>COLORS</b><hr class="th">
-            <div class="wflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
-            <div class="wflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
-            <div class="wflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+  <div id="flex">
+    <main4>
+      <div class="rflex">
+        <div class="invis">
+          <div class="charimg"></div>
+          <div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
+        </div>
+        <div class="cflex">
+          <div class="rflex">
+            <div class="invis">
+              <div class="bx2">
+                <h2>INFORMATION</h2>
+                <hr>
+                <div class="rflex">
+                  <p>
+                    <b>AGE:</b>age<br>
+                    <b>SPECIES:</b>species<br>
+                    <b>PRONOUNS:</b>pronouns<br>
+                    <b>GENDER:</b>gender<br>
+                  </p>
+                  <hr class="vr" style="margin: 0px 10px 0px 10px;">
+                  <p>
+                    <b>ORIENTATION:</b>orientation<br>
+                    <b>ALIGNMENT:</b>alignment<br>
+                    <b>OCCUPATION:</b>occupation<br>
+                    <b>FAVORITE COLOR:</b>favorite color
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="invis">
+              <div class="bx2">
+                <b>COLORS</b>
+                <hr class="th">
+                <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+                <div class="rflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
+                <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+              </div>
+            </div>
           </div>
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, '1')">London</button>
-  <button class="tablinks" onclick="openCity(event, '2')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, '3')">Tokyo</button>
-</div>
-<div id="1" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
-</div>
-<div id="2" class="tabcontent">
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p> 
-</div>
-<div id="3" class="tabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
+          <div class="invis">
+              <div class="tab">
+                <button class="tablinks" onclick="openCity(event, '1')">London</button>
+                <button class="tablinks" onclick="openCity(event, '2')">Paris</button>
+                <button class="tablinks" onclick="openCity(event, '3')">Tokyo</button>
+              </div>
+              <div id="1" class="tabcontent">
+                <h3>London</h3>
+                <p>London is the capital city of England.</p>
+              </div>
+              <div id="2" class="tabcontent">
+                <h3>Paris</h3>
+                <p>Paris is the capital of France.</p>
+              </div>
+              <div id="3" class="tabcontent">
+                <h3>Tokyo</h3>
+                <p>Tokyo is the capital of Japan.</p>
+              </div>
+          </div>
         </div>
       </div>
-    </div>
-  </main4>
-</div>
-  </body>
+    </main4>
+</body>
 </html>
 
 <script>
