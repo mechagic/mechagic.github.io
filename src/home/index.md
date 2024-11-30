@@ -39,10 +39,10 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
                 <button class="tablinks" onclick="openCity(event, '3')">
                     They
                 </button>
-                <button class="tablinks" onclick="openCity(event, '4')" id="defaultOpen">
+                <button class="tablinks" onclick="openCity(event, '4')">
                     It
                 </button>
-                <button class="tablinks" onclick="openCity(event, '5')" id="defaultOpen">
+                <button class="tablinks" onclick="openCity(event, '5')">
                     Xe
                 </button>
                 <button class="tablinks" onclick="openCity(event, '6')">
