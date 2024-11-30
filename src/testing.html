@@ -46,41 +46,64 @@
     }
     .wflex {
         display: flex;
+        flex-direction:row;
     }
-    .invis {
-        display:block;
+    .bx2{
+        margin-left: 20px;
+    }
+    .clrcnt{
+        border-radius: 100%;
+        width: 2vw;
+        height: 4.3vh;
+        margin: 5px;
+        border:var(--bord3);
     }
 
 
 </style>
 <div id="container">
-    <div id="header">
-        <div class="header__desktop">
-            <span style="font-size: 45px;">
-                ocverse name
-            </span>
-        </div>
-        <div class="header__mobile">
-                ocverse name
-            </div>
-        </div>
+  <div id="header">
+    <div class="header__desktop">
+      <span style="font-size: 45px;">
+        ocverse name
+      </span>
     </div>
-    <div id="flex">
-        <main4>
-           <div class="wflex">
-            <div class="invis">
-              <div class="charimg">test</div><div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
-            </div>
-            <div class="invis">
-                  <div class="bx1">
-                    <h2>INFORMATION</h2>
-                    <hr>
-                    <p>bowser</p>
-            </div>
-            </div>
-           </div>
-        </main4>
+    <div class="header__mobile">
+      ocverse name
     </div>
+  </div>
+</div>
+<div id="flex">
+  <main4>
+    <div class="wflex">
+      <div class="invis">
+        <div class="charimg">test</div><div class="charname"><h3>Name | <a href="javascript:window.history.back()">Go Back</a></h3></div>
+      </div>
+      <div class="invis"><div class="bx2">
+          <h2>INFORMATION</h2>
+          <hr>
+          <div class="wflex">
+          <p>
+            <b>AGE:</b> age <br>
+            <b>SPECIES:</b> species <br>
+            <b>PRONOUNS:</b> pronouns <br>
+            <b>GENDER:</b> gender <br>
+          </p>
+          <hr class="vr" style="margin: 0px 10px 0px 10px;">
+          <p>
+            <b>ORIENTATION:</b> orientation <br>
+            <b>ALIGNMENT:</b> alignment <br>
+            <b>OCCUPATION:</b> occupation <br>
+            <b>ALTERNATE NAME:</b> alias <br>
+          </p>
+          </div></div></div>
+      <div class="invis"><div class="bx2">
+        <b>COLORS</b><hr class="th">
+            <div class="wflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+            <div class="wflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
+            <div class="wflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+      </div></div>
+  </main4>
 </div>
   </body>
 </html>
