@@ -63,14 +63,13 @@
         margin: 5px;
         border:var(--bord3);
     }
-
 @media only screen and (max-width:800px) {
     .rflex,.cflex{
         display: block;
     }
     .r2flex{
-        margin-right: 50%;
         margin-left: auto;
+        margin-right: 50%;
     }
     .clrcnt{
         border-radius: 100%;
@@ -93,9 +92,6 @@
         background-color:var(--bg);
         margin-left: auto;
         margin-right: auto;
-    }
-    .bx2, .tab, .tabcontent{
-        margin-left: 0px;
     }
 }
 
@@ -149,10 +145,7 @@
               <div class="bx2">
                 <b>COLORS</b>
                 <hr class="th">
-                <div class="r2flex"><div class="clrcnt" style="background:{{col1}};"></div><div class="clrcnt" style="background:{{col2}};"></div><div class="clrcnt" style="background:{{col3}};"></div><div class="clrcnt" style="background:{{col4}};"></div></div>
-                <div class="r2flex"><div class="clrcnt" style="background:{{col5}};"></div><div class="clrcnt" style="background:{{col6}};"></div><div class="clrcnt" style="background:{{col7}};"></div><div class="clrcnt" style="background:{{col8}};"></div></div>
-                <div class="r2flex"><div class="clrcnt" style="background:{{col9}};"></div><div class="clrcnt" style="background:{{col10}};"></div><div class="clrcnt" style="background:{{col11}};"></div><div class="clrcnt" style="background:{{col12}};"></div></div>
-
+                {{color | safe}}
               </div>
             </div>
           </div>

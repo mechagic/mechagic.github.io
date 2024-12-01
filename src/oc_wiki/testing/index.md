@@ -13,21 +13,12 @@ orientation: cat
 occupation: eyes
 voiceclaim: nose
 alignment: mouth
+color: <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+                <div class="rflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
+                <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
 personality: teeth
 biography: ears
 abilities: tongue
 morelore: nostril
-col1: red
-col2: green
-col3: black
-col4: white
-col5: yellow
-col6: purple
-col7: magenta
-col8: grey
-col9: salmon
-col10: orange
-col11: DarkKhaki
-col12: DarkGreen
 ---
 test
