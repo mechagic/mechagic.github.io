@@ -13,9 +13,9 @@ orientation: cat
 occupation: eyes
 voiceclaim: nose
 alignment: mouth
-color: <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
-                <div class="rflex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
-                <div class="rflex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+color: <div class="r2flex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:orange;"></div><div class="clrcnt" style="background:green;"></div><div class="clrcnt" style="background:black;"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:red;"></div><div class="clrcnt" style="background:blue;"></div><div class="clrcnt" style="background:white;"></div></div>
 personality: teeth
 biography: ears
 abilities: tongue

@@ -260,7 +260,7 @@ img.tilt {
   border:var(--bord);
 }
 img.thumb {
-  border-radius:5px;
+  border-radius:15px;
   margin:5px;
   border:var(--bord);
   width:22%;
@@ -585,7 +585,30 @@ th:last-child,td:last-child {
     in order to keep things responsive,take your new height,and then subtrack it by 100. use this new number as the
     "max-width" value below
     */
-
+/*oc stuff*/
+    .clrcnt{
+        border-radius: 100%;
+        width: 2vw;
+        height: 4.3vh;
+        margin: 5px;
+        border:var(--bord3);
+    }
+        .rflex, .r2flex {
+        display: flex;
+        flex-direction:row;
+    }
+    .cflex {
+        display: flex;
+        flex-direction:column;
+    }
+    .charname {
+        border:var(--bord3);
+        border-radius:0px 0px 15px 15px;
+        padding: 15px;
+        height: auto;
+        width: 19.531vw;
+        background-color:var(--bg);
+    }
     @media only screen and (max-width:800px) {
   #flex {
   flex-wrap:wrap;
@@ -677,4 +700,19 @@ aside {
 #navbar ul {
   flex-wrap:wrap;
 }
+/*oc stuff*/
+    .rflex,.cflex{
+        display: block;
+    }
+    .r2flex{
+        margin-left: auto;
+        margin-right: 50%;
+    }
+    .clrcnt{
+        border-radius: 100%;
+        width: 30px;
+        height: 30px;
+        margin: 5px;
+        border:var(--bord3);
+    }
 }

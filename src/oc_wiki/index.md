@@ -21,3 +21,10 @@ Completed:
 **Important notes:** <br>
 Progress on the character layout can be viewed [here <i class="ph ph-link"></i>](/oc_wiki/testing/).<br>
 Things from [tsag_art <i class="ph ph-link"></i>](/creations/tsag_art/) will be moved here and that page will likely be deleted after the completion of this one.
+
+---
+
+## Placeholder
+placeholder verse
+
+ <img class="thumb" src="/_oc/th/ocplaceholder.webp">testing
