@@ -7,9 +7,9 @@
     the images as variables */:root {
   --bg-img:url('/_img/1bg.webp');
   --brdr:#007FFF;
-  --bord: 2px solid var(--brdr);
-  --bord2: 4px solid var(--brdr);
-  --bord3: 3px solid var(--brdr);
+  --bord:2px solid var(--brdr);
+  --bord2:4px solid var(--brdr);
+  --bord3:3px solid var(--brdr);
   --glw:rgba(0,127,255,0.30);
   --bg:#08031A;
   --hdr:linear-gradient(0deg,rgba(8,3,26,1) 0%,rgba(8,3,26,0.75) 50%);
@@ -65,7 +65,7 @@ body {
   background-size:11.396vh;
   color:var(--mn-fnt);
   background-image:var(--bg-img);
-  background-attachment: fixed;
+  background-attachment:fixed;
 }
 * {
   box-sizing:border-box;
@@ -113,19 +113,18 @@ body {
   width:0.3vw;
 }
 /* Track */::-webkit-scrollbar-track {
-  width: 15vw;
-  border-radius: 100px 0px 0px 100px;
+  width:15vw;
+  border-radius:100px 0px 0px 100px;
   background-color:var(--brdr);
-  margin-top: 3vh;
-  margin-bottom: 3vh;
-  padding: 5vh;
+  margin-top:3vh;
+  margin-bottom:3vh;
+  padding:5vh;
 }
 /* Handle */::-webkit-scrollbar-thumb {
-  background: var(--bx);
+  background:var(--bx);
   border-radius:100px;
-  margin: 3vh;
+  margin:3vh;
 }
-
 /* this colors BOTH sidebars
     if you want to style them separately,create styles for #leftSidebar and #rightSidebar */
     aside {
@@ -152,7 +151,7 @@ body {
 }
 main2 {
   background:var(--mn);
-  display: block;
+  display:block;
   width:70%;
   height:86vh;
   text-align:center;
@@ -161,17 +160,17 @@ main2 {
   border:var(--bord2);
   border-radius:25px;
   padding:25px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 7vh;
-  margin-bottom: 7vh;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:7vh;
+  margin-bottom:7vh;
   order:2;
 }
 main3 {
   background:var(--mn);
-  min-height: 100vh;
-  height: auto !important;
-  height: 100vh;
+  min-height:100vh;
+  height:auto !important;
+  height:100vh;
   width:60%;
   box-shadow:2px 2px 58px 0px var(--glw);
   border-left:var(--bord2);
@@ -185,12 +184,11 @@ main3 {
   margin-bottom:auto;
   order:2;
 }
-
 main4 {
   background:var(--mn);
-  min-height: 100vh;
-  height: auto !important;
-  height: 100vh;
+  min-height:100vh;
+  height:auto !important;
+  height:100vh;
   width:70%;
   box-shadow:2px 2px 58px 0px var(--glw);
   border-left:var(--bord2);
@@ -204,7 +202,6 @@ main4 {
   margin-bottom:auto;
   order:2;
 }
-
 /* what's this "order" stuff about??
     allow me to explain!
     if you're using both sidebars,the "order" value
@@ -265,6 +262,14 @@ img.thumb {
   border:var(--bord);
   width:22%;
 }
+img.octhumb {
+  border:var(--bord3);
+  border-bottom:0px;
+  border-radius:15px 15px 0px 0px;
+  margin: 5px;
+  margin-bottom:0px;
+  width:100%;
+}
 img.tramb {
   width:22%;
   margin:5px;
@@ -274,7 +279,7 @@ img.tramb {
   border-bottom:var(--bord);
   background:var(--grdnt3);
 }
-li{
+li {
   margin-bottom:5px
 }
 hr {
@@ -294,7 +299,10 @@ hr.vr {
   margin-right:4px;
 }
 /*text mod*/
-    h1,h2,h3 {
+p {
+  margin:0px;
+}
+h1,h2,h3 {
   color:var(--sp-fnt);
 }
 h1 {
@@ -358,7 +366,7 @@ code {
   background-color:transparent;
 }
 .flex {
-  display: inline-grid;
+  display:inline-grid;
 }
 #feed-reader {
   background-color:var(--bg);
@@ -577,7 +585,44 @@ th:last-child,td:last-child {
   border-right:var(--bord3);
   border-radius:0px 0px 15px 15px;
 }
-
+    .cont {  
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+/*oc stuff*/
+    .clrcnt {
+  border-radius:100%;
+  width:2vw;
+  height:4.3vh;
+  margin:5px;
+  border:var(--bord3);
+}
+.rflex,.r2flex {
+  display:flex;
+  flex-direction:row;
+}
+.cflex {
+  display:flex;
+  flex-direction:column;
+}
+.charname {
+  border:var(--bord3);
+  border-radius:0px 0px 15px 15px;
+  padding:15px;
+  height:auto;
+  width:19.531vw;
+  background-color:var(--bg);
+}
+.name {
+  background-color:var(--bg);
+  border:var(--bord3);
+  border-radius:0px 0px 15px 15px;
+  margin:5px;
+  margin-top:0px;
+  padding:15px;
+  text-align:center;
+  width:100%;
+}
 /* BELOW THIS POINT IS MEDIA QUERY */
 
     /* so you wanna change the width of your page?
@@ -585,31 +630,7 @@ th:last-child,td:last-child {
     in order to keep things responsive,take your new height,and then subtrack it by 100. use this new number as the
     "max-width" value below
     */
-/*oc stuff*/
-    .clrcnt{
-        border-radius: 100%;
-        width: 2vw;
-        height: 4.3vh;
-        margin: 5px;
-        border:var(--bord3);
-    }
-        .rflex, .r2flex {
-        display: flex;
-        flex-direction:row;
-    }
-    .cflex {
-        display: flex;
-        flex-direction:column;
-    }
-    .charname {
-        border:var(--bord3);
-        border-radius:0px 0px 15px 15px;
-        padding: 15px;
-        height: auto;
-        width: 19.531vw;
-        background-color:var(--bg);
-    }
-    @media only screen and (max-width:800px) {
+@media only screen and (max-width:800px) {
   #flex {
   flex-wrap:wrap;
 }
@@ -643,6 +664,10 @@ hr.vr {
   width:100%;
   margin:0px 0px 3% 0px;
 }
+    .cont {  
+        display: grid;
+        grid-template-columns: auto auto;
+    }
 main2,main3,main4 {
   height:100%;
   width:100%;
@@ -701,18 +726,26 @@ aside {
   flex-wrap:wrap;
 }
 /*oc stuff*/
-    .rflex,.cflex{
-        display: block;
-    }
-    .r2flex{
-        margin-left: auto;
-        margin-right: 50%;
-    }
-    .clrcnt{
-        border-radius: 100%;
-        width: 30px;
-        height: 30px;
-        margin: 5px;
-        border:var(--bord3);
-    }
+    .rflex,.cflex {
+  display:block;
+}
+.clrcnt {
+  border-radius:100%;
+  width:30px;
+  height:30px;
+  margin:5px;
+  border:var(--bord3);
+}
+img.octhumb {
+  border:var(--bord3);
+  border-bottom:0px;
+  border-radius:15px 15px 0px 0px;
+  margin: 5px;
+  margin-bottom:0px;
+  width:150%;
+}
+.name{
+  width: 150%;
+  margin-top: -5px;
+}
 }

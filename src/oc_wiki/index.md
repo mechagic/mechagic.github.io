@@ -4,6 +4,21 @@ title: OC Wiki
 ogd: A wiki for my Original Characters
 propd: A wiki for my Original Characters
 ---
+<style>
+	.cflex{
+		margin: 10px;
+		width: 90%;
+	}
+    .cont {  
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+@media only screen and (max-width:800px) {
+    .cflex{
+		margin: 10px;
+		width: 50%;
+	}
+</style>
 # oc wiki
 ---
 
@@ -26,5 +41,30 @@ Things from [tsag_art <i class="ph ph-link"></i>](/creations/tsag_art/) will be 
 
 ## Placeholder
 placeholder verse
-
- <img class="thumb" src="/_oc/th/ocplaceholder.webp">testing
+<br><br>
+<div class="cont">
+	<div class="cflex">
+		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<div class="name">
+			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+		</div>
+	</div>
+	<div class="cflex">
+		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<div class="name">
+			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+		</div>
+	</div>
+	<div class="cflex">
+		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<div class="name">
+			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+		</div>
+	</div>
+	<div class="cflex">
+		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<div class="name">
+			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+		</div>
+	</div>
+</div>
