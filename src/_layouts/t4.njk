@@ -53,8 +53,8 @@
         display: flex;
         flex-direction:column;
     }
-    .bx2{
-        margin-left: 20px;
+    .bx2, .tab, .tabcontent{
+        margin-left: 25px;
     }
     .clrcnt{
         border-radius: 100%;
@@ -63,17 +63,14 @@
         margin: 5px;
         border:var(--bord3);
     }
-    .tab, .tabcontent{
-        margin-left: 20px;
-    }
 
 @media only screen and (max-width:800px) {
     .rflex,.cflex{
         display: block;
     }
     .r2flex{
-        margin-right: auto;
-        margin-left: 30%;
+        margin-right: 50%;
+        margin-left: auto;
     }
     .clrcnt{
         border-radius: 100%;
@@ -96,6 +93,9 @@
         background-color:var(--bg);
         margin-left: auto;
         margin-right: auto;
+    }
+    .bx2, .tab, .tabcontent{
+        margin-left: 0px;
     }
 }
 
@@ -126,7 +126,7 @@
           <div class="rflex">
             <div class="invis">
               <div class="bx2">
-                <h2>INFORMATION</h2>
+                <h2>INFO</h2>
                 <hr>
                 <div class="rflex">
                   <p>
@@ -149,7 +149,10 @@
               <div class="bx2">
                 <b>COLORS</b>
                 <hr class="th">
-                {{color}}
+                <div class="r2flex"><div class="clrcnt" style="background:{{col1}};"></div><div class="clrcnt" style="background:{{col2}};"></div><div class="clrcnt" style="background:{{col3}};"></div><div class="clrcnt" style="background:{{col4}};"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:{{col5}};"></div><div class="clrcnt" style="background:{{col6}};"></div><div class="clrcnt" style="background:{{col7}};"></div><div class="clrcnt" style="background:{{col8}};"></div></div>
+                <div class="r2flex"><div class="clrcnt" style="background:{{col9}};"></div><div class="clrcnt" style="background:{{col10}};"></div><div class="clrcnt" style="background:{{col11}};"></div><div class="clrcnt" style="background:{{col12}};"></div></div>
+
               </div>
             </div>
           </div>
