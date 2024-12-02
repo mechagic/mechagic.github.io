@@ -21,7 +21,7 @@ propd: A wiki for my Original Characters
     .cont {  
         display: grid;
         grid-template-columns: auto auto;
-        margin: 0px -5% 0px;
+        margin: 0px -7% 0px;
     }
 </style>
 # oc wiki
