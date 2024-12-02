@@ -24,25 +24,20 @@
      <meta property="og:image" content="https://mechagic.github.io/_img/1favicon.webp" />
  </head>
  <style>
-    .charimg {
-        background-color:var(--bg);
-        background-image: url('{{charimg}}');
+    img.charimg {
+        width: 100%;
         border:var(--bord3);
         border-bottom: 0px;
         border-radius:15px 15px 0px 0px ;
-        height: 64.103vh;
-        width: 19.531vw;
-        background-size: auto;
     }
     .charname {
         border:var(--bord3);
         border-radius:0px 0px 15px 15px;
         padding: 15px;
         height: auto;
-        width: 19.531vw;
+        width: 100%;
         background-color:var(--bg);
-        background-attachment: fixed;
-        background-position: center;
+        margin-top: -5px;
     }
     h1,h2,h3{
         margin: 0px;
@@ -54,19 +49,15 @@
       padding: 25px;
     }
 @media only screen and (max-width:800px) {
-    .charimg {
-        height: 64.103vh;
-        width: 66.667vw;
-        background-size: auto;
-        margin-left: auto;
+    img.charimg {
+        width: 90%;
+        margin-left: 3.5%;
         margin-right: auto;
     }
     .charname {
-        height: auto;
-        width: 66.667vw;
+        width: 90%;
         background-color:var(--bg);
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 3.5%;
     }
     .bx2, .tab, .tabcontent{
         margin-left: 0px;
@@ -93,7 +84,7 @@
     <main4>
       <div class="rflex">
         <div class="invis">
-          <div class="charimg"></div>
+          <img class="charimg" src="{{charimg}}">
           <div class="charname"><h3>{{name}} | <a href="javascript:window.history.back()">Go Back</a></h3></div>
         </div>
         <div class="cflex">
