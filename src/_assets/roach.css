@@ -236,6 +236,7 @@ iframe.music {
   border:var(--bord3);
   border-radius:15px;
   width:50%;
+  margin:10px 5px 25px;
 }
 img {
   image-rendering:pixelated;
@@ -708,6 +709,7 @@ img.tramb {
 main {
   order:2;
   height:auto;
+  width: 100%;
   padding:25px;
   margin:0%;
   border-left:0px;
