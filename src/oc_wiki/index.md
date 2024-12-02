@@ -18,6 +18,10 @@ propd: A wiki for my Original Characters
 		margin: 10px;
 		width: 50%;
 	}
+    .cont {  
+        display: grid;
+        grid-template-columns: auto auto;
+    }
 </style>
 # oc wiki
 ---
