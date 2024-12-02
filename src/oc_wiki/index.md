@@ -15,7 +15,7 @@ propd: A wiki for my Original Characters
     }
 @media only screen and (max-width:800px) {
     .cflex{
-		margin: 10px;
+		margin: 0px;
 		width: 50%;
 	}
     .cont {  
