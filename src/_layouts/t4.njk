@@ -30,6 +30,9 @@
         border-bottom: 0px;
         border-radius:15px 15px 0px 0px ;
     }
+    p.half{
+      width: 100%;
+    }
     .charname {
         border:var(--bord3);
         border-radius:0px 0px 15px 15px;
@@ -48,6 +51,12 @@
     .tabcontent{
       padding: 25px;
     }
+    .float{
+        position: sticky;
+        width: 20vw;
+        top: 15px;
+    }
+
 @media only screen and (max-width:800px) {
     img.charimg {
         width: 90%;
@@ -61,6 +70,13 @@
     }
     .bx2, .tab, .tabcontent{
         margin-left: 0px;
+    }
+    .float{
+    position: static; 
+    width: 100%;
+    }
+    p.half{
+      width: 100%;
     }
 }
 
@@ -83,10 +99,10 @@
   <div id="flex">
     <main4>
       <div class="rflex">
-        <div class="invis">
+        <div class="invis"><div class="float">
           <img class="charimg" src="{{charimg}}">
           <div class="charname"><h3>{{name}} | <a href="javascript:window.history.back()">Go Back</a></h3></div>
-        </div>
+        </div></div>
         <div class="cflex">
           <div class="rflex">
             <div class="invis">
@@ -94,14 +110,16 @@
                 <h2>INFO</h2>
                 <hr>
                 <div class="rflex">
-                  <p>
+                  <p class="half">
                     <b>AGE:</b> {{age}}<br>
+                    <b>HEIGHT:</b> {{height}}<br>
                     <b>SPECIES:</b> {{species}}<br>
                     <b>PRONOUNS:</b> {{pronouns}}<br>
+                    <b>ALIAS:</b> {{alias}}<br>
                     <b>GENDER:</b> {{gender}}<br>
                   </p>
                   <hr class="vr" style="margin: 0px 10px 0px 10px;">
-                  <p>
+                  <p class="half">
                     <b>ORIENTATION:</b> {{orientation}}<br>
                     <b>OCCUPATION:</b> {{occupation}}<br>
                     <b>VOICE CLAIM:</b> {{voiceclaim}}<br>
@@ -126,28 +144,21 @@
                 <button class="tablinks" onclick="openCity(event, '4')">More Lore</button>
               </div>
               <div id="1" class="tabcontent">
-                <p>{{personality}}</p>
+                <p>{{personality | safe}}</p>
               </div>
               <div id="2" class="tabcontent">
-                <p>{{biography}}</p>
+                <p>{{biography | safe}}</p>
               </div>
               <div id="3" class="tabcontent">
-                <p>{{abilities}}</p>
+                <p>{{abilities | safe}}</p>
               </div>
               <div id="4" class="tabcontent">
-                <p>{{morelore}}</p>
+                <p>{{morelore | safe}}</p>
               </div>
           </div>
         </div>
       </div>
-      <br><hr><br>
-      <h1>GALLERY</h1>
-      <br>
-      <div class="bx2">
-         <div class="gallery">
-          {{content | safe}}
-         </div>
-      </div>
+      {{content | safe}}
     </main4>
 </body>
 </html>

@@ -29,8 +29,8 @@ Interested in more story focused stuff? I have a good amount of concept art for 
         <a href="/_art/oct102024.webp" data-caption="Master of The Tower | afacelessdream on twitter | October 10 2024">
             <img class="thumb" src="/_art/th/oct102024.webp" alt="Master of The Tower | afacelessdream on twitter |October 10 2024">
         </a>
-        <a href="/_art/oct092024.webp" data-caption="Roleplay lore | My OC, Evil | October 9 2024">
-            <img class="thumb" src="/_art/th/oct092024.webp" alt="Roleplay lore | My OC, Evil | October 9 2024">
+        <a href="/_art/oct092024.webp" data-caption="Roleplay lore | My OC, Evi | October 9 2024">
+            <img class="thumb" src="/_art/th/oct092024.webp" alt="Roleplay lore | My OC, Evi | October 9 2024">
         </a>
         <a href="/_art/Jul052024.webp" data-caption="Who Knows | hell1shrelish on tumblr (left), afacelessdream on twitter (right) | July 5 2024">
             <img class="thumb" src="/_art/th/Jul052024.webp" alt="Who Knows | hell1shrelish on tumblr (left), afacelessdream on twitter (right) | July 5 2024">

@@ -44,32 +44,32 @@ Things from [tsag_art <i class="ph ph-link"></i>](/creations/tsag_art/) will be 
 
 ---
 
-## Placeholder
-placeholder verse
+## Narraverse
+A bunch of OCs I have in a roleplay universe where a bunch of lore is going on
 <br><br>
 <div class="cont">
 	<div class="cflex">
-		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<img class="octhumb" src="/_oc/th/Static_Musings.webp">
 		<div class="name">
-			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+			<a href="/oc_wiki/testing/"><b>Static Musings (unavailable)</b><i class="ph ph-link"></i></a>
 		</div>
 	</div>
 	<div class="cflex">
 		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
 		<div class="name">
-			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+			<a href="/oc_wiki/testing/"><b>Evi (unavailable)</b><i class="ph ph-link"></i></a>
 		</div>
 	</div>
 	<div class="cflex">
 		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
 		<div class="name">
-			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+			<a href="/oc_wiki/testing/"><b>Cogito (unavailable)</b><i class="ph ph-link"></i></a>
 		</div>
 	</div>
 	<div class="cflex">
 		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
 		<div class="name">
-			<a href="/oc_wiki/testing/"><b>Placeholder</b><i class="ph ph-link"></i></a>
+			<a href="/oc_wiki/testing/"><b>Turing (unavailable)</b><i class="ph ph-link"></i></a>
 		</div>
 	</div>
 </div>

@@ -6,6 +6,8 @@ ocversedesk: Placeholder verse
 ocversemob: Placeholder verse
 name: Place Holder
 age: 18 years
+height: 0'0
+alias: none
 species: SketcHuman
 pronouns: Any
 gender: Agender
@@ -21,4 +23,3 @@ biography: Was born because I needed a placeholder
 abilities: Can stand still for a really long time
 morelore: Um, idk skibidi toilet
 ---
-test

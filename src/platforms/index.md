@@ -12,9 +12,6 @@ propd: Links to other internet places I'm active on
 
 Exactly what it says on the tin
 As you can see there aren't a whole lotta websites that I'm active on
-You could say that I am active on reddit but you probably know that website has been going downhill a bit
-
-Besides if Tumblr goes down then this will probably be the only site I'm available on, asides from lemmy and discord (might join matrix in the future, who knows)
 
 My Discord account is `mechagic` and my email is `mechagic@proton.me `
 
