@@ -51,7 +51,7 @@ A bunch of OCs I have in a roleplay universe with other people where a bunch of 
 	<div class="cflex">
 		<img class="octhumb" src="/_oc/th/Static_Musings.webp">
 		<div class="name">
-			<a href="/oc_wiki/Static_Musings/"><b>Static Musings (unavailable)</b><i class="ph ph-link"></i></a>
+			<a href="/oc_wiki/static_musings/"><b>Static Musings (unavailable)</b><i class="ph ph-link"></i></a>
 		</div>
 	</div>
 	<div class="cflex">
