@@ -72,4 +72,16 @@ A bunch of OCs I have in a roleplay universe with other people where a bunch of 
 			<a href="/oc_wiki/testing/"><b>Turing (unavailable)</b><i class="ph ph-link"></i></a>
 		</div>
 	</div>
+	<div class="cflex">
+		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<div class="name">
+			<a href="/oc_wiki/testing/"><b>Narra!Toma (unavailable)</b><i class="ph ph-link"></i></a>
+		</div>
+	</div>
+	<div class="cflex">
+		<img class="octhumb" src="/_oc/th/ocplaceholder.webp">
+		<div class="name">
+			<a href="/oc_wiki/testing/"><b>Narra!MIZ (unavailable)</b><i class="ph ph-link"></i></a>
+		</div>
+	</div>
 </div>
