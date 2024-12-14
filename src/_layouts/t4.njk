@@ -42,6 +42,16 @@
         background-color:var(--bg);
         margin-top: -5px;
     }
+    .charsong {
+        border:var(--bord3);
+        border-radius: 15px;
+        padding: 15px;
+        height: auto;
+        width: 100%;
+        background-color:var(--bg);
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
     h1,h2,h3{
         margin: 0px;
     }
@@ -102,6 +112,7 @@
         <div class="invis"><div class="float">
           <img class="charimg" src="{{charimg}}">
           <div class="charname"><h3>{{name}} | <a href="javascript:window.history.back()">Go Back</a></h3></div>
+          <div class="charsong"><b>Theme Song: <a href="{{song}}">link <i class="ph ph-link"></i></a></b></div>
         </div></div>
         <div class="cflex">
           <div class="rflex">
@@ -115,7 +126,6 @@
                     <b>HEIGHT:</b> {{height}}<br>
                     <b>SPECIES:</b> {{species}}<br>
                     <b>PRONOUNS:</b> {{pronouns}}<br>
-                    <b>ALIAS:</b> {{alias}}<br>
                     <b>GENDER:</b> {{gender}}<br>
                   </p>
                   <hr class="vr" style="margin: 0px 10px 0px 10px;">
