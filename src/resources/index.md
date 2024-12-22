@@ -44,8 +44,8 @@ Colors, ASCII as well as some other stuff
 - `Squoosh`, used to compress or convert image files - [link <i class="ph ph-link"></i>](https://squoosh.app)
 - `Dithermark`, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
 - Button Maker, idk what else to tell you, it's a button maker - [link <i class="ph ph-link"></i>](https://hekate2.github.io/buttonmaker/)
-- Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
 - `Phosphoricons`, the icon pack you're seeing all over the place - [link <i class="ph ph-link"></i>](https://phosphoricons.com/)
+- Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
 
 ---
 
