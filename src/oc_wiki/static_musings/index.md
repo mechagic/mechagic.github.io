@@ -6,7 +6,7 @@ ocversedesk: Narraverse
 ocversemob: Narraverse
 name: Static Musings
 song: https://www.youtube.com/watch?v=VUREF3bL4ec
-age: 2 months old
+age: 8 months old
 height: 5'9
 species: Sentient signals bound to a host
 pronouns: It/its
