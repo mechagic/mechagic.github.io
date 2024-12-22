@@ -64,12 +64,12 @@ Stuff you can put on your website
 ## Webhosts <i class="ph ph-browsers"></i>
 I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
 
-- Lexiqqq - [link <i class="ph ph-link"></i>](https://hosting.lexiqqq.com/)
 - Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
 - Poyoweb - [link <i class="ph ph-link"></i>](https://poyoweb.poyo.study/)
 - Nekoweb - [link <i class="ph ph-link"></i>](https://nekoweb.org/)
 - Neocities - [link <i class="ph ph-link"></i>](https://neocities.org/)
 - Dorothea - [link <i class="ph ph-link"></i>](https://dorothea.us/)
+- Codeberg - [link <i class="ph ph-link"></i>](https://docs.codeberg.org/codeberg-pages/)
 - Pages.gay - [link <i class="ph ph-link"></i>](https://pages.gay/)
 - Leprd Space - [link <i class="ph ph-link"></i>](https://leprd.space/)
 - Github Pages - [link <i class="ph ph-link"></i>](https://pages.github.com/)
