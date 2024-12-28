@@ -309,6 +309,7 @@ h1,h2,h3 {
 h1 {
   font-size:45px;
   text-align:center;
+  word-wrap: break-word;
 }
 h2 {
   font-size:35px;
@@ -317,11 +318,12 @@ h3 {
   font-size:25px;
 }
 code {
-  background-color:var(--sp-fnt);
-  color:var(--mn);
-  font-size:inherit;
-  font-family:inherit;
-  font-weight:bold;
+        background-color:var(--sp-fnt);
+        color:var(--mn);
+        font-size:inherit;
+        font-family:inherit;
+        font-weight:bold;
+        word-wrap: break-word;
 }
 .header__desktop {
   display:block;
