@@ -6,7 +6,9 @@ tags:
     - wposts
 date: 2024-11-27
 ---
+**Author's Note:**  This is the backstory of my OCs and will eventually be deleted and then reuploaded to the [OC Wiki <i class="ph ph-link"></i>](/oc_wiki)
 
+<br><hr class="th"><br>
 You wake up for the first time.<br><br>
 `TENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANET`<br><br>
 There's a dead body nearby.<br><br>
