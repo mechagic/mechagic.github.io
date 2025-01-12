@@ -12,12 +12,20 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
 
 Interested in more story focused stuff? I have a good amount of concept art for a personal project I'm working on [here <i class="ph ph-link"></i>](/creations/tsag_art/)
     <div class="tab">
+        <button class="tablinks" onclick="openCity(event, '2025')" id="defaultOpen">
+        2025
+       </button>
         <button class="tablinks" onclick="openCity(event, '2024')" id="defaultOpen">
         2024
        </button>
         <button class="tablinks" onclick="openCity(event, '2023')" id="defaultOpen">
         2023
        </button>    </div>
+                <div id="2025" class="tabcontent">
+<div class="gallery">
+        Didn't draw anything worthy of being here yet, give me sometime :}
+    </div>
+                </div>
                 <div id="2024" class="tabcontent">
 <div class="gallery">
         <a href="/_art/nov252024.webp" data-caption="Original quote from Unorthodox Kitten | afacelessdream on twitter | November 25 2024">

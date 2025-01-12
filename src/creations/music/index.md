@@ -7,11 +7,19 @@ propd: Music I have been making with beepbox
 
 # my music
 
-
 I have been attempting to make music on Beepbox recently. You can listen to all of these attempts right here!
-
----
-
+    <div class="tab">
+        <button class="tablinks" onclick="openCity(event, '2025')" id="defaultOpen">
+        2025
+       </button>
+        <button class="tablinks" onclick="openCity(event, '2024')">
+        2024
+       </button>    </div>
+                <div id="2025" class="tabcontent">
+Magic Forest | January 12 2025
+<iframe class="music" src="https://www.beepbox.co/player/#song=9n41s7k0l00e0ft1Ua7g0fj07r1i0o4323T7v1u20f51562jb0s22nb2l3q0x20p41402d08H_SRJ5JIBxAAAAkh8IcE3c01c16c16T7v4u20f51562jb0s22nb2l3q0x20p41402d08H_SRJ5JIBxAAAAkh8IcE3c01c16c16T0v1u98f10i7q83231d4aw5h2E0T7v1u23f10q4q011d08H_RRtrAyAAAsArrh3IaE0T4v1uf0f0q011z6666ji8k8k3jSBKSJJAArriiiiii07JCABrzrrrrrrr00YrkqHrsrrrrjr005zrAqzrjzrrqr1jRjrqGGrrzsrsA099ijrABJJJIAzrrtirqrqjqixzsrAjrqjiqaqqysttAJqjikikrizrHtBJJAzArzrIsRCITKSS099ijrAJS____Qg99habbCAYrDzh00E0b004i8P8x40000h4h4h4g0000000000000i4x8i4x8i0icN944zci4wp22FFEYzg3d7wwAqqfGzbi8YGHfi8YIzMb2fDGYDOf9GOW8YCzeUzPWIL2fAacSOfbFOH8YyDaMzOGcLOc4LjhZ6ngpt1BQ4o00FJvni4zjFkRkwkRUwIFLFGFGQGqqGqGqJiBXnBws0CLcpHPvOJXKXcRbcPv_cSJOJTsRjhWcM0"></iframe>
+                </div>
+                <div id="2024" class="tabcontent">
 Starting Screen | October 25 2024
 <iframe class="music" src="https://www.beepbox.co/player/#song=9n41s5k0l00e0bt2ma7g0fj07r1i0o4323T5v1u42f0qwx10l511d03H_RBHBziiii9998h0E1b7T5v1u50f0qwx10p511d08H-JJAArrqiih999h0E1b6T1v1u36f0qwx10n511d08A0F0B0Q06e0Pb330E3bi617626T5v1ua1f62ge2ec2f02j01960meq83432d38HT-Iqijriiiih99h0E0T3v3ugef0q0x10l51d08S9aiiqjriHSDSSKIE1bab4h8Qd5hj00004x8Qd3g0000i4zgQd000000i4x8i000h4h4h4h4000p235FEYkhOh7mnRBZh7mhRAug4tp7mhR4tp714tx7mhWN7ihQAttx7ohQAtpvH4th7khR4tN7knSmlieGEzI8XryeAzHJI8Xxjq-4wGEfiHFAtaGCLkGFH2CzN1vjknRi9v9MxvlE5ZlpvrmnRR5YDH5ZtxvpmnRSBZmMnSl5ZBpvngnSxjtfHE70agaqYUnM1vinQBU0"></iframe>
 
@@ -32,3 +40,4 @@ Echoes | July 5 2024
 
 Awkward Days | July 4 2024
 <iframe class="music" src="https://www.beepbox.co/player/#song=9n31s0k0l00e07t2ma7g0fj07r1i0o432T1v1u83f0q8z10q5231d03AbF6B2Q0572P9995E2b273T1v3ucaf0q0x10r71d23A1F0B9Q2030Pef20E3b96287gT1v5u62f0qwx10s811d08A0F0B0Q00adPfe39E4b761862863bT2v4u15f10w4qw02d03w0E0b4i4icM00000h4h000000014h400000004h8x4g00000p216FH-1v1BYGnMpvFllBZtt9vE4t97mhRAsCnw002CFe2S2QyM0JMJoJhyWhjmkRyRBdhjma0"></iframe>
+</div>
