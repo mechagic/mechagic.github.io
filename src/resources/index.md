@@ -28,7 +28,6 @@ Stuff to help with coding, I used most of the tools here
 - Sublime Text, my main code editor - [link <i class="ph ph-link"></i>](https://www.sublimetext.com/)
 - Eleventy, the SSG that I'm using right now! - [link <i class="ph ph-link"></i>](https://www.11ty.dev/)
 - Ringfairy, a static site generator but for webrings - [link <i class="ph ph-link"></i>](https://github.com/k3rs3d/ringfairy/)
-- 11ty -> Lexiqqq Workflow, cuts out a ton of annoying work - [link <i class="ph ph-link"></i>](https://moosyu.github.io/pages/guides/lexiqqq_eleventy/)
 - Goblin Heart layout builder, the base code for the website - [link <i class="ph ph-link"></i>](https://goblin-heart.net/sadgrl/projects/layout-builder/)
 - CSSgradient, what I used to make all of the gradients here - [link <i class="ph ph-link"></i>](https://cssgradient.io)
 - Petrapixel's layout builder, actively maintained unlike the one above - [link <i class="ph ph-link"></i>](https://petrapixel.neocities.org/coding/layout-generator)
@@ -44,6 +43,7 @@ Colors, ASCII as well as some other stuff
 - `Squoosh`, used to compress or convert image files - [link <i class="ph ph-link"></i>](https://squoosh.app)
 - `Dithermark`, for the dithering on some of the images - [link <i class="ph ph-link"></i>](https://app.dithermark.com/)
 - Button Maker, idk what else to tell you, it's a button maker - [link <i class="ph ph-link"></i>](https://hekate2.github.io/buttonmaker/)
+- `DaFont`, free fonts that can be used for a variety of reasons - [link <i class="ph ph-link"></i>](https://www.dafont.com/)
 - `Phosphoricons`, the icon pack you're seeing all over the place - [link <i class="ph ph-link"></i>](https://phosphoricons.com/)
 - Patternico, background maker, I used this a few times in the past - [link <i class="ph ph-link"></i>](https://patternico.com/)
 
@@ -64,6 +64,7 @@ Stuff you can put on your website
 ## Webhosts <i class="ph ph-browsers"></i>
 I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
 
+- Ichi.City - [link <i class="ph ph-link"></i>](https://ichi.city/)
 - Teacake - [link <i class="ph ph-link"></i>](https://teacake.org/)
 - Poyoweb - [link <i class="ph ph-link"></i>](https://poyoweb.poyo.study/)
 - Nekoweb - [link <i class="ph ph-link"></i>](https://nekoweb.org/)
