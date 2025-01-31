@@ -1,6 +1,6 @@
 ---
 layout: t3
-title: RIITCW
+title: RIIATW
 details: Relatively Important Information About the Website (Or RIIAtW for short)
 ---
 
