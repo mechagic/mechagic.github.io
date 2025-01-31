@@ -62,6 +62,17 @@ Stuff you can put on your website
 
 ---
 
+### Faux Ad Services
+Ad services that advertise other indie sites, somewhat an extension of the last category
+
+- Navlink - [link](https://dimden.dev/navlinkads/)
+- Sidelink - [link](https://dogspit.nekoweb.org/sidelinkads.html)
+- Nekolink - [link](https://rice.place/ad.html)
+- Ringlink - [link](https://evehibi.nekoweb.org/ringlink/info)
+- Johnvertising - [link](https://john.citrons.xyz/)
+
+---
+
 ### Webhosts
 I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
 - Nya.pub - [link](https://nya.pub/)
