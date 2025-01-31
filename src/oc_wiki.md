@@ -28,7 +28,7 @@ A bunch of OCs I have in a roleplay universe with other people where a bunch of 
 		<div class="ocname"><a href="static_musings" class="oclink">Static Musings</a></div>
 	</div>
 	<div class="octhumb">
-		<img class="ocart" src="/2oc/th/Evi.webp" alt="Static Musings thumbnail art">
+		<img class="ocart" src="/2oc/th/Evi.webp" alt="Evi thumbnail art">
 		<div class="ocname"><a href="evi" class="oclink">Evi</a></div>
 	</div>
 	<div class="octhumb">
