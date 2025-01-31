@@ -14,7 +14,7 @@ title: Mechagic's Fun Party
 			<script type="text/javascript" src="https://milkyway.moe/onlinewire/onionring-widget.js"></script>
 			</div>
 			<center><a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a></center>
-			<div class="flex">
+			<div style="display: flex;">
             	<a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a> | <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a> | <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
 			</div>
 		</div>
