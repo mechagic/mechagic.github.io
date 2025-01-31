@@ -1,6 +1,7 @@
 ---
 layout: t1
 title: Mechagic's Fun Party
+details: A website made by a bug that learned how to code
 ---
 
 ## WEBRINGS
