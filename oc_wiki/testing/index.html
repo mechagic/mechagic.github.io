@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="/1stylescripts/th1.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Testing</title>
+    <link rel="icon" type="image/x-icon" href="/2images/1icon.webp">
+  </head>
+  <body>
+    <div id="cntnr">
+      <div id="header">
+        <div class="trnsprnt" style="background: linear-gradient(90deg, rgba(14,0,255,1) 40%, rgba(255,255,255,0) 70%); padding: 0.5rem;"><h1 style="margin-left: 2rem;"><a class="hidden" style="color: white !important" href="/">mechagic.party</a></h1></div>
+      </div>
+      <main>
+        <div class="flex">
+          <div class="float">
+            <div class="cflex">
+              <img class="ocimg" src="/2oc/ocplaceholder.webp" alt="OC art">
+              <div class="ocdes"><h4>Testing</h4></div>
+            </div>
+          </div>
+          <div class="cflex">
+            <div class="rflex">
+              <div class="ocbox1">
+                <h3>Info</h3>
+                <hr>
+                <div class="rflex">
+                    <p>test</p><hr class="vr"><p>test</p>
+                </div>
+              </div>
+              <div class="ocbox2">
+                <h3>Colors</h3>
+                <hr>
+                <div class="occlr">
+                  <div class="clroc" style="background:#FFFFFF;"></div><div class="clroc" style="background:#FF0000;"></div><div class="clroc" style="background:#5A62FF;"></div><div class="clroc" style="background:#FF5AE9;"></div><div class="clroc" style="background:#0000FF;"></div><div class="clroc" style="background:#55FF00;"></div><div class="clroc" style="background:#FF00FF;"></div><div class="clroc" style="background:#00AAFF;"></div>
+                </div>
+              </div>
+            </div>
+            <div class="invis">
+              <div class="tabcontainer">
+                <div class="tab">
+                  <button class="tablinks" onclick="openTab(event, 'Personality')" id="defaultOpen">Personality</button>
+                  <button class="tablinks" onclick="openTab(event, 'Biography')">Biography</button>
+                  <button class="tablinks" onclick="openTab(event, 'Abilities')">Abilities</button>
+                  <button class="tablinks" onclick="openTab(event, 'More Lore')">More Lore</button>
+                </div>
+                <div id="Personality" class="tabcontent">
+                  
+                </div>
+                <div id="Biography" class="tabcontent">
+                  
+                </div>
+                <div id="Abilities" class="tabcontent">
+                  
+                </div>
+                <div id="More Lore" class="tabcontent">
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <center><h4><a href="javascript:window.history.back()">Go Back</a></h4></center>
+      </main>
+      <div id="footer">
+        <center>Mobile-friendly | Best viewed on a 1760px x 833px desktop | JavaScript Required |  Powered by Github</center>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+<style>
+  .tabcontainer{
+    width: 91.5%;
+    margin: 0vh 0vw 2vh 2.5vw !important;
+  }
+  .tabcontent{
+    padding: var(--pad1);
+  }
+  .cflex {
+   display:flex;
+   flex-direction: column;
+   width:100%;
+}
+@media screen and (max-width:800px) {
+  .tabcontainer{
+    width:95%;
+    box-sizing: border-box!important;
+    margin: var(--inner-margin);
+  }
+}
+</style>
