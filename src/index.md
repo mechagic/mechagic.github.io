@@ -10,9 +10,9 @@ details: A website made by a bug that learned how to code
 	<div class="trnsprnt">
 		<br><br>
 		<center>
-			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←</a> 
+			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←←</a> 
 				WEBRING.DINHE.NET 
-			<a href='https://webring.dinhe.net/next/https://mechagic.party/'>→</a></strong>
+			<a href='https://webring.dinhe.net/next/https://mechagic.party/'>→→</a></strong>
 		</center>
 		<br><br>
 		<div style="text-align:center">
