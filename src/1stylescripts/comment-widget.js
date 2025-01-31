@@ -50,7 +50,7 @@ const s_filteredWords = [ // Add words to filter by putting them in quotes and s
 ]
 
 // Text - Change what messages/text appear on the form and in the comments section (Mostly self explanatory)
-const s_widgetTitle = '';
+const s_widgetTitle = 'If your comment was removed that is because it looked like spam, either that or the link was Dead On Arrival and I did not want it to lead anywhere suspicious in the future. Sorry bout that.';
 const s_nameFieldLabel = 'Name<br>';
 const s_websiteFieldLabel = 'Website (Optional)<br>';
 const s_textFieldLabel = '';
@@ -89,8 +89,6 @@ const v_mainHtml = `
     <div id="c_container">${s_loadingText}</div>
 `;
 const v_formHtml = `
-    <h2 id="c_widgetTitle">${s_widgetTitle}</h2>
-
     <div id="c_nameWrapper" class="c-inputWrapper">
         <label class="c-label c-nameLabel" for="entry.${s_nameId}">${s_nameFieldLabel}</label>
         <input class="c-input c-nameInput" name="entry.${s_nameId}" id="entry.${s_nameId}" type="text" maxlength="${s_maxLengthName}" required>
@@ -105,6 +103,7 @@ const v_formHtml = `
         <label class="c-label c-textLabel" for="entry.${s_textId}">${s_textFieldLabel}</label>
         <textarea class="c-input c-textInput" name="entry.${s_textId}" id="entry.${s_textId}" rows="4" cols="50"  maxlength="${s_maxLength}" required></textarea>
     </div>
+    <center><span id="c_widgetTitle"><center>${s_widgetTitle}</span></center>
 
     <input id="c_submitButton" name="c_submitButton" type="submit" value="${s_submitButtonLabel}" disabled>
 `;
