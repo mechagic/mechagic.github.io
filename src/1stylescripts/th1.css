@@ -2,9 +2,9 @@
    /* colors */
    --main1:white;
    --main2:black;
-   --clr1:blue;
+   --clr1:#0000FF;
    --clr2:#0087FF;
-   --clr3:yellow;
+   --clr3:#FFFF00;
    /*elements*/
     --margin:3vh;
    --inner-margin:2vh;
@@ -69,6 +69,7 @@ strong {
 }
 ul {
    list-style-type:square;
+   margin:auto 2rem;
 }
 code {
    background-color:var(--main2);
