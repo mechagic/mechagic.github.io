@@ -42,6 +42,9 @@ And was tested in
  The commit displayer
  - Was made following Moosyu's tutorial - [link](http://moosyu.com/pages/guides/latest_commit/)
 
+The themeswitcher
+ - was made by KaleChips - [link](https://kalechips.net/projects/snippets/styleswitcher)
+
  The guestbook
  - Was made using Ayano's widget - [link](https://virtualobserver.moe/ayano/comment-widget)
 
@@ -52,6 +55,7 @@ And was tested in
 
  There's a lot of javascript stuff, lemme see...
 
+ - The themeswitcher
  - Some webrings on the landing page
  - The guestbook at `/guestbook` (duh)
  - The gallery in `/creations/art/`

@@ -1,11 +1,5 @@
 /*variables*/:root {
-   /* colors */
-   --main1:white;
-   --main2:black;
-   --clr1:#0000FF;
-   --clr2:#0087FF;
-   --clr3:#FFFF00;
-   /*elements*/
+/*elements*/
     --margin:3vh;
    --inner-margin:2vh;
    --brdr-width1:0.200vw 0.423vh;
