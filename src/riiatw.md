@@ -6,9 +6,11 @@ details: Relatively Important Information About the Website (Or RIIAtW for short
 
 <center>Or Relatively Important Information About the Website for long
 
-(I thought colophon sounded too boring)</center>
+(I thought Colophon sounded too boring)</center>
 
 ### Technical Stuff
+When the site is down that means there's an update (hopefully)
+
 This website is 
  - Mobile-friendly (Ie: It is compatible with phones)
  - but it is best viewed on a 1760px x 833px desktop
@@ -54,7 +56,3 @@ And was tested in
  - The guestbook at `/guestbook` (duh)
  - The gallery in `/creations/art/`
  - The tabs in `/about`, `/oc_wiki/*subpage*`, `/creations/art/`, and `/creations/music/`
-
- ### Misc Stuff
-
- The only colors used throughout the site are <span style="color:#0000FF;">Blue</span>, <span style="color:#0087FF;">Bleu de France</span>, <span style="color:#FFFF00; background: #000;">Yellow</span>, Black, and <span style="color:#FFF; background: #000;">White</span>
