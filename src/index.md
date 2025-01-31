@@ -51,7 +51,7 @@ details: A website made by a bug that learned how to code
 			<link rel="stylesheet" href="https://xenics.neocities.org/onionring.css">
 		</div>
 		<br><br>
-		<center><script src="https://webcatz.neocities.org/beepbox-webring/ring.js"></script></center>
+		<center><script src="https://juneish.neocities.org/ring/beepbox/ring.js"></script></center>
 		<br><br>
 		<!--START OF SELF INSERT WEBRING-->
 		<div id="selfinsertwebring">
