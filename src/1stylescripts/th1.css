@@ -400,6 +400,11 @@ hr.vr{
    padding:0.2vh;
    border:0.24vh solid var(--clr2);
 }
+
+span.head{
+  font-size:2.5rem;
+}
+
 /*major elements*/
   body {
    margin:0vh;
