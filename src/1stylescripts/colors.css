@@ -18,9 +18,9 @@
 [data-theme='highdark'] {
    --main1:black;
    --main2:white;
-   --clr1:#0000FF;
+   --clr1:#0087FF;
    --clr2:#FFFF00;
-   --clr3:#0087FF;
+   --clr3:#0000FF;
 }
 
 [data-theme='lowdark'] {
