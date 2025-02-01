@@ -4,6 +4,10 @@ title: Mechagic's Fun Party
 details: A website made by a bug that learned how to code
 ---
 
+## DIRECTORIES
+
+<a href="https://kalechips.net/responsive/"><img class="btn" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
+
 ## WEBRINGS
 
 <div class="flex">

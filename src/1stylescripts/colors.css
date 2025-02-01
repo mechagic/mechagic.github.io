@@ -5,6 +5,7 @@
    --clr1:#0000FF;
    --clr2:#0087FF;
    --clr3:#FFFF00;
+   --hdr: linear-gradient(90deg, rgba(14,0,255,1) 40%, rgba(255,255,255,0) 70%);
 }
 
 [data-theme='lowlight'] {
@@ -13,20 +14,23 @@
    --clr1:#153243;
    --clr2:#4E7890;
    --clr3:#D1D0A3 ;
+   --hdr: linear-gradient(90deg, rgba(21,50,67,1) 40%, rgba(255,255,255,0) 70%);
 }
 
 [data-theme='highdark'] {
    --main1:black;
    --main2:white;
    --clr1:#0087FF;
-   --clr2:#FFFF00;
-   --clr3:#0000FF;
+   --clr2:#0000FF;
+   --clr3:#FFFF00;
+   --hdr: linear-gradient(90deg, rgba(0,135,255,1) 40%, rgba(255,255,255,0) 70%);
 }
 
 [data-theme='lowdark'] {
    --main1:#16161D;
    --main2:#EEF0EB;
    --clr1:#153243;
-   --clr2:#D1D0A3;
-   --clr3:#4E7890 ;
+   --clr2:#4E7890;
+   --clr3:#D1D0A3;
+   --hdr: linear-gradient(90deg, rgba(21,50,67,1) 40%, rgba(255,255,255,0) 70%);
 }
