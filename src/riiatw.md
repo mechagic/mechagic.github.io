@@ -42,16 +42,21 @@ And was tested in
  The commit displayer
  - Was made following Moosyu's tutorial - [link](http://moosyu.com/pages/guides/latest_commit/)
 
+
  The guestbook
  - Was made using Ayano's widget - [link](https://virtualobserver.moe/ayano/comment-widget)
 
  The lightbox gallery
  - was made by Feimosi - [link](https://github.com/feimosi/baguetteBox.js/)
 
+  The theme switcher
+ - was made by Saadeghi - [link](https://github.com/saadeghi/theme-change)
+
  ### Javascript Stuff
 
  There's a lot of javascript stuff, lemme see...
 
+ - The themeswitcher
  - Some webrings on the landing page
  - The guestbook at `/guestbook` (duh)
  - The gallery in `/creations/art/`

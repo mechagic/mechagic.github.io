@@ -3,8 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="stylesheet" href="{{ '/1stylescripts/clr1.css' | url }}">
+    <link rel="stylesheet" href="{{ '/1stylescripts/colors.css' | url }}">
     <link rel="stylesheet" href="{{ '/1stylescripts/theme.css' | url }}">
+    <script src="https://cdn.jsdelivr.net/npm/theme-change@2.0.2/index.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{title}}</title>
     <meta name="title" content="{{title}}" />
@@ -36,6 +37,10 @@
         </div>
         <div id="commitLink">
           <h3>DETAILS</h3><div id="shortHash"></div><div id="commitLatest"></div>
+          <button data-set-theme="" style="background:white;" data-act-class="ACTIVECLASS"></button>
+          <button data-set-theme="lowlight" style="background:#D1D0A3;" data-act-class="ACTIVECLASS"></button>
+          <button data-set-theme="highdark" style="background:black;" data-act-class="ACTIVECLASS"></button>
+          <button data-set-theme="lowdark" style="background:#153243;" data-act-class="ACTIVECLASS"></button>
         </div>
         <div class="blue"></div>
       </div>

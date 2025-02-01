@@ -53,6 +53,13 @@ h4 {
    font-size:1.5rem;
    margin:0rem 0.5rem!important;
 }
+button{
+   width: 15%;
+   height: 5vh;
+   margin: var(--pad3);
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+}
 em {
    color:var(--clr2);
    text-shadow:2px 2px 0 var(--clr3),2px -2px 0 var(--clr3),-2px 2px 0 var(--clr3),-2px -2px 0 var(--clr3),2px 0px 0 var(--clr3),0px 2px 0 var(--clr3),-2px 0px 0 var(--clr3),0px -2px 0 var(--clr3),2px -3px 0px rgba(206,89,55,0);
@@ -129,6 +136,7 @@ body {
    font-family:'VHS-Gothic';
    font-size:16px;
    color:var(--main2);
+   background: var(--main1);
    margin-top:3vh;
    box-sizing:border-box;
 }
