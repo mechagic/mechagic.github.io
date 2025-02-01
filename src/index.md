@@ -7,12 +7,16 @@ details: A website made by a bug that learned how to code
 ## WEBRINGS
 
 <div class="flex">
-	<div class="trnsprnt">
+	<div class="trnsprnt" style="text-align: center;">
+		<br><br>
+		<p>
+			<a href="https://fediring.net/previous?host=example.com">←←←</a> | <a href="https://fediring.net/">Fediring</a> | <a href="https://fediring.net/next?host=example.com">→→→</a>
+		</p>
 		<br><br>
 		<center>
-			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←←</a> 
+			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←←←</a> 
 				WEBRING.DINHE.NET 
-			<a href='https://webring.dinhe.net/next/https://mechagic.party/'>→→</a></strong>
+			<a href='https://webring.dinhe.net/next/https://mechagic.party/'>→→→</a></strong>
 		</center>
 		<br><br>
 		<div style="text-align:center">
@@ -40,12 +44,13 @@ details: A website made by a bug that learned how to code
         <br><br>
 	</div>
 	<div class="trnsprnt">
+		<br><br>
 		<div style="width: fit-content; margin: auto;" id='furryring'>
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
 		</div>
 		<br><br>
-		<div id='xenicRing'>
+		<div style="background:var(--clr3);" id='xenicRing'>
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-widget.js"></script>
 			<link rel="stylesheet" href="https://xenics.neocities.org/onionring.css">

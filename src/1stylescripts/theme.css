@@ -32,6 +32,7 @@
 /*content*/
 p {
    margin:0.8rem 1.5rem;
+   line-height: 2.5vh;
 }
 h1,h2,h3 {
    font-family:Mario-Kart-DS;
@@ -58,7 +59,7 @@ button.theme{
    height: 5vh;
    margin: var(--pad3);
    border-width:var(--brdr-width1);
-   border:solid var(--clr2);
+   border:solid var(--clr1);
 }
 em {
    color:var(--clr2);
