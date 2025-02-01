@@ -123,7 +123,7 @@ iframe.music {
    height:7.203vh;
    width:75%;
 }
-span.head{
+h1.head{
   color: var(--main1) !important;
   font-size:4rem;
   margin-left: 2rem!important;
