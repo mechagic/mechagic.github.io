@@ -71,7 +71,7 @@
     margin-right: auto;
     font-size:inherit;
     font-family:inherit;
-    background-color: var(--clr1);
+    background-color: var(--clr2);
     border-width: var(--brdr-width2);
     border: solid var(--main1);
     color: var(--main1);
@@ -87,6 +87,11 @@
     background-color: var(--clr1);
     border-width: var(--brdr-width2);
     border: solid var(--clr1);
+}
+
+.c-websiteLabel, .c-nameLabel, #c_widgetTitle{
+   color:var(--main2);
+   text-shadow:2px 2px 0 var(--clr3),2px -2px 0 var(--clr3),-2px 2px 0 var(--clr3),-2px -2px 0 var(--clr3),2px 0px 0 var(--clr3),0px 2px 0 var(--clr3),-2px 0px 0 var(--clr3),0px -2px 0 var(--clr3),2px -3px 0px rgba(206,89,55,0);
 }
 
 #c_widgetTitle {

@@ -38,13 +38,13 @@ details: A website made by a bug that learned how to code
 			<script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-widget.js"></script>
         </div>
         <br><br>
+	</div>
+	<div class="trnsprnt">
 		<div style="width: fit-content; margin: auto;" id='furryring'>
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
 		</div>
 		<br><br>
-	</div>
-	<div class="trnsprnt">
 		<div id='xenicRing'>
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-widget.js"></script>
