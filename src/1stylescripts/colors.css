@@ -24,6 +24,10 @@
    --clr2:#0000FF;
    --clr3:#FFFF00;
    --hdr: linear-gradient(90deg, rgba(0,135,255,1) 40%, rgba(255,255,255,0) 70%);
+
+   a {
+      background-image:linear-gradient(to right,rgba(0,0,0,0) 50%,var(--clr2) 50%)!important;
+   }
 }
 
 [data-theme='lowdark'] {
@@ -33,4 +37,8 @@
    --clr2:#4E7890;
    --clr3:#D1D0A3;
    --hdr: linear-gradient(90deg, rgba(21,50,67,1) 40%, rgba(255,255,255,0) 70%);
+
+   a {
+      background-image:linear-gradient(to right,rgba(0,0,0,0) 50%,var(--clr2) 50%)!important;
+   }
 }
