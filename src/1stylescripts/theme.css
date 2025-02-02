@@ -2,6 +2,7 @@
 /*elements*/
     --margin:3vh;
    --inner-margin:2vh;
+   --inner-marginmb:2vh 1vw;
    --brdr-width1:0.200vw 0.423vh;
    --brdr-width2:0.114vw 0.24vh;
    --brdr-widthmb:0.200vw 0vh;
@@ -9,6 +10,7 @@
    --pad2:0.6vh;
    --pad3:0.05vw 0.106vh;
    --pad4:1.2vh;
+   --padmb: 2vh 1vw;
 }
 /*text and images*/
 @font-face {
@@ -324,7 +326,7 @@ select{
    color: var(--main1);
    font-size: inherit;
    font-family: inherit;
-   margin: var(--inner-margin);
+   margin: var(--pad4);
    padding: var(--pad2);
 }
 
@@ -466,15 +468,15 @@ span.head{
    image-rendering:pixelated;
 }
 main {
-   padding:var(--pad4);
+   padding:var(--padmb);
 }
 #footer {
-   padding:var(--pad4);
+   padding:var(--padmb);
    margin-top:0px;
    margin-bottom:0px;
 }
 .box {
-   padding:var(--pad4);
+   padding:var(--padmb);
    width:10%;
    margin:0px;
 }
@@ -510,6 +512,10 @@ table,td,th {
    margin:auto !important;
    display:grid;
    grid-template-columns:auto auto auto;
+}
+/*form*/
+select{
+   margin: var(--inner-marginmb);
 }
 /*OC wiki related*/
 .ocgrid {
