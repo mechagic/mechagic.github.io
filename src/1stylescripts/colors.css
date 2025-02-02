@@ -1,7 +1,7 @@
 :root {
    /* high light */
-   --main1:white;
-   --main2:black;
+   --main1:#FFFFFF;
+   --main2:#000000;
    --clr1:#0000FF;
    --clr2:#0087FF;
    --clr3:#FFFF00;
@@ -18,8 +18,8 @@
 }
 
 [data-theme='highdark'] {
-   --main1:black;
-   --main2:white;
+   --main1:#000000;
+   --main2:#FFFFFF;
    --clr1:#0087FF;
    --clr2:#0000FF;
    --clr3:#FFFF00;
