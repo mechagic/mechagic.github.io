@@ -317,7 +317,7 @@ th:last-child,td:last-child {
 }
 /*form*/
 select{
-   width: 90%;
+   width: 95%;
    border-width:var(--brdr-width1);
    border:solid var(--clr1);
    background: var(--main2);
@@ -466,15 +466,15 @@ span.head{
    image-rendering:pixelated;
 }
 main {
-   padding:var(--pad3);
+   padding:var(--pad4);
 }
 #footer {
-   padding:var(--pad3);
+   padding:var(--pad4);
    margin-top:0px;
    margin-bottom:0px;
 }
 .box {
-   padding:var(--pad3);
+   padding:var(--pad4);
    width:10%;
    margin:0px;
 }
