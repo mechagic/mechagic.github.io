@@ -90,7 +90,7 @@
 }
 
 .c-websiteLabel, .c-nameLabel, #c_widgetTitle{
-   color:var(--main2);
+   color:var(--clr1);
    text-shadow:2px 2px 0 var(--clr3),2px -2px 0 var(--clr3),-2px 2px 0 var(--clr3),-2px -2px 0 var(--clr3),2px 0px 0 var(--clr3),0px 2px 0 var(--clr3),-2px 0px 0 var(--clr3),0px -2px 0 var(--clr3),2px -3px 0px rgba(206,89,55,0);
 }
 

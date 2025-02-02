@@ -28,6 +28,9 @@
    a {
       background-image:linear-gradient(to right,rgba(0,0,0,0) 50%,var(--clr2) 50%)!important;
    }
+   .c-websiteLabel, .c-nameLabel, #c_widgetTitle{
+      color:var(--clr2);
+   }
 }
 
 [data-theme='lowdark'] {

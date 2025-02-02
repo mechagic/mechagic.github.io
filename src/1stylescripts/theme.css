@@ -315,6 +315,26 @@ th:last-child,td:last-child {
    display:grid;
    grid-template-columns:auto auto auto auto auto;
 }
+/*form*/
+select{
+   width: 90%;
+   border-width:var(--brdr-width1);
+   border:solid var(--clr1);
+   background: var(--main2);
+   color: var(--main1);
+   font-size: inherit;
+   font-family: inherit;
+   margin: var(--inner-margin);
+   padding: var(--pad2);
+}
+
+button.theme{
+   width: 15%;
+   height: 5vh;
+   margin: var(--pad3);
+   border-width:var(--brdr-width1);
+   border:solid var(--clr1);
+}
 /*OC wiki related*/
 .ocgrid {
    width:100%;
