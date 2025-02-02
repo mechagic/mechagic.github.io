@@ -75,6 +75,9 @@ ul {
    list-style-type:square;
    margin:auto 2rem;
 }
+li {
+   margin:0.5rem auto;
+}
 code {
    background-color:var(--clr1);
    padding:var(--pad3);
