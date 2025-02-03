@@ -11,10 +11,10 @@
 [data-theme='lowlight'] {
    --main1:#EEF0EB;
    --main2:#16161D;
-   --clr1:#153243;
+   --clr1:#18384A;
    --clr2:#4E7890;
    --clr3:#D1D0A3 ;
-   --hdr: linear-gradient(90deg, rgba(21,50,67,1) 40%, rgba(255,255,255,0) 70%);
+   --hdr: linear-gradient(90deg, rgba(24,56,74,1) 40%, rgba(255,255,255,0) 70%);
 }
 
 [data-theme='highdark'] {
@@ -36,10 +36,10 @@
 [data-theme='lowdark'] {
    --main1:#16161D;
    --main2:#EEF0EB;
-   --clr1:#153243;
+   --clr1:#18384A;
    --clr2:#4E7890;
    --clr3:#D1D0A3;
-   --hdr: linear-gradient(90deg, rgba(21,50,67,1) 40%, rgba(255,255,255,0) 70%);
+   --hdr: linear-gradient(90deg, rgba(24,56,74,1) 40%, rgba(255,255,255,0) 70%);
 
    a {
       background-image:linear-gradient(to right,rgba(0,0,0,0) 50%,var(--clr2) 50%)!important;
