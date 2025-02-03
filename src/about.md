@@ -14,13 +14,6 @@ Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have 
 
 Here are some things that I like: Ice cream, Lasagna, 8 Bit Music, Lists and Corn
 
-Want to link me? Then you can grab at this button I made!
-
-<a href="https://mechagic.party/"><img class="btn" style="float:left; margin: 0 auto;" src="/2images/1button.webp" alt="Mechagic's Fun Button"></a> 
- <textarea style="margin-left: 2.5%;"><a href="https://mechagic.party/"><img src="mechagic.github.io/2images/1button.webp" alt="Mechagic's Fun Button"></a> 
-</textarea>
-<div class="trnsprnt" style="height: 0.5rem;"></div>
-
 --- 
 
 ### Why All of This?

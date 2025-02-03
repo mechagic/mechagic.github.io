@@ -436,10 +436,12 @@ a.oclink:hover {
    box-sizing:border-box;
 }
 /*content*/
-  img.main, img.btn {
+  img.main {
    width:30%;
 }
-
+img.btn{
+   width: 75%;
+}
 hr.vr{
    width:95%;
    background:var(--clr3);
@@ -531,7 +533,7 @@ select{
 }
 .octhumb{
    width: 65%;
-   margin-right: 0px !important;
+   margin-right: -5vw !important;
 }
 
 img.ocimg, .ocdes, .ocbox1, .ocbox2{
