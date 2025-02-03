@@ -517,6 +517,7 @@ table,td,th {
    margin:auto !important;
    display:grid;
    grid-template-columns:auto auto auto;
+   overflow-x: hidden;
 }
 /*form*/
 select{
@@ -526,6 +527,7 @@ select{
 .ocgrid {
    width:100%;
    grid-template-columns:auto auto;
+   box-sizing: border-box!important;
 }
 .clroc{
    height: 7vh;
