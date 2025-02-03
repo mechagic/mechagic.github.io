@@ -526,6 +526,8 @@ select{
 /*OC wiki related*/
 .ocgrid {
    width:100%;
+   align-content: center;
+   gap: -15%!important;
    grid-template-columns:auto auto;
    box-sizing: border-box!important;
 }
@@ -534,8 +536,7 @@ select{
    width:10vw;
 }
 .octhumb{
-   width: 65%;
-   margin-right: -5vw !important;
+   width: 90%;
 }
 
 img.ocimg, .ocdes, .ocbox1, .ocbox2{
