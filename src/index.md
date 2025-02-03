@@ -70,7 +70,7 @@ details: A website made by a bug that learned how to code
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
 		</div>
 		<br><br>
-		<div id='xenicRing' style="margin:auto 0;">
+		<div id='xenicRing' style="width: fit-content; margin: auto;">
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-widget.js"></script>
 			<link rel="stylesheet" href="https://xenics.neocities.org/onionring.css">
