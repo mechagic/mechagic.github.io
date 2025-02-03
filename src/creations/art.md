@@ -14,6 +14,9 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
     </div>
     <div id="2025" class="tabcontent">
       <div class="gallery">
+        <a class="hidden" href="/2art/feb032025.webp" data-caption=" Happy early valentines day! | toyforanangel on tumblr (left), my OC (right) | February 03 2025">
+            <img class="thumb" src="/2art/th/feb032025.webp" alt=" Happy early valentines day! | toyforanangel on tumblr (left), my   OC (right) | February 03 2025">
+        </a>
         <a class="hidden" href="/2art/jan312025.webp" data-caption="What you doin in this situation | My OC, MIZ | January 31 2025">
             <img class="thumb" src="/2art/th/jan312025.webp" alt="What you doin in this situation | My OC, MIZ |January 31 2025">
         </a>

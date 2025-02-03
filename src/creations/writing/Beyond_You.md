@@ -6,6 +6,7 @@ tags:
     - wposts
 date: 2025-01-07
 ---
+**Author's Note:**  This is the backstory of my OCs and will eventually be deleted and then reuploaded to the [OC Wiki <i class="ph ph-link"></i>](/oc_wiki)
 
 ---
 
