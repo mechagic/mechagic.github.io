@@ -32,7 +32,7 @@ Stuff to help with coding, I used most of the tools here
 - Webring tool list, what it says on the tin - [link](https://brisray.com/web/webring-tech.htm)
 - Eleventy, the SSG that I'm using right now! - [link](https://www.11ty.dev/)
 - CSSgradient, what I used to make all of the gradients here - [link](https://cssgradient.io)
-- Petrapixel's layout builder, actively maintained unlike the one above - [link](https://petrapixel.neocities.org/coding/layout-generator)
+- Petrapixel's layout builder, actively maintained - [link](https://petrapixel.neocities.org/coding/layout-generator)
 
 ---
 
