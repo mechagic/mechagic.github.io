@@ -28,6 +28,6 @@ After a measurable amount of time, eventually the something separated itself int
 
 A something that could paint forms into describable senses, a something that took a describable form, and a something that made sure that the other somethings stayed the same.
 <br><br><br><br>
-Concepts become symbols become archetypes become mortals.
+Concepts become gods become symbols become archetypes become mortals.
 
 Don't let that happen, don't let the concept of our reality fall apart.
