@@ -7,7 +7,7 @@ details: A website made by a bug that learned how to code
 <div class="flex">
 	<div class="trnsprnt">
 		<h2>LINK ME!</h2>
-		<div class="flex">
+		<div class="flex" style="align-items: center; width: 100%;">
 			<a href="https://mechagic.party/"><img class="btn" style="margin: 0 auto;" src="/2images/1button.webp" alt="Mechagic's Fun Button"></a> 
 		    <textarea style="margin-left: 2.5%;"><a href="https://mechagic.party/"><img src="mechagic.github.io/2images/1button.webp" alt="Mechagic's Fun Button"></a> </textarea>
 		</div>
@@ -15,7 +15,7 @@ details: A website made by a bug that learned how to code
 	<div class="trnsprnt">
 		<h2>DIRECTORIES</h2>
 		<div class="gallery">
-			<a href="https://kalechips.net/responsive/"><img class="btn" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
+			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:100%;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
 			<div class ="trnsprnt" style="margin: var(--inner-margin);">
 				<a href="https://pkmn.caelestis.nu">Pokémon</a> | Primarina<br><img src="/2images/2primarina.webp" style="margin:auto;" title="Primarina">
 		    </div>
