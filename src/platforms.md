@@ -25,10 +25,7 @@ Other accounts, or rather accounts that aren't for social media, hell some aren'
 
 Basically a bunch of random stuff that I want linked here
 
-- 4dopt - [link](https://www.4dopt.com/profile.php?id=3732)
 - Roblox - [link](https://www.roblox.com/users/5763807601/profile)
-- Lorwolf - [link]( https://www.lorwolf.com/Play/ViewUser?id=14297)
 - Textworld - [link](https://www.yourworldoftext.com/~mechagic/)
-- TamaNOTchi - [link](https://tamanotchi.world/u/7533)
 - Status Cafe - [link](https://status.cafe/users/mechagic)
 - Centaursona - [link](https://perchance.org/centaursona-generator)
