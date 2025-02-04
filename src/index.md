@@ -30,7 +30,7 @@ details: A very cool personal website that belongs to a cockroach that learned h
 	<div class="trnsprnt" style="text-align: center;">
 		<br><br>
 		<p>
-			<a href="https://fediring.net/previous?host=example.com">←←←</a> | <a href="https://fediring.net/">Fediring</a> | <a href="https://fediring.net/next?host=example.com">→→→</a>
+			<a href="https://fediring.net/previous?host=mechagic.party">←←←</a> | <a href="https://fediring.net/">Fediring</a> | <a href="https://fediring.net/next?host=mechagic.party">→→→</a>
 		</p>
 		<br><br>
 		<center>
