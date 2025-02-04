@@ -27,6 +27,10 @@ details: A very cool personal website that belongs to a cockroach that learned h
 ## WEBRINGS
 
 <div class="flex">
+	<div class="trnsprnt">
+		<br><br>
+		<table><tr><td><a href="https://lopster.neocities.org/roring/lolzers/prev.html?id=97"> <img src="https://lopster.neocities.org/roring/fotos/arr.png" height="30"></a></td><td><a href="https://lopster.neocities.org/roring/roring.html"><img src="https://lopster.neocities.org/roring/fotos/roring%20chan.png" width="150"></a></td><td><a href="https://lopster.neocities.org/roring/lolzers/next.html?id=97"><img src="https://lopster.neocities.org/roring/fotos/gimme.png" height="30"></a></td></tr></table>
+	</div>
 	<div class="trnsprnt" style="text-align: center;">
 		<br><br>
 		<p>
