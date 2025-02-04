@@ -1,5 +1,5 @@
 ---
-layout: t4
+layout: t5
 title: Static Musings
 artoc: /2oc/Static_Musings.webp
 nameoc: Static Musings
