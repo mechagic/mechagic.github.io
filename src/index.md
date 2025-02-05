@@ -62,10 +62,8 @@ details: A very cool personal website that belongs to a cockroach that learned h
 		   <script type="text/javascript" src="https://milkyway.moe/onlinewire/onionring-widget.js"></script>
 		</div>
 		<br><br>
-		<center><a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a></center>
-		<div style="display: flex; width:20%; margin: auto;">
+		    <center><a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a></center>
 			<a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a> | <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a> | <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
-	    </div>
 	    <br><br>
 		<div id='gfdkris'>
 			<script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-variables.js"></script>
