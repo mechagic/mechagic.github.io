@@ -29,6 +29,12 @@ details: A very cool personal website that belongs to a cockroach that learned h
 <div class="flex">
 	<div class="trnsprnt">
 		<br><br>
+		<link rel="stylesheet" href="https://toastofthesewn.nekoweb.org/bugring/script/bugring.css"> 	
+		<div id='bugring'>
+			<script type="text/javascript" src="https://toastofthesewn.nekoweb.org/bugring/script/bugring-variables.js"></script>
+		    <script type="text/javascript" src="https://toastofthesewn.nekoweb.org/bugring/script/bugring-widget.js"></script>
+	    </div>
+		<br><br>
 		<table><tr><td><a href="https://lopster.neocities.org/roring/lolzers/prev.html?id=97"> <img src="https://lopster.neocities.org/roring/fotos/arr.png" height="30"></a></td><td><a href="https://lopster.neocities.org/roring/roring.html"><img src="https://lopster.neocities.org/roring/fotos/roring%20chan.png" width="150"></a></td><td><a href="https://lopster.neocities.org/roring/lolzers/next.html?id=97"><img src="https://lopster.neocities.org/roring/fotos/gimme.png" height="30"></a></td></tr></table>
 	</div>
 	<div class="trnsprnt" style="text-align: center;">
