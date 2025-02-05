@@ -13,7 +13,7 @@ details: A very cool personal website that belongs to a cockroach that learned h
 		</div>
 	</div>
 	<div class="trnsprnt">
-		<h2>DIRECTORIES</h2>
+		<h2>MEMBERSHIPS</h2>
 		<div class="gallery">
 			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:100%;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
 			<div class ="trnsprnt" style="margin: var(--inner-margin);">
