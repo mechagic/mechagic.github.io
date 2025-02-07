@@ -45,6 +45,11 @@ If any of these are breaking please make sure that you're on the <code>https://<
 	</div>
 	<div class="trnsprnt" style="text-align: center;">
 		<br><br>
+		<div style="width: fit-content; margin: auto;" id='furryring'>
+			<script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
+			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
+		</div>
+		<br><br>
 		<p>
 			<a href="https://fediring.net/previous?host=mechagic.party">←←←</a> | <a href="https://fediring.net/">Fediring</a> | <a href="https://fediring.net/next?host=mechagic.party">→→→</a>
 		</p>
@@ -78,11 +83,6 @@ If any of these are breaking please make sure that you're on the <code>https://<
         <br><br>
 	</div>
 	<div class="trnsprnt">
-		<br><br>
-		<div style="width: fit-content; margin: auto;" id='furryring'>
-			<script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
-			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
-		</div>
 		<br><br>
 		<div id='xenicRing' style="width: 100%; margin: auto;">
 			<script type="text/javascript" src="https://xenics.neocities.org/onionring-variables.js"></script>
