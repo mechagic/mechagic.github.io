@@ -526,7 +526,7 @@ table,td,th {
    overflow-x: hidden;
 }
 .member {
-   gap: 15px;
+   gap: -15px;
    grid-template-columns:auto auto;
 }
 /*form*/
