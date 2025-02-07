@@ -26,6 +26,8 @@ details: A very cool personal website that belongs to a cockroach that learned h
 
 ## WEBRINGS
 
+If any of these are breaking please make sure that you're on the <code>https://</code> version of the website instead of the <code>http://</code> version, thanks in advance
+
 <div class="flex">
 	<div class="trnsprnt">
 		<br><br>
