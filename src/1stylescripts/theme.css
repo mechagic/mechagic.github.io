@@ -314,11 +314,17 @@ th:first-child,td:first-child {
 th:last-child,td:last-child {
    border-right:0;
 }
-/*baguettebox*/
+/*grids*/
 .gallery {
    margin:auto !important;
    display:grid;
    grid-template-columns:auto auto auto auto auto;
+}
+.member {
+   margin:auto !important;
+   display:grid;
+   gap: 10px;
+   grid-template-columns:auto auto auto;
 }
 /*form*/
 select{
@@ -512,12 +518,16 @@ table,td,th {
    width:95%;
    margin-bottom:7.203vh !important;
 }
-/*baguettebox*/
+/*grids*/
   .gallery {
    margin:auto !important;
    display:grid;
    grid-template-columns:auto auto auto;
    overflow-x: hidden;
+}
+.member {
+   gap: 15px;
+   grid-template-columns:auto auto;
 }
 /*form*/
 select{

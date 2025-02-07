@@ -14,11 +14,14 @@ details: A very cool personal website that is owned by a cockroach that learned 
 	</div>
 	<div class="trnsprnt">
 		<h2>MEMBERSHIPS</h2>
-		<div class="gallery">
-			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:100%;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
+		<div class="member">
+			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:120%;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
 			<div class ="trnsprnt" style="margin: var(--inner-margin);">
 				<a href="https://pkmn.caelestis.nu">Pokémon</a> | Primarina<br><img src="/2images/2primarina.webp" style="margin:auto;" title="Primarina">
 		    </div>
+		    <a href="https://nonbot.org/pledged/view/9e279bff-d352-4e07-8280-ad07316f9074" target="_blank">
+		    <img style="height:100%; margin-left:-25px;" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
+		    </a>
 		</div>
 	</div>
 </div>
