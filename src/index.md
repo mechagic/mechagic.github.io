@@ -1,7 +1,7 @@
 ---
 layout: t1
 title: Mechagic's Fun Party
-details: A very cool personal website that belongs to a cockroach that learned how to type.
+details: A very cool personal website that is owned by a cockroach that learned how to type.
 ---
 
 <div class="flex">
