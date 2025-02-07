@@ -45,7 +45,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 	</div>
 	<div class="trnsprnt" style="text-align: center;">
 		<br><br>
-		<div style="width: fit-content; margin: auto;" id='furryring'>
+		<div style="width: 75%; margin: auto;" id='furryring'>
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
 		</div>
