@@ -31,6 +31,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 <div class="flex">
 	<div class="trnsprnt">
 		<br><br>
+		<link rel="stylesheet" href="https://toastofthesewn.nekoweb.org/bugring/script/bugring.css">  
 		<div id='bugring'>
 			<script type="text/javascript" src="https://toastofthesewn.nekoweb.org/bugring/script/bugring-variables.js"></script>
 		    <script type="text/javascript" src="https://toastofthesewn.nekoweb.org/bugring/script/bugring-widget.js"></script>
