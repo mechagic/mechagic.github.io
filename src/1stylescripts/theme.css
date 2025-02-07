@@ -233,7 +233,7 @@ main {
 .float {
   position: sticky;
   width: 20vw;
-  top: 1.801vh;
+  top: 9px;
 }
 
 hr {
