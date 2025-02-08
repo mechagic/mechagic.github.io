@@ -42,15 +42,17 @@ And was tested in
  The commit displayer
  - Was made following Moosyu's tutorial - [link](http://moosyu.com/pages/guides/latest_commit/)
 
-
  The guestbook
  - Was made using Ayano's widget - [link](https://virtualobserver.moe/ayano/comment-widget)
 
  The lightbox gallery
- - was made by Feimosi - [link](https://github.com/feimosi/baguetteBox.js/)
+ - Was made by Feimosi - [link](https://github.com/feimosi/baguetteBox.js/)
 
   The theme switcher
- - was made by Saadeghi - [link](https://github.com/saadeghi/theme-change)
+ - Was made by Saadeghi - [link](https://github.com/saadeghi/theme-change)
+
+  The Git Gud Ring
+ - Was made with Juneish's script - [link](https://juneish.neocities.org/written/resources/?page=webstring)
 
  ### Javascript Stuff
 
