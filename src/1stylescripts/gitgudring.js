@@ -26,7 +26,7 @@ webring = {
   `,
 
   // widget css
-  stylesheet: "/1stylescripts/gitgudring.css",
+  stylesheet: "https://mechagic.party/1stylescripts/gitgudring.css",
 
   // html inserted instead of your widget on sites that aren't in the ring
   error: "<div>This website isn't part of the GitGudRing yet! GET TO IT NOW WEBMASTER!!!</div>",
