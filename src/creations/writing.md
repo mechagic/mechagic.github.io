@@ -8,7 +8,7 @@ templateEngineOverride: njk, md
 [rss feed <i class="ph ph-link"></i>](/2feed/writing_feed.xml) for all categories
 
 ### Short Stories And Concepts <i class="ph ph-notebook"></i>
-My short stories, I mostly make them up on the fly. I put my concepts here as well.
+My short stories, I mostly make them up on the fly.
 <br>[rss feed <i class="ph ph-link"></i>](/2feed/story_feed.xml)
 
 <ul>
