@@ -1,5 +1,5 @@
 ---
-layout: t3
+layout: t4
 title: RIIATW
 details: Relatively Important Information About the Website (Or RIIAtW for short)
 ---
