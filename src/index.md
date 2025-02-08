@@ -55,9 +55,9 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<div id="oc-webring-widget">
 			<div id="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring</a></div>
 			<div id="oc-webring-controls">
-				<a href="https://tofutush.github.io/oc-webring/prev/?site=mechagics_fun_party">Previous</a>
-				<a href="https://tofutush.github.io/oc-webring/rand/?site=mechagics_fun_party">Random</a>
-				<a href="https://tofutush.github.io/oc-webring/next/?site=mechagics_fun_party">Next</a>
+				<a href="https://tofutush.github.io/oc-webring/prev/?site=Mechagic's Fun Party">Previous</a>
+				<a href="https://tofutush.github.io/oc-webring/rand/?site=Mechagic's Fun Party">Random</a>
+				<a href="https://tofutush.github.io/oc-webring/next/?site=Mechagic's Fun Party">Next</a>
 			</div>
 		</div>
 		<br><br>
