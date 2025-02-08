@@ -6,6 +6,7 @@ webring = {
   // list of sites in the ring
   sites: [
     "https://mechagic.party/",
+    "https://tofutush.github.io/The-Iron-Ragdoll/misc/links/",
       ],
 
   // html inserted as your widget
@@ -28,7 +29,7 @@ webring = {
   stylesheet: "/1stylescripts/gitgudring.css",
 
   // html inserted instead of your widget on sites that aren't in the ring
-  error: "<div>This website isn't part of the webring yet! GET TO IT WEBMASTER!!!</div>",
+  error: "<div>This website isn't part of the GitGudRing yet! GET TO IT NOW WEBMASTER!!!</div>",
 
 };
 

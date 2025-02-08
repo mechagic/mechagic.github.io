@@ -36,14 +36,23 @@ It's simple!
 3. And that's about it!
 
 ### Members
-<a href="https://mechagic.party/"><img src="https://mechagic.party/2images/1button.webp" alt="Mechagic's Fun Button"></a><br><strong>Mechagic's Fun Party</strong><br>A very cool personal website that is owned by a cockroach that learned how to type.
+<div class="ringmembers">
+	<div class="cflex">
+		<img src="https://mechagic.party/2images/1button.webp" alt="Mechagic's Fun Button"><br>
+		<a href="https://mechagic.party/"><strong>Mechagic's Fun Party</strong></a><br>A very cool personal website that is owned by a cockroach that learned how to type.
+  </div>
+	<div class="cflex">
+		<img src="https://file.garden/ZvadqiE050beWbgP/The_Iron_Ragdoll.gif" alt="The Iron Ragdoll Button"><br>
+		<a href="https://tofutush.github.io/The-Iron-Ragdoll/"><strong>The Iron Ragdoll</strong></a><br>A comic and paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
+  </div>
+</div>
 
 <style>
 	.cflex{
-        border-width:var(--brdr-width2);
-        padding:var(--pad4);
-        border:solid var(--clr2);
-        box-shadow:0px 0px 0px 0.114vw var(--clr3) inset;
+    border-width:var(--brdr-width2);
+    padding:var(--pad4);
+    border:solid var(--clr2);
+    box-shadow:0px 0px 0px 0.114vw var(--clr3) inset;
 		justify-content: center!important;
 		align-content: center!important;
 		text-align: center!important;
