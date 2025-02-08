@@ -13,7 +13,7 @@ It's powered by [Juneish's Webring Code](https://juneish.neocities.org/written/r
 
 - No porn should be on your website. I'm 17 and I don't want anyone getting into legal trouble.
 - Your website must have stuff on it.
-  - *Stuff like images, a good amount of text among other things. If it doesn't have those, then you aren't getting in.*
+  - *Stuff like images, a good amount of text, among other things. If it doesn't have those, then you aren't getting in.*
 - It has to be hand coded
   - *No wix, google site, carrd or strawpage shenaniganery here*
 - Widget should be on your site prior to being added
