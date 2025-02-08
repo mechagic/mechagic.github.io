@@ -75,6 +75,9 @@ ul {
    list-style-type:square;
    margin:auto 2rem;
 }
+ol {
+   margin:auto 2rem;
+}
 li {
    margin:0.5rem auto;
 }
@@ -101,6 +104,9 @@ textarea{
    border:solid var(--clr2);
    height: 7vh;
 }
+textarea.link{
+   width: auto;
+}
 a {
    color:var(--main2);
    text-decoration-style:wavy;
@@ -122,6 +128,9 @@ img {
 }
 img.btn{
    width: 10vw;
+}
+img.ring{
+   width: 7vw;
 }
 img.main {
    width:85%;
@@ -293,7 +302,7 @@ hr.vr{
 /*table*/
 table,td,th {
    border-width:var(--brdr-width2);
-   !important;
+   word-wrap:break-word;
 }
 table {
    border-collapse:collapse;
@@ -324,6 +333,12 @@ th:last-child,td:last-child {
    margin:auto !important;
    display:grid;
    gap: 10px;
+   grid-template-columns:auto auto auto;
+}
+.ringmembers {
+   margin:0.5rem 3rem;
+   display:grid;
+   gap: 2vw;
    grid-template-columns:auto auto auto;
 }
 /*form*/
@@ -448,6 +463,9 @@ a.oclink:hover {
 img.btn{
    width: 50%;
 }
+img.ring{
+   width: 95%;
+}
 hr.vr{
    width:95%;
    background:var(--clr3);
@@ -510,7 +528,6 @@ main {
 /*table*/
 table,td,th {
    border-width:var(--brdr-width2);
-   !important;
    word-wrap:break-word;
 }
 /*tabs*/
@@ -528,6 +545,10 @@ table,td,th {
 .member {
    gap: -15px;
    grid-template-columns:auto auto;
+}
+.ringmembers {
+   gap:3vh;
+   grid-template-columns:auto;
 }
 /*form*/
 select{

@@ -15,6 +15,14 @@
    --clr2:#90764e;
    --clr3:#a3d1c6 ;
    --hdr: linear-gradient(90deg, rgba(74,33,24,1) 40%, rgba(255,255,255,0) 70%);
+   em {
+      color:var(--main1);
+      text-shadow:2px 2px 0 var(--clr2),2px -2px 0 var(--clr2),-2px 2px 0 var(--clr2),-2px -2px 0 var(--clr2),2px 0px 0 var(--clr2),0px 2px 0 var(--clr2),-2px 0px 0 var(--clr2),0px -2px 0 var(--clr2),2px -3px 0px rgba(206,89,55,0);
+   }
+strong {
+      color:var(--clr3);
+      text-shadow:2px 2px 0 var(--clr1),2px -2px 0 var(--clr1),-2px 2px 0 var(--clr1),-2px -2px 0 var(--clr1),2px 0px 0 var(--clr1),0px 2px 0 var(--clr1),-2px 0px 0 var(--clr1),0px -2px 0 var(--clr1),2px -3px 0px rgba(206,89,55,0);
+   }
 }
 
 [data-theme='highdark'] {
@@ -40,6 +48,15 @@
    --clr2:#4E7890;
    --clr3:#D1D0A3;
    --hdr: linear-gradient(90deg, rgba(24,56,74,1) 40%, rgba(255,255,255,0) 70%);
+
+   em {
+      color:var(--clr1);
+      text-shadow:2px 2px 0 var(--clr2),2px -2px 0 var(--clr2),-2px 2px 0 var(--clr2),-2px -2px 0 var(--clr2),2px 0px 0 var(--clr2),0px 2px 0 var(--clr2),-2px 0px 0 var(--clr2),0px -2px 0 var(--clr2),2px -3px 0px rgba(206,89,55,0);
+   }
+strong {
+      color:var(--clr1);
+      text-shadow:2px 2px 0 var(--clr3),2px -2px 0 var(--clr3),-2px 2px 0 var(--clr3),-2px -2px 0 var(--clr3),2px 0px 0 var(--clr3),0px 2px 0 var(--clr3),-2px 0px 0 var(--clr3),0px -2px 0 var(--clr3),2px -3px 0px rgba(206,89,55,0);
+   }
 
    a {
       background-image:linear-gradient(to right,rgba(0,0,0,0) 50%,var(--clr2) 50%)!important;

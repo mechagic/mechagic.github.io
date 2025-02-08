@@ -9,7 +9,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 		<h2>LINK ME!</h2>
 		<div class="flex" style="align-items: center; width: 100%;">
 			<a href="https://mechagic.party/"><img class="btn" style="margin: 0 auto;" src="/2images/1button.webp" alt="Mechagic's Fun Button"></a> 
-		    <textarea style="margin-left: 2.5%;"><a href="https://mechagic.party/"><img src="mechagic.github.io/2images/1button.webp" alt="Mechagic's Fun Button"></a> </textarea>
+		    <textarea style="margin-left: 2.5%;"><a href="https://mechagic.party/"><img src="https://mechagic.party/2images/1button.webp" alt="Mechagic's Fun Button"></a></textarea>
 		</div>
 	</div>
 	<div class="trnsprnt">
@@ -34,6 +34,8 @@ If any of these are breaking please make sure that you're on the <code>https://<
 
 <div class="flex">
 	<div class="trnsprnt">
+		<br><br>
+		<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 		<br><br>
 		<link rel="stylesheet" href="https://toastofthesewn.nekoweb.org/bugring/script/bugring.css">  
 		<div id='bugring'>
