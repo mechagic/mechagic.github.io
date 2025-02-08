@@ -51,7 +51,7 @@ And was tested in
   The theme switcher
  - Was made by Saadeghi - [link](https://github.com/saadeghi/theme-change)
 
-  The Git Gud Ring
+  The git gud ring
  - Was made with Juneish's script - [link](https://juneish.neocities.org/written/resources/?page=webstring)
 
  ### Javascript Stuff
