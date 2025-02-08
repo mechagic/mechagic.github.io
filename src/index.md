@@ -52,6 +52,15 @@ If any of these are breaking please make sure that you're on the <code>https://<
 			<script type="text/javascript" src="https://furryring.neocities.org/onionring-widget.js"></script>
 		</div>
 		<br><br>
+		<div id="oc-webring-widget">
+			<div id="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring</a></div>
+			<div id="oc-webring-controls">
+				<a href="https://tofutush.github.io/oc-webring/prev/?site=YOUR_SITE_NAME">Previous</a>
+				<a href="https://tofutush.github.io/oc-webring/rand/?site=YOUR_SITE_NAME">Random</a>
+				<a href="https://tofutush.github.io/oc-webring/next/?site=YOUR_SITE_NAME">Next</a>
+			</div>
+		</div>
+		<br><br>
 		<p>
 			<a href="https://fediring.net/previous?host=mechagic.party">←←←</a> | <a href="https://fediring.net/">Fediring</a> | <a href="https://fediring.net/next?host=mechagic.party">→→→</a>
 		</p>
