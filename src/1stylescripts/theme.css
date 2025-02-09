@@ -260,9 +260,9 @@ hr.vr{
 }
 /*other elements*/
 nav[aria-label="pagination"] {
-  display: flex;
+  display: flex!important;
   justify-content: center;
-   font-size:1.5rem; 
+   font-size:1.5rem!important; 
    margin:0rem 9.5rem!important;
 }
   /*tabs*/
@@ -369,6 +369,7 @@ button.theme{
 
 select#pageDropdown{
    font-size: 1rem!important;
+   width: 75%!important;
 }
 
 /*OC wiki related*/
