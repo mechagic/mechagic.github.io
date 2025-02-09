@@ -7,6 +7,7 @@ webring = {
   sites: [
     "https://mechagic.party/",
     "https://tofutush.github.io/The-Iron-Ragdoll/misc/links/",
+    "https://ironstar.nekoweb.org/",
       ],
 
   // html inserted as your widget
