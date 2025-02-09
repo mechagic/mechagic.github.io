@@ -55,7 +55,7 @@ It's simple!
   </div>
 	<div class="cflex">
 		No Button <br><hr>
-		<a href="https://tofutush.github.io/The-Iron-Ragdoll/"><strong>Amaris Spacetime</strong></a><br>Personal blog and certified cozy corner.
+		<a href="https://ironstar.nekoweb.org/"><strong>Amaris Spacetime</strong></a><br>Personal blog and certified cozy corner.
   </div>
 </div>
 
