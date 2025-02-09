@@ -1,5 +1,5 @@
 ---
-layout: t3.njk
+layout: t3p.njk
 title: Spinal Cord
 tags:
     - poetry

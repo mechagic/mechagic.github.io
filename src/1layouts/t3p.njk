@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="{{ '/1stylescripts/colors.css' | url }}">
+    <link rel="stylesheet" href="{{ '/1stylescripts/theme.css' | url }}">
+    <script src="https://cdn.jsdelivr.net/npm/theme-change@2.0.2/index.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}}</title>
+    <meta name="title" content="{{title}}" />
+    <meta name="description" content="{{details}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mechagic.party/" />
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:image" content="/2images/1icon.webp" />
+    <meta name="theme-color" content="#0087FF">
+    <link rel="icon" type="image/x-icon" href="/2images/1icon.webp">
+  </head>
+  <body>
+    <div id="cntnr">
+      <div id="header">
+        <div class="trnsprnt" style="background: var(--hdr); padding: 0.5rem;"><a class="hidden" href="/"><h1 class="head">MECHAGIC.PARTY</h1></a></div>
+      </div>
+      <main>
+        <h2>{{title}}</h2>
+        {{content | safe}}
+        <hr>
+          {% set previousPost = collections.poetry | getPreviousCollectionItem %}
+          {% set nextPost = collections.poetry | getNextCollectionItem %}
+          {% if previousPost or nextPost %}
+        <nav aria-label="pagination">
+          {% if nextPost %}
+            <a href="{{ nextPost.url }}">← Newer</a>
+          {% endif %}
+            <span>&nbsp;</span>
+          <select id="pageDropdown" class="pageDropdownBlog" onchange="window.location.href=this.value;">
+              {% for post in collections.poetry | reverse %}
+              <option value="{{ post.url }}" {% if page.url == post.url %} selected {% endif %}>
+                  {{ post.data.title }}
+              </option>
+              {% endfor %}
+          </select>
+            <span>&nbsp;</span>
+          {% if previousPost %}
+            <a href="{{ previousPost.url }}">Older →</a>
+          {% endif %}
+        </nav>
+       {% endif %}
+       <br>
+        <center>
+          <h4><a href="javascript:window.history.back()">Go Back</a></h4>
+        </center>
+      </main>
+      <div id="footer">
+        <center><a href="/riiatw">Relatively Important Information About the Website (Or RIIAtW for short)</a></center>
+      </div>
+    </div>
+  </body>
+</html>

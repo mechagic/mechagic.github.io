@@ -1,5 +1,5 @@
 ---
-layout: t3.njk
+layout: t3p.njk
 title: One Word Themed Poetry
 tags:
     - poetry

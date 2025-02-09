@@ -1,5 +1,5 @@
 ---
-layout: t3.njk
+layout: t3p.njk
 title: Freestyle Poetry 1-5
 tags:
     - poetry
