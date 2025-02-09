@@ -40,7 +40,7 @@ It's simple!
   - A link to your website
   - A description of your website
   - Your website's button (optional)
-  - A link to your git repo to see if you're actually eligible for the ring
+  - Send proof that you have a git repo to see if you're actually eligible for the ring
 3. And that's about it!
 
 ### Members
