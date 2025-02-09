@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3a.njk
 title: Archived Story Snippets 2
 tags:
     - archive
     - wposts
 date: 2023-12-09
+templateEngineOverride: njk, md
 ---
 
 **Author's Note:** Part 2 of this

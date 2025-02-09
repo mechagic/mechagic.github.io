@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3a.njk
 title: Archived Story Snippets 1
 tags:
     - archive
     - wposts
 date: 2023-12-08
+templateEngineOverride: njk, md
 ---
 
 **Author's Note:** Part 2 of this, the next post will be an archival of "Interview Of The Damned", which was a personal writing project that I might reboot in the future

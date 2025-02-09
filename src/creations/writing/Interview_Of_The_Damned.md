@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3a.njk
 title: Interview Of The Damned
 tags:
     - archive
     - wposts
 date: 2023-12-10
+templateEngineOverride: njk, md
 ---
 
 You can translate some of the text via rot13
