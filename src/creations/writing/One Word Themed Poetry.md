@@ -5,6 +5,7 @@ tags:
     - poetry
     - wposts
 date: 2024-01-03
+templateEngineOverride: njk, md
 ---
 
 <style>

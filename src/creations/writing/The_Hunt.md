@@ -5,6 +5,7 @@ tags:
     - poetry
     - wposts
 date: 2024-10-09
+templateEngineOverride: njk, md
 ---
 
 Gunpowder smoke, no protection, loaded full of bullets. A man will hunt in the forest
