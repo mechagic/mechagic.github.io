@@ -9,6 +9,14 @@ A webring for websites with source code that's hosted and/or deployed to other w
 
 It's powered by [Juneish's Webring Code](https://juneish.neocities.org/written/resources/?page=webstring)!
 
+Examples* of websites that belong on the webring are the following
+
+- websites deployed to nekoweb via deploy2nekoweb
+- websites deployed to neocities via github actions
+- websites hosted on services such as pages.gay and/or github pages
+
+<p>*Just because it doesn't desrcibe your website, doesn't mean that said website doesn't belong here</p>
+
 ### What are the rules?
 
 - No porn should be on your website. I'm 17 and I don't want anyone getting into legal trouble.
