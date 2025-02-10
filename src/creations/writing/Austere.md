@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3s
 title: Austere
 tags:
     - story
     - wposts
 date: 2024-10-28
+templateEngineOverride: njk, md
 ---
 
 The prime time is now! Want to surprise your loved ones with a gift that will CHANGE their lives for the holiday season? Buy the Austere Bot!

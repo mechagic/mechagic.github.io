@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3s
 title: Cogito
 tags:
     - story
     - wposts
 date: 2024-12-11
+templateEngineOverride: njk, md
 ---
 <style>
     center{

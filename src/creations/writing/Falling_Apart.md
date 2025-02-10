@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3s
 title: Falling Apart
 tags:
     - story
     - wposts
 date: 2023-12-24
+templateEngineOverride: njk, md
 ---
 
 ---

@@ -1,10 +1,11 @@
 ---
-layout: t3
+layout: t3s
 title: Beyond You
 tags:
     - story
     - wposts
 date: 2025-01-07
+templateEngineOverride: njk, md
 ---
 **Author's Note:**  This is the backstory of my OCs and will eventually be deleted and then reuploaded to the [OC Wiki <i class="ph ph-link"></i>](/oc_wiki)
 

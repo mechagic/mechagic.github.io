@@ -1,10 +1,11 @@
 ---
-layout: t3.njk
+layout: t3s
 title: Tend To The Planet
 tags:
     - story
     - wposts
 date: 2024-11-27
+templateEngineOverride: njk, md
 ---
 **Author's Note:**  This is the backstory of my OCs and will eventually be deleted and then reuploaded to the [OC Wiki <i class="ph ph-link"></i>](/oc_wiki)
 
