@@ -57,6 +57,10 @@ It's simple!
 		No Button <br><hr>
 		<a href="https://ironstar.nekoweb.org/"><strong>Amaris Spacetime</strong></a><br>Personal blog and certified cozy corner.
   </div>
+	<div class="cflex">
+		<img src="https://bibliohound.neocities.org/images/88x31-buttons/bibliohound-button.png" alt="The Iron Ragdoll Button"> <br><hr>
+		<a href="https://bibliohound.neocities.org/"><strong>Wildcat's Website</strong></a><br> A personal website containing stories written by the webmaster and other fun things.
+  </div>
 </div>
 
 <style>
