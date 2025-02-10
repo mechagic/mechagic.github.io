@@ -20,6 +20,7 @@ Examples* of websites that belong on the webring are the following
 ### What are the rules?
 
 - No porn should be on your website. I'm 17 and I don't want anyone getting into legal trouble.
+  - *Artistic nudity is fine so long as there's a warning while mature themes ingeneral are a-okay*
 - Your website must have stuff on it.
   - *Stuff like images, a good amount of text, among other things. If it doesn't have those, then you aren't getting in.*
 - It has to be hand coded
