@@ -59,8 +59,12 @@ It's simple!
 		<a href="https://ironstar.nekoweb.org/"><strong>Amaris Spacetime</strong></a><br>Personal blog and certified cozy corner.
   </div>
 	<div class="cflex">
-		<img src="https://bibliohound.neocities.org/images/88x31-buttons/bibliohound-button.png" alt="The Iron Ragdoll Button"> <br><hr>
+		<img src="https://bibliohound.neocities.org/images/88x31-buttons/bibliohound-button.png" alt="Wildcat's Button"> <br><hr>
 		<a href="https://bibliohound.neocities.org/"><strong>Wildcat's Website</strong></a><br> A personal website containing stories written by the webmaster and other fun things.
+  </div>
+	<div class="cflex">
+		<img src="https://bang1338.nekoweb.org/bang1338.gif" alt="Bang1338's Button"> <br><hr>
+		<a href="https://bang1338.nekoweb.org/"><strong>Bang1338's Website</strong></a><br> A personal website with totally random stuffs that good, done by single box :)
   </div>
 </div>
 

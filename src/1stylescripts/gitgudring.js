@@ -9,6 +9,7 @@ webring = {
     "https://tofutush.github.io/The-Iron-Ragdoll/misc/links/",
     "https://ironstar.nekoweb.org/",
     "https://bibliohound.neocities.org/webrings/",
+    "https://bang1338.nekoweb.org/",
       ],
 
   // html inserted as your widget
