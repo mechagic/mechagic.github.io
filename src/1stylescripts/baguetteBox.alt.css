@@ -38,7 +38,7 @@
 #baguetteBox-overlay .full-image img{
     display:inline-block;
     height:auto;
-    width: auto;
+    width: 60vh;
     max-height:100%;
     max-width:100%;
     vertical-align:middle;
