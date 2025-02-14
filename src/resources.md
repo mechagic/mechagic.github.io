@@ -31,8 +31,8 @@ Stuff to help with coding, I used most of the tools here
 - Sublime Text, my main code editor - [link](https://www.sublimetext.com/)
 - Webring tool list, what it says on the tin - [link](https://brisray.com/web/webring-tech.htm)
 - Eleventy, the SSG that I'm using right now! - [link](https://www.11ty.dev/)
-- CSSgradient, what I used to make all of the gradients here - [link](https://cssgradient.io)
 - Petrapixel's layout builder, actively maintained - [link](https://petrapixel.neocities.org/coding/layout-generator)
+- CSSgradient, what I used to make all of the gradients here - [link](https://cssgradient.io)
 
 ---
 
@@ -40,6 +40,7 @@ Stuff to help with coding, I used most of the tools here
 Colors, ASCII as well as some other stuff
 
 - Phosphoricons, FOSS icon pack - [link](https://phosphoricons.com/)
+- BitFontMaker, Make your own pixel fonts - [link](https://www.pentacom.jp/pentacom/bitfontmaker2/)
 - Ascii archive, categorized by the ASCII's theme - [link](https://www.asciiart.eu/)
 - Squoosh, used to compress or convert image files - [link](https://squoosh.app)
 - Dithermark, for the dithering on some of the images - [link](https://app.dithermark.com/)
