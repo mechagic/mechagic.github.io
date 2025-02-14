@@ -1,7 +1,7 @@
 ---
 layout: t2
 title: Other Works
-details: Things that people have paid me money to do.
+details: Stuff I made that other people use
 ---
 
 **MOST OF THESE ARE PAID**, You can buy my services [here](https://ko-fi.com/c/c6c2119f51) (only 3 slots open)
