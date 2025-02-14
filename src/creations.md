@@ -14,5 +14,5 @@ If you like any of my stuff, consider supporting me on [KoFi](https://ko-fi.com/
 
 [Music](music) - A not wise man once said: Sometimes you need to spam notes on beepbox until something sounds good. This is a lot of spamming notes on beepbox.
 
-[Paid Work](paid_work) - Things that people have paid me money to do.
+[Other Works](other_works) - Stuff I made that other people use
 

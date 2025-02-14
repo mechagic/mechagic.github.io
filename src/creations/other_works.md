@@ -1,12 +1,11 @@
 ---
 layout: t2
-title: Paid Work
+title: Other Works
 details: Things that people have paid me money to do.
 ---
 
-15 USD per inquiry. After 3 revisions there will be an additional 1 USD per revision.<br>
-Pay after inquiry, revisions are paid for via Kofi's donation system.<br>
-You can message me on my discord `mechagic` or email me at `mechagic@proton.me` for more information or to be more in depth about the commission.<br>
+**MOST OF THESE ARE PAID**
+
 You can buy my services [here](https://ko-fi.com/c/c6c2119f51) (only 3 slots open)
 
 ## Poyoweb
