@@ -66,6 +66,10 @@ It's simple!
 		<img src="https://bang1338.nekoweb.org/bang1338.gif" alt="Bang1338's Button"> <br><hr>
 		<a href="https://bang1338.nekoweb.org/"><strong>Bang1338's Website</strong></a><br> A personal website with totally random stuffs that good, done by single box :)
   </div>
+	<div class="cflex">
+		<img src="https://imgur.com/OloqmjB.png" alt="Lockheart Love Button"> <br><hr>
+		<a href="https://lockheartlove.neocities.org/"><strong>Lockheart Love</strong></a><br> My internet brain dump, a corner of the internet that I get to decorate and enjoy!!
+  </div>
 </div>
 
 <style>
