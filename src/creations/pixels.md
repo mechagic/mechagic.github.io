@@ -5,6 +5,7 @@ details: I'm not that good at pixel art that much, but it's fun making them anyw
 ---
 
 ### Buttons I made
+You can commission me to make these on [Ko-fi](https://ko-fi.com/c/90dd0bfd7d)! 
 
 <div class="gallery">
         <a class="gal" href="/2pix/ourprincess.webp" data-caption=" Fanmade Our Princess button | Fanfic can be found on ao3 | February 14 2025">
