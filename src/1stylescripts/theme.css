@@ -470,7 +470,7 @@ a.oclink:hover {
 /*---*/
 
 /*tablet friendly*/
-@media screen and (max-width:800px) {
+@media screen and (max-width:801px) {
 *{
    box-sizing:border-box;
 }
@@ -537,7 +537,7 @@ img.ocimg, .ocdes{
 
 /*mobile friendly*/
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:601px) {
 *{
    box-sizing:border-box;
 }
