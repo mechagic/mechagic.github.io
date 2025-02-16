@@ -470,7 +470,7 @@ a.oclink:hover {
 /*---*/
 
 /*tablet friendly*/
-@media screen and (max-width:801px) {
+@media screen and (max-width:851px) {
 *{
    box-sizing:border-box;
 }
