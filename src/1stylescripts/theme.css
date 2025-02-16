@@ -530,7 +530,10 @@ img.ocimg, .ocdes{
    grid-template-columns:auto auto auto auto;
    overflow-x: hidden;
 }
-
+.ringmembers {
+   gap:3vh;
+   grid-template-columns:auto auto;
+}
 }
 
 /*---*/
