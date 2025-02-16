@@ -12,6 +12,7 @@
    --pad4:1.2vh;
    --padmb: 2vh 1vw;
 }
+
 /*text and images*/
 @font-face {
    font-family:Mario-Kart-DS;
@@ -31,6 +32,9 @@
    src:url('/2fonts/VHS-Gothic.ttf');
    font-style:italic;
 }
+
+/*---*/
+
 /*content*/
 p {
    margin:0.8rem 1.5rem;
@@ -376,6 +380,7 @@ select#pageDropdown{
 /*OC wiki related*/
 .ocgrid {
    width:100%;
+   justify-content: space-evenly;
    display:grid;
    grid-template-columns:auto auto auto auto auto auto;
 }
@@ -394,8 +399,8 @@ select#pageDropdown{
 .octhumb{
    display: flex;
    flex-direction: column;
-   width: 90%;
-   margin-right: -15vh;
+   width: 100%;
+   margin-right: -8vh;
    margin-bottom: var(--inner-margin);
 }
 img.ocart{
@@ -462,9 +467,77 @@ a.oclink:hover {
    background-position:-100% 0;
 }
 
+/*---*/
+
+/*tablet friendly*/
+@media screen and (max-width:800px) {
+*{
+   box-sizing:border-box;
+}
+/*major elements*/
+.blue {
+   display:none;
+}
+#cntnr {
+   max-width:90vw;
+   margin:auto!important;
+}
+.box {
+   padding:var(--padmb);
+   width:50%;
+   margin:0px;
+}
+.rflex, .cflex {
+   display:block;
+}
+.float {
+  position: static;
+  width: 70%;
+  margin: auto;
+}
+/*OC wiki related*/
+.ocgrid {
+   width:100%;
+   grid-template-columns:auto auto auto;
+   box-sizing: border-box!important;
+}
+.clroc{
+   height: 7vh;
+   width:10vw;
+}
+.octhumb{
+   width: 75%;
+   margin-left: 3vw;
+   margin-bottom: 1.2vh;
+}
+
+img.ocimg, .ocdes, .ocbox1, .ocbox2{
+   width:95%;
+   box-sizing: border-box!important;
+   margin: var(--inner-margin);
+}
+
+img.ocimg, .ocdes{
+   width: 75%;
+   margin-left: auto!important;
+   margin-right: auto!important;
+}
+/*other elements*/
+/*grids*/
+  .gallery {
+   margin:auto !important;
+   display:grid;
+   grid-template-columns:auto auto auto auto;
+   overflow-x: hidden;
+}
+
+}
+
+/*---*/
+
 /*mobile friendly*/
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:600px) {
 *{
    box-sizing:border-box;
 }
@@ -569,7 +642,6 @@ select{
 /*OC wiki related*/
 .ocgrid {
    width:100%;
-   align-content: center;
    gap: -15%!important;
    grid-template-columns:auto auto;
    box-sizing: border-box!important;

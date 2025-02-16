@@ -32,7 +32,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 
 If any of these are breaking please make sure that you're on the <code>https://</code> version of the website instead of the <code>http://</code> version, thanks in advance
 
-<div class="flex">
+<div class="rflex">
 	<div class="trnsprnt">
 		<br><br>
 		<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
