@@ -539,7 +539,6 @@ img.ocimg, .ocdes{
 /*---*/
 
 /*mobile friendly*/
-
 @media screen and (max-width:601px) {
 *{
    box-sizing:border-box;
