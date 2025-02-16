@@ -151,6 +151,12 @@ img.tramb {
    margin:var(--inner-margin);
    width:85%;
 }
+img.quiz {
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+   margin:var(--inner-margin);
+   width:25%;
+}
 iframe.music {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
@@ -473,6 +479,13 @@ a.oclink:hover {
 @media screen and (max-width:851px) {
 *{
    box-sizing:border-box;
+}
+/*content*/
+img.quiz {
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+   margin:var(--inner-margin);
+   width:65%;
 }
 /*major elements*/
 .blue {

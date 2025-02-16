@@ -12,8 +12,13 @@ details: Relatively Important Information About the Website (Or RIIAtW for short
 When the site is down that means there's an update (hopefully)
 
 This website is 
- - Mobile-friendly (Ie: It is compatible with phones)
+ - Mobile and Tablet friendly (more information below)
  - but it is best viewed on a 1760px x 833px desktop
+
+ Different layouts get triggered on
+ - 800 pixels width (Tablet-friendly)
+ - and 600 pixels width (Mobile-friendly)
+ - Anything larger then that would just be the regular layout
 
 The code is hosted on
 

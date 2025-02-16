@@ -24,6 +24,15 @@ This place serves as a hub for most of my creative shenanigans. My art, my music
 
 ---
 
+### Quiz Results
+Get to know me without actually getting to know me!
+
+<div class="members">
+<a href='https://clownfred.zone/clownquiz'><img class="quiz" src='https://clownfred.zone/!Media/CQ/AugusteCard2.png' alt='I 	am an Auguste Clown! Click here to take the clown quiz!'></a> <a href="https://www.theotaku.com/quizzes/view/561/what_eevee_evolution_are_you%3F"><img class="quiz" src="http://www.theotaku.com/guru_results/561_Vaporeon.jpg" alt="What Eevee Evolution Are You?"></a>
+</div>
+
+---
+
 ### A Bunch More Stuff
 
 Here are my pronouns, I use any pronouns that exist out there, but I prefer these the most 
@@ -202,6 +211,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
 	  </table>
 	</div> 
 </div>
+
 <br>
 
 My very cool kinsona, this is what definitely I look like IRL (it's a cockroach) 
