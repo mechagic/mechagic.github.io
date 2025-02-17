@@ -7,8 +7,8 @@ details: A very cool personal website that is owned by a cockroach that learned 
 <div class="flex">
 	<div class="trnsprnt">
 		<h2>LINK ME!</h2>
-		<div class="flex" style="align-items: center; width: 100%;">
-			<a href="https://mechagic.party/"><img class="btn" style="margin: 0 auto;" src="/2images/1button.webp" alt="Mechagic's Fun Button"></a> 
+		<div class="rflex" style="justify-items: center; width: 100%;">
+			<a href="https://mechagic.party/"><img class="mbtn" src="/2images/1button.webp" alt="Mechagic's Fun Button"></a> 
 		    <textarea style="margin-left: 2.5%;"><a href="https://mechagic.party/"><img src="https://mechagic.party/2images/1button.webp" alt="Mechagic's Fun Button"></a></textarea>
 		</div>
 	</div>

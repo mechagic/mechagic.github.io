@@ -130,7 +130,7 @@ a.hidden {
 img {
    image-rendering:pixelated;
 }
-img.btn{
+img.btn, img.mbtn{
    width: 10vw;
 }
 img.ring{
@@ -487,6 +487,9 @@ a.oclink:hover {
    box-sizing:border-box;
 }
 /*content*/
+img.mbtn {
+   width:75%;
+}
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
@@ -572,7 +575,7 @@ img.ocimg, .ocdes{
   img.main {
    width:30%;
 }
-img.btn{
+img.btn, img.mbtn{
    width: 50%;
 }
 img.ring{
