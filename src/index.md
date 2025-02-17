@@ -15,13 +15,16 @@ details: A very cool personal website that is owned by a cockroach that learned 
 	<div class="trnsprnt">
 		<h2>MEMBERSHIPS</h2>
 		<div class="member">
-			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:100%; margin-bottom:-25px;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
+			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:100%;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
 			<div class ="trnsprnt" style="margin: var(--inner-margin);">
-				<a href="https://pkmn.caelestis.nu">Pokémon</a> | Primarina<br><img src="/2images/2primarina.webp" style="margin:auto;" title="Primarina">
+				<a href="https://pkmn.caelestis.nu" rel="noopener noreferrer">I Choose You!</a> <img src="/2images/2primarina.webp" style="margin: 0px -15px; background: transparent;"> Primarina
 		    </div>
-		    <br></br>
+		    </br></br>
+		    <div class="trnsprnt" style="justify-self: center;">
+		    	<a href="https://theforest.link/go-for-a-walk">Walk The Forest</a> / <a href="https://theforest.link/">Info</a>
+		    </div>
 		    <a href="https://nonbot.org/pledged/view/9e279bff-d352-4e07-8280-ad07316f9074" target="_blank">
-		    <img class="nobot" style="width:100%; margin-top:-50px;" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
+		    	<img class="nobot" style="width:50%;" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
 		    </a>
 		</div>
 	</div>
@@ -119,7 +122,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 @media screen and (max-width:800px) {
 img.nobot{
 	margin: 0px!important;
-	width: 50%!important;
+	width: 100%!important;
 }
 }
 </style>
