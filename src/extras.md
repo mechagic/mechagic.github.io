@@ -3,8 +3,15 @@ layout: t2
 title: Extras
 details: All the extra bits of my website :}
 ---
-### Git Gud Ring
-Uh idk where else to put this. Join my [webring](gitgudring), look at the page it's on to read about what it's all about lol.
+### Other pages
+- [Webring](gitgudring) - Uh idk where else to put this. Join my webring, look at the page it's on to read about what it's all about lol.
+- [Quizzes](quizzes) - Get to know me without actually getting to know me!
+
+### Shrines
+With all the shrines to the all the things I adore :}
+
+- [The June Archive](tjarp) (coming soon)
+- [Unorthodox Kitten](unorthodox_kitten) (coming soon)
 
 ### All images
 All the graphics I used for this website
@@ -34,11 +41,3 @@ All the graphics I used for this website
 <script type="text/javascript">
     window.addEventListener('load', function() { baguetteBox.run('.gallery');});
 </script>
-
-<br>
-
-### Shrines
-With all the shrines to the all the things I adore :}
-
-- [The June Archive](tjarp) (coming soon)
-- [Unorthodox Kitten](unorthodox_kitten) (coming soon)

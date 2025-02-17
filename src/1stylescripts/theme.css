@@ -155,7 +155,7 @@ img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
    margin:var(--inner-margin);
-   width:25%;
+   width:80%;
 }
 iframe.music {
    border-width:var(--brdr-width1);
@@ -357,6 +357,12 @@ th:last-child,td:last-child {
    gap: 2vw;
    grid-template-columns:auto auto auto;
 }
+.prsnlty {
+   margin:0.5rem 3rem;
+   display:grid;
+   gap: 2vw;
+   grid-template-columns:auto auto auto auto;
+}
 /*form*/
 select{
    width: 95%;
@@ -485,7 +491,7 @@ img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
    margin:var(--inner-margin);
-   width:65%;
+   width:100%;
 }
 /*major elements*/
 .blue {
@@ -546,6 +552,12 @@ img.ocimg, .ocdes{
 .ringmembers {
    gap:3vh;
    grid-template-columns:auto auto;
+}
+.prsnlty {
+   margin:0.5rem 3rem;
+   display:grid;
+   gap: 2vw;
+   grid-template-columns:auto auto auto;
 }
 }
 
