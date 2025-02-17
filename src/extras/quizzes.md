@@ -1,6 +1,6 @@
 ---
 layout: t4
-title: Git Gud Ring
+title: Quizzes
 details: Get to know me without actually getting to know me!
 ---
 
