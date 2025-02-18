@@ -36,6 +36,11 @@
 /*---*/
 
 /*content*/
+br.low{
+   width: 0px;
+   height: 0px;
+   margin: 0px;
+}
 p {
    margin:0.8rem 1.5rem;
    line-height: 1.2rem;
@@ -125,7 +130,8 @@ a:hover {
 }
 a.hidden {
    text-decoration:none !important;
-   background-image:none;
+   background-image:none!important;
+   background-size:0% 0%;
 }
 img {
    image-rendering:pixelated;
@@ -154,8 +160,8 @@ img.tramb {
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   margin:var(--inner-margin);
-   width:80%;
+   margin: 0 -1vw;
+   width:15vw;
 }
 iframe.music {
    border-width:var(--brdr-width1);
@@ -362,6 +368,7 @@ th:last-child,td:last-child {
    display:grid;
    gap: 2vw;
    grid-template-columns:auto auto auto auto;
+   align-content: space-evenly;
 }
 /*form*/
 select{
@@ -493,8 +500,7 @@ img.mbtn {
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   margin:var(--inner-margin);
-   width:100%;
+   width:33.3%;
 }
 /*major elements*/
 .blue {
@@ -557,10 +563,8 @@ img.ocimg, .ocdes{
    grid-template-columns:auto auto;
 }
 .prsnlty {
-   margin:0.5rem 3rem;
-   display:grid;
-   gap: 2vw;
    grid-template-columns:auto auto auto;
+   gap: ;
 }
 }
 
@@ -580,6 +584,9 @@ img.btn, img.mbtn{
 }
 img.ring{
    width: 95%;
+}
+img.quiz{
+   width: 50vw;
 }
 hr.vr{
    width:95%;
@@ -664,6 +671,12 @@ table,td,th {
 .ringmembers {
    gap:3vh;
    grid-template-columns:auto;
+}
+.prsnlty {
+   margin:0.5rem 3rem;
+   display:grid;
+   gap: 2vw;
+   grid-template-columns:auto auto;
 }
 /*form*/
 select{
