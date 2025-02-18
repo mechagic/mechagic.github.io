@@ -20,4 +20,5 @@ Get to know me without actually getting to know me!
 </div>
 <div class="rflex">
 	<a href="https://swiftyshq.neocities.org/fun/quiz/eon"><img class="quiz" src="https://swiftyshq.neocities.org/img/quiz/eon/vee5.png" alt="espeon" title="relaxed and extroverted, you aren't easily bothered"></a>
+	<a href="https://swiftyshq.neocities.org/fun/quiz/creature"><img class="quiz" src="https://swiftyshq.neocities.org/img/quiz/creature/res3.png" alt="m4lw4r3 m0nst3r" title="http creature not found. you are maybe toxic but in a funny way. gods little meow meow"></a>
 </div>
