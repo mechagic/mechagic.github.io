@@ -160,8 +160,8 @@ img.tramb {
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   margin: 0 -1vw;
-   width:15vw;
+   margin-left: 2vw;
+   width:100%;
 }
 iframe.music {
    border-width:var(--brdr-width1);
@@ -363,13 +363,6 @@ th:last-child,td:last-child {
    gap: 2vw;
    grid-template-columns:auto auto auto;
 }
-.prsnlty {
-   margin:0.5rem 3rem;
-   display:grid;
-   gap: 2vw;
-   grid-template-columns:auto auto auto auto;
-   align-content: space-evenly;
-}
 /*form*/
 select{
    width: 95%;
@@ -500,7 +493,7 @@ img.mbtn {
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   width:33.3%;
+   height:50%;
 }
 /*major elements*/
 .blue {
@@ -562,10 +555,6 @@ img.ocimg, .ocdes{
    gap:3vh;
    grid-template-columns:auto auto;
 }
-.prsnlty {
-   grid-template-columns:auto auto auto;
-   gap: ;
-}
 }
 
 /*---*/
@@ -586,7 +575,8 @@ img.ring{
    width: 95%;
 }
 img.quiz{
-   width: 50vw;
+   margin: 0px auto;
+   width: 80vw;
 }
 hr.vr{
    width:95%;
@@ -671,12 +661,6 @@ table,td,th {
 .ringmembers {
    gap:3vh;
    grid-template-columns:auto;
-}
-.prsnlty {
-   margin:0.5rem 3rem;
-   display:grid;
-   gap: 2vw;
-   grid-template-columns:auto auto;
 }
 /*form*/
 select{
