@@ -1,7 +1,7 @@
 ---
 layout: t2
 title: Creations
-details: A directory of all the I made, my drawings, my writing, and my music. As well as my paid work.
+details: A directory of all the things I have made, my drawings, my writing, and my music. As well as my paid work.
 ---
 
 If you like any of my stuff, consider supporting me on [KoFi](https://ko-fi.com/mechagic)
