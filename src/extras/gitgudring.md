@@ -25,6 +25,7 @@ Examples* of websites that belong on the webring are the following
   - *Stuff like images, a good amount of text, among other things. If it doesn't have those, then you aren't getting in.*
 - It has to be hand coded
   - *No wix, google site, carrd or strawpage shenaniganery here*
+  - *Websites that are made via an SSG are hand-coded*
 - Widget should be on your site prior to being added
 - No hate speech or harmful stuff 
 - Widget must be somewhere obvious
