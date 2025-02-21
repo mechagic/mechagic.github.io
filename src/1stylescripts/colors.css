@@ -8,7 +8,7 @@
    --hdr: linear-gradient(90deg, rgba(14,0,255,1) 40%, rgba(255,255,255,0) 70%);
 }
 
-[data-theme='lowlight'] {
+[data-theme='lesslight'] {
    --main1:#EEF0EB;
    --main2:#16161D;
    --clr1:#4a2118;
@@ -41,7 +41,7 @@ strong {
    }
 }
 
-[data-theme='lowdark'] {
+[data-theme='lessdark'] {
    --main1:#16161D;
    --main2:#EEF0EB;
    --clr1:#18384A;
