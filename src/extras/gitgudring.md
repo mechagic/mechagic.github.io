@@ -35,7 +35,7 @@ Examples* of websites that belong on the webring are the following
 It's simple! 
 
 1. First paste this on the part of your website that has webrings
->> <textarea class="link"><script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script></textarea>
+ <textarea style="margin:0 5vw!important;" class="link"><script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script></textarea>
 2. And then email me at `mechagic@proton.me` with the subject "**Git Gud Ring**" with the following information:
   - Your website's name
   - A link to your website
