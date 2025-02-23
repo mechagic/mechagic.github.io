@@ -1,13 +1,11 @@
 ---
 layout: t2
 title: Other Works
-details: Stuff I made that other people use
+details: Stuff I made that don't really fit in the other categories
 ---
 
-**MOST OF THESE ARE PAID**, You can buy my services [here](https://ko-fi.com/c/c6c2119f51) (only 3 slots open)
-
-## Poyoweb
-Drew up multiple icons for an old version of [Poyoweb<i class="ph ph-link"></i>](https://poyoweb.poyo.study/) by Poyo. An up-and-coming web host made by Poyo and Team Sundown 
+## Poyoweb (Paid)
+Drew up multiple icons for an old version of [Poyoweb<i class="ph ph-link"></i>](https://poyoweb.org/) by Poyo. Which is a pretty cool webhost
 
 <div class="box2">
     <div class="gallery">
@@ -39,7 +37,7 @@ Drew up multiple icons for an old version of [Poyoweb<i class="ph ph-link"></i>]
 </div>
 <br>
 
-## Chattable
+## Chattable (Paid)
 Designed the logo for [Chattable <i class="ph ph-link"></i>](https://iframe.chat/) by Xobyte. It is a free live chat tool for your website that is customizable.
 
 Concept art not pictured.
