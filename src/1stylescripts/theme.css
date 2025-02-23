@@ -136,6 +136,11 @@ a.hidden {
 img {
    image-rendering:pixelated;
 }
+img.fnt {
+   width:50%;
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+}
 img.btn, img.mbtn{
    width: 10vw;
 }
@@ -246,6 +251,9 @@ main {
 .rflex {
    display:flex;
    flex-direction: row;
+}
+.rcont{
+   width: 45%;
 }
 .cflex {
    display:flex;
@@ -487,6 +495,9 @@ a.oclink:hover {
    box-sizing:border-box;
 }
 /*content*/
+img.fnt {
+   width:100%;
+}
 img.mbtn {
    width:75%;
 }
@@ -511,10 +522,19 @@ img.quiz {
 .rflex, .cflex {
    display:block;
 }
+.rcont{
+   width: 100%;
+}
 .float {
   position: static;
   width: 70%;
   margin: auto;
+}
+hr.vr{
+   width:95%;
+   background:var(--clr3);
+   padding:0.2vh;
+   border:0.24vh solid var(--clr2);
 }
 /*OC wiki related*/
 .ocgrid {
@@ -578,12 +598,6 @@ img.quiz{
    margin: 0px auto;
    width: 80vw;
 }
-hr.vr{
-   width:95%;
-   background:var(--clr3);
-   padding:0.2vh;
-   border:0.24vh solid var(--clr2);
-}
 
 h1.head{
   font-size:2.5rem;
@@ -631,7 +645,6 @@ main {
 .flex, .rflex, .cflex {
    display:block;
 }
-
 .float {
   position: static;
   width: 100%
