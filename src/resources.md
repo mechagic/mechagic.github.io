@@ -54,6 +54,7 @@ Colors, ASCII as well as some other stuff
 ### Add-Ons
 Stuff you can put on your website
 
+- Zonelets, blogging engine - [link](https://zonelets.net/)
 - Chattable, have a chatbox - [link](https://iframe.chat/)
 - Bloggable, iframe blogging tool - [link](https://tilde.club/~april/bloggable/)
 - Incremental Button, make number go up - [link](https://incr.easrng.net/)
