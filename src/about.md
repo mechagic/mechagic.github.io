@@ -202,9 +202,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
 	  </table>
 	</div> 
 </div>
-
 <br>
-
 My very cool kinsona, this is what definitely I look like IRL (it's a cockroach) 
 
 <center><img src="/2images/2sonaref.webp" style="width: 50%;" alt="Sona Reference"></center>
