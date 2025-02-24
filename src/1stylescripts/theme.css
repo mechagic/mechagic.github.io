@@ -255,7 +255,6 @@ main {
    flex-direction: row;
 }
 .rcont{
-   width: 45%;
 }
 .cflex {
    display:flex;
@@ -525,7 +524,7 @@ img.quiz {
    display:block;
 }
 .rcont{
-   width: 100%;
+   width: 100%!important;
 }
 .float {
   position: static;

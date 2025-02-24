@@ -29,7 +29,7 @@ You can put these wherever on your website, just credit me :}
     <div class="rflex">
         <img class="fnt" src="https://file.garden/ZvadqiE050beWbgP/font%20previews/edgelord.png" alt="Edgelord Font Preview">
         <hr class="vr">
-        <div class="rcont">
+        <div class="rcont" style="width:45%;">
             <h3>Edgelord</h3>
             <a href="https://ko-fi.com/s/3396c5886a">Download Here</a>
             <p>This is my first font ever! Created on February 23rd 2025, I just decided to make one randomly and ended up with this lol</p>
