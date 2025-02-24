@@ -133,6 +133,9 @@ a.hidden {
    background-image:none!important;
    background-size:0% 0%;
 }
+a.qz{
+   margin: auto;
+}
 img {
    image-rendering:pixelated;
 }
@@ -165,7 +168,6 @@ img.tramb {
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   margin-left: 2vw;
    width:100%;
 }
 iframe.music {
@@ -504,7 +506,7 @@ img.mbtn {
 img.quiz {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   height:50%;
+   width: 25%;
 }
 /*major elements*/
 .blue {
