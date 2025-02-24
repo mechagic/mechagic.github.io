@@ -125,9 +125,9 @@ document.addEventListener("DOMContentLoaded", function() {
       content = el.querySelector("content").textContent.trim();
       dateString = el.querySelector("published").innerHTML.slice(0, 10);
       html += ` 
-      <p> $ {title} - $ {dateString}<p> 
+      <p> $ {title} - $ {dateString}<p>
       <p> $ {content} </p>`;});
-    let html2 = ``;for (i = 0; i < 1; i++) {title = entries[i].querySelector("title").innerHTML.slice(0, 12).trim();content = entries[i].querySelector("content").textContent.trim();dateString = entries[i].querySelector("published").innerHTML.slice(0,10);html2 += `<p>${title} - ${dateString}<p><p>${content}</p>`;
+    let html2 = ``;for (i = 0; i < 1; i++) {title = entries[i].querySelector("title").innerHTML.slice(0, 12).trim();content = entries[i].querySelector("content").textContent.trim();dateString = entries[i].querySelector("published").innerHTML.slice(0,10);html2 += `<p><a href="https://status.cafe/users/mechagic">${title}</a> - ${dateString}<p><p>${content}</p>`;
     }
     document.getElementById("feed-reader").innerHTML = html2;
   })
