@@ -32,6 +32,14 @@ The map to find the non-existent treasure on this website
 				<li><a href="/creations/music">Music</a></li>
 				<li><a href="/creations/other_works">Other Works</a></li>
 			</ul>
+			<li><a href="/platforms">Platforms</a></li>
+			<li><a href="/resources">Resources</a></li>
+			<li><a href="/extras">Extras</a></li>
+			<ul>
+				<li><a href="/extras/gitgudring">Webring</a></li>
+				<li><a href="/extras/quizzes">Quizzes</a></li>
+			</ul>
+			<li><a href="/directory">Directory</a></li>
 		</ul>
 	</div>
 	<hr id="ybrd" class="vr">
