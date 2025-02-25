@@ -5,9 +5,11 @@ details: The map to find the non-existant treasure on this website
 ---
 The map to find the non-existent treasure on this website
 
+<div class="drctry">
 <div id="mbrd" class="rflex">
 	<div id="rdir">
 		<h3>Regular Directory</h3>
+		<p>A regular ol' site map</p>
 		<ul>
 			<li><a href="/">Landing Page</a></li>
 			<ul>
@@ -36,7 +38,7 @@ The map to find the non-existent treasure on this website
 			<li><a href="/directory">Directory</a> <- You're here!</li>
 		</ul>
 	</div>
-	<hr id="ybrd" class="vr">
+	<hr id="brd" class="vr">
 	<div id="afyd">
 		<h3>All For You Directory</h3>
 		<p>Pages full of stuff you can use!</p>
@@ -53,9 +55,21 @@ The map to find the non-existent treasure on this website
 		</ul>
 	</div>
 </div>
+</div>
 
 <style>
+	.drctry{
+		width:75%;
+		margin: auto;
+	}
+	@media screen and (max-width:801px) {
+		.drctry{
+			width:80%;
+		}
 	@media screen and (max-width:601px) {
+		.drctry{
+			width:100%;
+		}
 		.rflex{
 			display: flex!important;
 			flex-direction: column!important;
@@ -66,11 +80,8 @@ The map to find the non-existent treasure on this website
 		#afyd{
 			order: 3;
 		}
-		#rbrd{
-			order:2;
-		}
-		#ybrd{
-			order: 4;
+		#brd{
+			order: 2;
 		}
 	}
 </style>
