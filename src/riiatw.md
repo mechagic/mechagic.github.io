@@ -21,7 +21,6 @@ This website is
  - Anything larger then that would just be the regular layout
 
 The code is hosted on
-
  - Github publicly - [link](https://github.com/mechagic/mechagic.github.io)
  - and is mirrored on git.gay - [link](https://git.gay/MECHAGIC/github_mirror)
 
