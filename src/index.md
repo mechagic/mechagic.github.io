@@ -111,12 +111,6 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<center><script src="https://juneish.neocities.org/ring/beepbox/ring.js"></script></center>
 		<br><br>
-		<!--START OF SELF INSERT WEBRING-->
-		<div id="selfinsertwebring">
-			<script src="/1stylescripts/showWebring.js"></script>
-		</div>
-		<!--END OF SELF INSERT WEBRING-->
-		<br><br>
 	</div>
 </div>
 
