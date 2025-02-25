@@ -112,7 +112,6 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<center><script src="https://juneish.neocities.org/ring/beepbox/ring.js"></script></center>
 		<br><br>
 		<div id="vocaring"><script src="https://webring.adilene.net/widget.js"></script></div>
-		<script>document.getElementById("vocapixel").src="https://webring.adilene.net/images/teto.png";</script>
 		<br><br>
 	</div>
 </div>
