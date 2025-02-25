@@ -1,7 +1,7 @@
 ---
 layout: t2
 title: My Pixels
-details: I'm not that good at pixel art that much, but it's fun making them anyways!
+details: My buttons, fonts and other pixel stuff I have made
 ---
 
 ### Buttons I made
