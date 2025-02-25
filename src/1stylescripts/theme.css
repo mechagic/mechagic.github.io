@@ -304,7 +304,6 @@ nav[aria-label="pagination"] {
 .tab {
    overflow:hidden;
    border-width:var(--brdr-width2);
-   border-width:var(--brdr-width2);
    border:solid var(--clr1);
    background-color:var(--clr2);
 }
