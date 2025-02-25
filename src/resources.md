@@ -74,6 +74,7 @@ Ad services that advertise other indie sites, somewhat an extension of the last 
 - Sidelink - [link](https://dogspit.nekoweb.org/sidelinkads.html)
 - Nekolink - [link](https://rice.place/ad.html)
 - Ringlink - [link](https://evehibi.nekoweb.org/ringlink/info)
+- Translink- [link](https://robinsaviary.com/translink)
 - Johnvertising - [link](https://john.citrons.xyz/)
 
 ---
