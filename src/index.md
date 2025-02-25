@@ -40,6 +40,10 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 		<br><br>
+		<center>
+		    <script src="https://transring.neocities.org/ring.js"></script>
+		</center>
+		<br><br>
 		<link rel="stylesheet" href="https://toastofthesewn.nekoweb.org/bugring/script/bugring.css">  
 		<div id='bugring'>
 			<script type="text/javascript" src="https://toastofthesewn.nekoweb.org/bugring/script/bugring-variables.js"></script>
