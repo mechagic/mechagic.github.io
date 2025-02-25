@@ -20,6 +20,10 @@ This website is
  - and 600 pixels width (Mobile-friendly)
  - Anything larger then that would just be the regular layout
 
+It is also
+- cleaner than 85% of all web pages globally - [link](https://www.websitecarbon.com/website/mechagic-party/)
+- I picked the least clean page to show that I'm being honest here
+
 The code is hosted on
  - Github publicly - [link](https://github.com/mechagic/mechagic.github.io)
  - and is mirrored on git.gay - [link](https://git.gay/MECHAGIC/github_mirror)
