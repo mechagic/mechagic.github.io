@@ -11,7 +11,7 @@ details: All the extra bits of my website :}
 ### Shrines
 With all the shrines to the all the things I adore :}
 
-- [The June Archive](tjarp) (coming soon)
+- [The June Archive](tjarp)
 - [Unorthodox Kitten](unorthodox_kitten) (coming soon)
 
 ### All images

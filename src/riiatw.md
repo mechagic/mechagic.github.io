@@ -38,7 +38,8 @@ And was tested in
  The fonts used are
  - VHS Gothic Font, for the body - [link](https://www.dafont.com/vhs-gothic.font)
  - And Mario Kart DS, for the heading - [link](https://www.dafont.com/mario-kart-ds.font)
- - Both are available for free on DaFont
+ - Minecraft Standard - [link](https://www.dafont.com/minecraft-standard.font)
+ - And Upheaval, for The June Archive shrine - [link](https://www.dafont.com/upheaval.font)
 
  The status displayer
  - Was made following Bechnokid's tutorial - [link](https://bechnokid.neocities.org/resources/tut_statuscafefeed)

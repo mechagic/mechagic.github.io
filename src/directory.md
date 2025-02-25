@@ -30,7 +30,7 @@ The map to find the non-existent treasure on this website
 			<ul>
 				<li><a href="/extras/gitgudring">Webring</a></li>
 				<li><a href="/extras/quizzes">Quizzes</a></li>
-				<li><a href="/extras/tjarp">The June Archive</a> (coming soon)</li>
+				<li><a href="/extras/tjarp">The June Archive</a></li>
 				<li><a href="/extras/unorthodox_kitten">Unorthodox Kitten</a> (coming soon)</li>
 			</ul>
 			<li><a href="/directory">Directory</a> <- You're here!</li>

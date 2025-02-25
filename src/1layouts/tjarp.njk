@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="{{ '/1stylescripts/tjarp.css' | url }}">
+    <link rel="stylesheet" href="{{ '/1stylescripts/theme.css' | url }}">
+    <script src="https://cdn.jsdelivr.net/npm/theme-change@2.0.2/index.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{title}}</title>
+    <meta name="title" content="{{title}}" />
+    <meta name="description" content="{{details}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mechagic.party/" />
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:image" content="/2images/1icon.webp" />
+    <meta name="theme-color" content="#0087FF">
+    <link rel="icon" type="image/x-icon" href="/2images/1icon.webp">
+  </head>
+  <body>
+    <div id="cntnr">
+      <center>
+        <img class="banner" src="/2images/3tjarpbanner.webp" alt="shrine banner">
+        <div class="tjrbox">
+          <p>And you, why do you still live in the past?</p>
+        </div>
+      </center>
+        {{content | safe}}
+      <center style="margin: 2vh 0vw 4vh 0vw;"><h4><a href="javascript:window.history.back()">Go Back</a></h4></center>
+    </div>
+  </body>
+</html>

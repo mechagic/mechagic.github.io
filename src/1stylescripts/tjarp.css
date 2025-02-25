@@ -1,0 +1,95 @@
+:root {
+   /* tjrap css */
+   --main1:#000000;
+   --main2:#ffffff;
+   --clr1:black;
+   --clr2:red;
+   --clr3:grey;
+   --hdr: linear-gradient(90deg, rgba(14,0,255,1) 40%, rgba(255,255,255,0) 70%);
+}
+/*text*/
+@font-face {
+   font-family:Upheaval;
+   src:url('/2fonts/upheavtt.ttf');
+}
+@font-face {
+   font-family:Minecraftia;
+   src:url('/2fonts/MinecraftStandard.otf');
+}
+@font-face {
+   font-family:Minecraft;
+   src:url('/2fonts/MinecraftStandard.otf');
+   font-weight:bold;
+}
+@font-face {
+   font-family:Minecraftia;
+   src:url('/2fonts/MinecraftStandard.otf');
+   font-style:italic;
+}
+h1,h2,h3 {
+   font-family:'Upheaval'!important;
+}
+body {
+   font-family:'Minecraft'!important;
+   font-size:12px!important;
+}
+p{
+   line-height: 1.5rem!important;
+}
+
+/*image*/
+img.banner, .tjrbox, .tjrbox2{
+   width: 100%;
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+}
+img.banner{
+   margin-bottom:-1vh ;
+}
+
+img.tjrimg{
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+   width: 35%;
+   margin: auto;
+}
+
+/*flex*/
+.tjrflex, .tjrflex2 {
+   display:flex;
+   margin: 2vh 0vw 0vh 0vw;
+   justify-content: space-evenly;
+}
+
+.tjrflex{
+   flex-direction: row;
+}
+
+.tjrflex2{
+   flex-direction: row-reverse;
+}
+
+/*box*/
+.tjrbox{
+   margin-top:-1vh;
+   padding-top: 1vh;
+}
+
+.tjrbox2{
+   display: block;
+}
+
+/*mobile friendly*/
+@media screen and (max-width:601px) {
+*{
+   box-sizing:border-box;
+}
+.tjrbox2{
+   margin: 1vh 0vw 1vh 0vw!important;
+}
+.tjrflex, .tjrflex2 {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+}
