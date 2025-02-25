@@ -41,6 +41,9 @@ And was tested in
  - Minecraft Standard - [link](https://www.dafont.com/minecraft-standard.font)
  - And Upheaval, for The June Archive shrine - [link](https://www.dafont.com/upheaval.font)
 
+ June Archive Banner Image
+ - Is an edited screenshot from this video - [link](https://www.youtube.com/watch?v=bocpm0Wdfqw)
+
  The status displayer
  - Was made following Bechnokid's tutorial - [link](https://bechnokid.neocities.org/resources/tut_statuscafefeed)
 
