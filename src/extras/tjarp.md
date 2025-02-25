@@ -1,10 +1,32 @@
----
-layout: tjarp
-title: The June Archive and Restoration Project
-details: A shrine dedicated to The June Archive and Restoration Project
----
-
-<div class="tjrflex">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="/1stylescripts/tjarp.css">
+    <link rel="stylesheet" href="/1stylescripts/theme.css">
+    <script src="https://cdn.jsdelivr.net/npm/theme-change@2.0.2/index.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The June Archive and Restoration Project</title>
+    <meta name="title" content="The June Archive and Restoration Project" />
+    <meta name="description" content="A shrine dedicated to The June Archive and Restoration Project" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mechagic.party/" />
+    <meta property="og:title" content="The June Archive and Restoration Project" />
+    <meta property="og:description" content="A shrine dedicated to The June Archive and Restoration Project" />
+    <meta property="og:image" content="/2images/1icon.webp" />
+    <meta name="theme-color" content="#0087FF">
+    <link rel="icon" type="image/x-icon" href="/2images/1icon.webp">
+</head>
+  <body>
+    <div id="cntnr">
+      <center>
+        <img class="banner" src="/2images/3tjarpbanner.webp" alt="shrine banner">
+        <div class="tjrbox">
+          <p><a href="https://www.youtube.com/@JuneFlipArchive">And you, why do you still live in the past?</a></p>
+        </div>
+      </center>
+        <div class="tjrflex">
   <img class="tjrimg" src="/2images/3tjarpfuzz.webp" alt="Fuzz the Cat Fanart">
   <div class="tjrbox2" style="margin: 1vh 0vw 1vh 1vw;">
     <h3>What is this and what does it mean to you?</h3>
@@ -15,7 +37,6 @@ details: A shrine dedicated to The June Archive and Restoration Project
     </p>
   </div>
 </div>
-
 <div class="tjrflex2">
   <img class="tjrimg" src="/2images/3tjarparchivist.webp" alt="Fuzz the Cat Fanart">
   <div class="tjrbox2" style="margin: 1vh 1vw 1vh 0vw;">
@@ -27,3 +48,7 @@ details: A shrine dedicated to The June Archive and Restoration Project
     </p>
   </div>
 </div>
+      <center style="margin: 2vh 0vw 4vh 0vw;"><h4><a href="javascript:window.history.back()">Go Back</a></h4></center>
+    </div>
+  </body>
+</html>
