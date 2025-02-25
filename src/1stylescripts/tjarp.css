@@ -37,8 +37,8 @@ p{
    line-height: 1.5rem!important;
 }
 
-a{
-   word-wrap:break-word;
+code, a{
+   word-wrap:break-word! important;
 }
 
 /*image*/
