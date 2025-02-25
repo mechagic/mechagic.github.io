@@ -55,9 +55,6 @@ The map to find the non-existent treasure on this website
 </div>
 
 <style>
-	h3{
-		text-align: center;
-	}
 	@media screen and (max-width:601px) {
 		.rflex{
 			display: flex!important;
