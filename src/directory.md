@@ -6,15 +6,6 @@ details: The map to find the non-existant treasure on this website
 The map to find the non-existent treasure on this website
 
 <div id="mbrd" class="rflex">
-	<div id="afmd">
-		<h3>All For Me Directory</h3>
-		<p>Pages of self-indulgence</p>
-		<ul>
-			<li><a href="/about">About Me</a></li>
-			<li><a href="/about">About Me</a></li>
-		</ul>
-	</div>
-	<hr id="rbrd" class="vr">
 	<div id="rdir">
 		<h3>Regular Directory</h3>
 		<ul>
@@ -48,7 +39,7 @@ The map to find the non-existent treasure on this website
 	<hr id="ybrd" class="vr">
 	<div id="afyd">
 		<h3>All For You Directory</h3>
-		<p>Pages full of stuff you can use as well!</p>
+		<p>Pages full of stuff you can use!</p>
 		<ul>
 			<li><a href="/creations">Creations</a></li>
 			<ul>
@@ -72,18 +63,11 @@ The map to find the non-existent treasure on this website
 			display: flex!important;
 			flex-direction: column!important;
 		}
-		#afmd{
-			order: 5;
-		}
 		#rdir{
 			order:1;
 		}
 		#afyd{
 			order: 3;
-		}
-
-		#mbrd{
-			order: 6;
 		}
 		#rbrd{
 			order:2;
