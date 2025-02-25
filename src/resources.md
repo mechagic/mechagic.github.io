@@ -9,7 +9,9 @@ Having a hard time on what your website even looks like? These should provide pl
 
 - Happy Hues, easy color inspo - [link](https://www.happyhues.co/)
 - Siteofsites, made for this very purpose! - [link](https://www.siteofsites.co)
+- Blue Pages, links to many other websites - [link](https://www.happyhues.co/)
 - Web Design Museum, what it says on the tin - [link](https://www.webdesignmuseum.org/)
+- Starsubculture, other people showcasing their websites - [link](https://starsubculture.com/category/all-websites/)
 - Restorivland, a look at old geocities websites and the like - [link](https://restorativland.org/)
 
 ### Tutorials
