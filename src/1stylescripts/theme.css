@@ -153,6 +153,11 @@ img.ring{
 img.main {
    width:85%;
 }
+img.ava {
+   width:100%;
+   border-width:var(--brdr-width1);
+   border:solid var(--clr2);
+}
 img.thumb {
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
@@ -496,11 +501,14 @@ a.oclink:hover {
    box-sizing:border-box;
 }
 /*content*/
+img.ava {
+   width:50%;
+}
 img.fnt {
    width:100%;
 }
 img.mbtn {
-   width:75%;
+   width:55%;
 }
 img.quiz {
    border-width:var(--brdr-width1);
@@ -586,8 +594,11 @@ img.ocimg, .ocdes{
    box-sizing:border-box;
 }
 /*content*/
-  img.main {
+img.main {
    width:30%;
+}
+img.ava {
+   width:50vw;
 }
 img.btn, img.mbtn{
    width: 50%;

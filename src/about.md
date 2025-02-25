@@ -4,15 +4,23 @@ title: About Me
 details: A description of a page describing a little bug? Don't make me laugh
 ---
 ### About Me
-Hi! I'm MECHAGIC. A mundane underage moron, I am also the IRL version of the cockroach from metamorphosis!
-
-I am some rando online that likes playing random games I sort of just post random stuff that has no substance whatsoever, aside from the rare art. I also recently got into some tarot stuff, but I don't post about it, I just find it interesting
-
-I am an aldernic, bigender, salmacian, and quoiromantic. I am also a neopronouns and xenogender user. I am quite literally a cockroach, I'm an alterbeing that's kintype is a cockroach
-
-Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have a lot of impact on life
-
-Here are some things that I like: Ice cream, Lasagna, 8 Bit Music, Lists and Corn
+<div class="rflex" style="justify-content: space-evenly;">
+	<div class="rcont" style="width: 45%; margin:0.8rem 1.5rem;">
+		<img class="ava" src="/2images/2avatar.webp" alt="Avatar">
+	</div>
+	<vr>
+	<div class="trnsprnt" style="margin:0.8rem 1.5rem;">
+		Hi! I'm MECHAGIC. A mundane underage moron, I am also the IRL version of the cockroach from metamorphosis!
+    <br><br>
+    I am some rando online that likes playing random games I sort of just post random stuff that has no substance whatsoever, aside from the rare art. I also recently got into some tarot stuff, but I don't post about it, I just find it interesting
+    <br><br>
+    I am an aldernic, bigender, salmacian, and quoiromantic. I am also a neopronouns and xenogender user. I am quite literally a cockroach, I'm an alterbeing that's kintype is a cockroach
+    <br><br>
+    Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have a lot of impact on life
+    <br><br>
+    Here are some things that I like: Ice cream, Lasagna, 8 Bit Music, Lists and Corn
+	</div>
+</div>
 
 --- 
 
@@ -203,6 +211,7 @@ Here are my pronouns, I use any pronouns that exist out there, but I prefer thes
 	</div> 
 </div>
 <br>
+
 My very cool kinsona, this is what definitely I look like IRL (it's a cockroach) 
 
 <center><img src="/2images/2sonaref.webp" style="width: 50%;" alt="Sona Reference"></center>
