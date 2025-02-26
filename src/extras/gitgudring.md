@@ -71,6 +71,10 @@ It's simple!
 		<img src="https://imgur.com/OloqmjB.png" alt="Lockheart Love Button"> <br><hr>
 		<a href="https://lockheartlove.neocities.org/"><strong>Lockheart Love</strong></a><br> My internet brain dump, a corner of the internet that I get to decorate and enjoy!!
   </div>
+	<div class="cflex">
+		<img src="https://file.garden/ZvadqiE050beWbgP/entropically.png" alt="Entropically's Button"> <br><hr>
+		<a href="https://entropically.neocities.org/"><strong>Entropically</strong></a><br> Just a little personal blog, maybe also a few resources for fellow indie web creators
+  </div>
 </div>
 
 <style>
