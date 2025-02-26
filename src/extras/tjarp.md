@@ -42,7 +42,7 @@
   <div class="tjrbox2" style="margin: 1vh 1vw 1vh 0vw;">
     <h3>Who is your favorite character?</h3>
     <p>
-      My favorite character HAS to be the Archivist themselves, despite us never even hearing them through out all this. The certain air of hopelessness they give off and the fact that we even control them during the "Staff Interactions" have really endeared me to them. Of course bonus points to the fact that them saying no to Fuzz's offer and as a result giving us this <a href="https://www.youtube.com/watch?v=0WSfA7oXQ6s">banger of a song</a> and what I consider to be the theme for the series as a whole.
+      My favorite character HAS to be the Archivist themselves, despite us never even hearing them through out all this. The certain air of hopelessness they give off and the fact that we even control them during the "Staff Interactions" have really endeared me to them. Of course bonus points to the fact that them saying no to Fuzz's offer and as a result giving us this <a href="https://www.youtube.com/watch?v=UfncBsW8r78">banger of a song</a> and what I consider to be the theme for the series as a whole.
       <br><br>
       A bonus fella I have to mention has to be the "Hotdog man", he's the one that says the quote beneath the banner of this webpage, I have a theory that he might be an extension of either Fuzz or The Archivist, also he has a really cool and awesome sword and that's incredibly banger of him.
     </p>
