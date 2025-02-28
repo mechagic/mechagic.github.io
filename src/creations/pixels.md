@@ -36,6 +36,18 @@ You can put these wherever on your website, just credit me :}
         </div>
     </div>
 </div>
+<br>
+<div class="box2">
+    <div class="rflex">
+        <img class="fnt" src="https://file.garden/ZvadqiE050beWbgP/font%20previews/pixelcurves.png" alt="Edgelord Font Preview">
+        <hr class="vr">
+        <div class="rcont" style="width:45%;">
+            <h3>Pixel Curves</h3>
+            <a href="https://ko-fi.com/s/7a1fa61517">Download Here</a>
+            <p>Another one! This time it's in cursive :}<br> Created on February 28 2025</p>
+        </div>
+    </div>
+</div>
 
 <link rel="stylesheet" href="/1stylescripts/baguetteBox.alt.css">
 <script src="/1stylescripts/baguetteBox.min.js" charset="utf-8"></script>
