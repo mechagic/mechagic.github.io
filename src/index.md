@@ -78,7 +78,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		</p>
 		<br><br>
 		<center>
-			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←←←</a> 
+			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←←←</a></strong>
 				<a href="https://webring.dinhe.net/"><strong>WEBRING.DINHE.NET</strong></a> 
 			<strong><a href='https://webring.dinhe.net/next/https://mechagic.party/'>→→→</a></strong>
 		</center>
