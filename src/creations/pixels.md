@@ -32,7 +32,11 @@ You can put these wherever on your website, just credit me :}
         <div class="rcont" style="width:45%;">
             <h3>Edgelord</h3>
             <a href="https://ko-fi.com/s/3396c5886a">Download Here</a>
-            <p>This is my first font ever! Created on February 23rd 2025, I just decided to make one randomly and ended up with this lol</p>
+            <p>This is my first font ever! 
+            <br>
+            Created on February 23rd 2025, I just decided to make one randomly and ended up with this lol. 
+            <br>
+            This font is openly licensed via <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a></p>
         </div>
     </div>
 </div>
@@ -44,7 +48,11 @@ You can put these wherever on your website, just credit me :}
         <div class="rcont" style="width:45%;">
             <h3>Pixel Curves</h3>
             <a href="https://ko-fi.com/s/7a1fa61517">Download Here</a>
-            <p>Another one! This time it's in cursive :}<br> Created on February 28 2025</p>
+            <p>Another one! This time it's in cursive :}
+            <br> 
+            Created on February 28 2025. 
+            <br>
+            This font is openly licensed via <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a></p>
         </div>
     </div>
 </div>
