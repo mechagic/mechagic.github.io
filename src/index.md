@@ -79,16 +79,17 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<center>
 			<strong><a href='https://webring.dinhe.net/prev/https://mechagic.party/'>←←←</a> 
-				WEBRING.DINHE.NET 
-			<a href='https://webring.dinhe.net/next/https://mechagic.party/'>→→→</a></strong>
+				<a href="https://webring.dinhe.net/"><strong>WEBRING.DINHE.NET</strong></a> 
+			<strong><a href='https://webring.dinhe.net/next/https://mechagic.party/'>→→→</a></strong>
 		</center>
 		<br><br>
-		<div style="text-align:center">
-		   <a href="https://baccyflap.com/noai/?prv&s=mgc" target="_top" title="previous">«</a>
-		   <a href="https://baccyflap.com/noai" target="_blank">no ai &#x1f6ab;&#129302; webring</a>
-		   <a style="font-size:60%" href="https://baccyflap.com/noai/?rnd" target="_top" title="random">(&#x1F3B2;)</a>
-		   <a href="https://baccyflap.com/noai/?nxt&s=mgc" target="_top" title="next">»</a>
-		</div> 
+		 <map name="noaimini5b">
+		 	<area href="https://baccyflap.com/noai" shape="rect" coords="50,32,122,58" target="_blank" alt="no ai webring" title="no ai webring">
+		    <area href="https://baccyflap.com/noai/?prv&s=mgc" target="_top" shape="rect" coords="4,4,38,34" alt="previous" title="previous">
+		    <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="rect" coords="132,44,140,56" alt="random" title="random">
+		    <area href="https://baccyflap.com/noai/?nxt&s=mgc" target="_top" shape="rect" coords="138,4,170,34" alt="next" title="next">
+		    </map>
+		    <img style="width:176px;image-rendering:pixelated" usemap="#noaimini5b" src="https://baccyflap.com/noai/miniwidget5.gif" alt="the top of a fuzzy, black sphere with two arrows rising from it, one curving to the left, one to the right. across the bulk of the sphere it reads NO AI / WEBRING in squiggly, uneven letters and next to those words is a small question mark"> 
 		<br><br>
 		<link rel="stylesheet" href="https://milkyway.moe/onlinewire/onionring.css">
 		   <div id='onlinewire-webring'>
