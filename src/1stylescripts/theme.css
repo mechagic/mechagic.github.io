@@ -78,12 +78,12 @@ button.theme{
    border:solid var(--clr1);
 }
 em {
-   color:var(--clr2);
-   text-shadow:2px 2px 0 var(--clr3),2px -2px 0 var(--clr3),-2px 2px 0 var(--clr3),-2px -2px 0 var(--clr3),2px 0px 0 var(--clr3),0px 2px 0 var(--clr3),-2px 0px 0 var(--clr3),0px -2px 0 var(--clr3),2px -3px 0px rgba(206,89,55,0);
+   color:var(--main1);
+   text-shadow:2px 2px 0 var(--clr2),2px -2px 0 var(--clr2),-2px 2px 0 var(--clr2),-2px -2px 0 var(--clr2),2px 0px 0 var(--clr2),0px 2px 0 var(--clr2),-2px 0px 0 var(--clr2),0px -2px 0 var(--clr2),2px -3px 0px rgba(206,89,55,0);
 }
 strong {
    color:var(--clr3);
-   text-shadow:2px 2px 0 var(--clr2),2px -2px 0 var(--clr2),-2px 2px 0 var(--clr2),-2px -2px 0 var(--clr2),2px 0px 0 var(--clr2),0px 2px 0 var(--clr2),-2px 0px 0 var(--clr2),0px -2px 0 var(--clr2),2px -3px 0px rgba(206,89,55,0);
+   text-shadow:2px 2px 0 var(--clr1),2px -2px 0 var(--clr1),-2px 2px 0 var(--clr1),-2px -2px 0 var(--clr1),2px 0px 0 var(--clr1),0px 2px 0 var(--clr1),-2px 0px 0 var(--clr1),0px -2px 0 var(--clr1),2px -3px 0px rgba(206,89,55,0);
 }
 ul {
    list-style-type:square;
