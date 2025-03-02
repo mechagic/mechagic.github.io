@@ -45,6 +45,11 @@ p {
    margin:0.8rem 1.5rem;
    line-height: 1.2rem;
 }
+span.sml {
+   font-size: smaller;
+   opacity: 0.5;
+   margin:0.05rem 3rem;
+}
 h1,h2,h3 {
    font-family:Mario-Kart-DS;
    margin:0rem 0.5rem!important;
