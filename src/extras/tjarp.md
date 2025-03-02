@@ -27,7 +27,9 @@
         </div>
       </center>
         <div class="tjrflex">
-  <img class="tjrimg" src="/2images/3tjarpfuzz.webp" alt="Fuzz the Cat Fanart">
+  <div class="trnsprnt">
+    <img class="tjrimg" src="/2images/3tjarpfuzz.webp" alt="Fuzz the Cat Fanart">
+  </div>
   <div class="tjrbox2" style="margin: 1vh 0vw 1vh 1vw;">
     <h3>What is this and what does it mean to you?</h3>
     <p>
@@ -38,7 +40,9 @@
   </div>
 </div>
 <div class="tjrflex2">
-  <img class="tjrimg" src="/2images/3tjarparchivist.webp" alt="Fuzz the Cat Fanart">
+  <div class="trnsprnt">
+    <img class="tjrimg" src="/2images/3tjarparchivist.webp" alt="The Archivist Fanart">
+  </div>
   <div class="tjrbox2" style="margin: 1vh 1vw 1vh 0vw;">
     <h3>Who is your favorite character?</h3>
     <p>

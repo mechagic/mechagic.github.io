@@ -54,10 +54,12 @@ img.banner{
 img.tjrimg{
    border-width:var(--brdr-width1);
    border:solid var(--clr2);
-   width: 35%;
+   width: 100%;
    margin: auto;
 }
-
+.trnsprnt{
+   width: 35%;
+}
 /*flex*/
 .tjrflex, .tjrflex2 {
    display:flex;
@@ -95,5 +97,8 @@ img.tjrimg{
    display: flex;
    flex-direction: column;
    justify-content: center;
+}
+.trnsprnt{
+   margin:auto;
 }
 }
