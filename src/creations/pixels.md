@@ -32,9 +32,9 @@ You can put these wherever on your website, just credit me :}
         <div class="rcont" style="width:45%;">
             <h3>Edgelord</h3>
             <a href="https://ko-fi.com/s/3396c5886a">Download Here</a>
-            <p>This is my first font ever! 
+            <p>This is my first font ever! I just decided to make one randomly and ended up with this lol. 
             <br>
-            Created on February 23rd 2025, I just decided to make one randomly and ended up with this lol. 
+            Created on February 23rd 2025
             <br>
             This font is openly licensed via <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a></p>
         </div>
