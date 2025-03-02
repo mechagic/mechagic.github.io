@@ -1,6 +1,6 @@
 ---
 layout: t2
-title: platforms
+title: Platforms
 details: All the other websites I'm on
 ---
 
