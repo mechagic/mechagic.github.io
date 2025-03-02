@@ -16,20 +16,20 @@
 /*text and images*/
 @font-face {
    font-family:Mario-Kart-DS;
-   src:url('/2fonts/Mario-Kart-DS.ttf');
+   src:url('/1fonts/Mario-Kart-DS.ttf');
 }
 @font-face {
    font-family:VHS-Gothic;
-   src:url('/2fonts/VHS-Gothic.ttf');
+   src:url('/1fonts/VHS-Gothic.ttf');
 }
 @font-face {
    font-family:VHS-Gothic;
-   src:url('/2fonts/VHS-Gothic.ttf');
+   src:url('/1fonts/VHS-Gothic.ttf');
    font-weight:bold;
 }
 @font-face {
    font-family:VHS-Gothic;
-   src:url('/2fonts/VHS-Gothic.ttf');
+   src:url('/1fonts/VHS-Gothic.ttf');
    font-style:italic;
 }
 

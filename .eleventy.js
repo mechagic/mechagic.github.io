@@ -2,7 +2,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig){
   eleventyConfig.addPassthroughCopy("src/1stylescripts/");
-  eleventyConfig.addPassthroughCopy("src/2fonts/");
+  eleventyConfig.addPassthroughCopy("src/1fonts/");
   eleventyConfig.addPassthroughCopy("src/2images/");
   eleventyConfig.addPassthroughCopy("src/2art/");
   eleventyConfig.addPassthroughCopy("src/2art/th");

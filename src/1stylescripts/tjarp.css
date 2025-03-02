@@ -10,20 +10,20 @@
 /*text*/
 @font-face {
    font-family:Upheaval;
-   src:url('/2fonts/upheavtt.ttf');
+   src:url('/1fonts/upheavtt.ttf');
 }
 @font-face {
    font-family:Minecraftia;
-   src:url('/2fonts/MinecraftStandard.otf');
+   src:url('/1fonts/MinecraftStandard.otf');
 }
 @font-face {
    font-family:Minecraft;
-   src:url('/2fonts/MinecraftStandard.otf');
+   src:url('/1fonts/MinecraftStandard.otf');
    font-weight:bold;
 }
 @font-face {
    font-family:Minecraftia;
-   src:url('/2fonts/MinecraftStandard.otf');
+   src:url('/1fonts/MinecraftStandard.otf');
    font-style:italic;
 }
 h1,h2,h3 {
