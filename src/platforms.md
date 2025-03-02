@@ -12,7 +12,7 @@ As you can see there aren't a whole lotta websites that I'm active on
 My Discord account is `mechagic` and my email is `mechagic@proton.me `
 
 - Kofi - [link](https://ko-fi.com/mechagic)
-- Lemmy - [link](https://lemmy.world/u/MECHAGIC)
+- Lemmy - [link](https://lemmy.blahaj.zone/u/MECHAGIC)
 - Github - [link](https://github.com/mechagic/)
 - Tumblr - [link](https://mechagic.tumblr.com/)
 - Sheezy.art - [link](https://sheezy.art/mechagic)
