@@ -3,6 +3,7 @@ layout: t2
 title: Extras
 details: All the extra bits of my website :}
 ---
+
 ### Other pages
 - [**Webring**](gitgudring) - Uh idk where else to put this. Join my webring, look at the page it's on to read about what it's all about lol.
 - [**Guestbook**](/guestbook) - Sign this for extra coolness points!

@@ -4,6 +4,7 @@ title: Journal
 details: I'm calling this a journal instead of a blog because all it really is are my thoughts and ramblings
 templateEngineOverride: njk, md
 ---
+
 [rss feed](/2feed/feeds.xml)
 <ul>
 {%- for post in collections.posts | reverse -%}

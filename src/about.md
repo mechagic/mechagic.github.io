@@ -3,6 +3,7 @@ layout: t2
 title: About Me
 details: A description of a page describing a little bug? Don't make me laugh
 ---
+
 ### About Me
 <div class="rflex" style="justify-content: space-evenly;">
 	<div class="rcont" style="width: 45%; margin:0.8rem 1.5rem;">
