@@ -87,7 +87,7 @@ I haven't used most of these myself, but I've heard some good things. Maybe in t
 - Nekoweb - [link](https://nekoweb.org/)
 - Dorothea - [link](https://dorothea.us/)
 - Codeberg - [link](https://docs.codeberg.org/codeberg-pages/)
-- Pages.gay - [link](https://pages.gay/)
+- Pages.Gay - [link](https://pages.gay/)
 - Ichi.City - [link](https://ichi.city/)
 - Neocities - [link](https://neocities.org/)
 - Leprd Space - [link](https://leprd.space/)
