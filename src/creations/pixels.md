@@ -27,7 +27,7 @@ You can put these wherever on your website, just credit me :}
 <br>
 <div class="box2">
     <div class="rflex">
-        <img class="fnt" src="https://file.garden/ZvadqiE050beWbgP/font%20previews/edgelord.png" alt="Edgelord Font Preview">
+        <img class="fnt" src="/2fntprvw/edgelord.webp" alt="Edgelord Font Preview">
         <hr class="vr">
         <div class="rcont" style="width:45%;">
             <h3>Edgelord</h3>
@@ -43,7 +43,7 @@ You can put these wherever on your website, just credit me :}
 <br>
 <div class="box2">
     <div class="rflex">
-        <img class="fnt" src="https://file.garden/ZvadqiE050beWbgP/font%20previews/pixelcurves.png" alt="Pixel Curves Font Preview">
+        <img class="fnt" src="/2fntprvw/pixelcurves.webp" alt="Pixel Curves Font Preview">
         <hr class="vr">
         <div class="rcont" style="width:45%;">
             <h3>Pixel Curves</h3>

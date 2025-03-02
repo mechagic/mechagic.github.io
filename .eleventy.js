@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig){
   eleventyConfig.addPassthroughCopy("src/2art/");
   eleventyConfig.addPassthroughCopy("src/2art/th");
   eleventyConfig.addPassthroughCopy("src/2pix/");
+  eleventyConfig.addPassthroughCopy("src/2fntprvw/");
   eleventyConfig.addPassthroughCopy("src/2oc/");
   eleventyConfig.addPassthroughCopy("src/2oc/th");
   eleventyConfig.addPassthroughCopy("src/2pw/");
