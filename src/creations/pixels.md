@@ -64,7 +64,7 @@ You can put these wherever on your website, just credit me :}
         <div class="rcont" style="width:45%;">
             <h3>Rusty Nights</h3>
             <a href="https://ko-fi.com/s/5ab3449739">Download Here</a>
-            <p>I think I am getting better at this, what do you think?
+            <p>I think I am getting better at this, what do you think? Comes with a mono version by request :}
             <br> 
             Created on March 04 2025. 
             <br>
