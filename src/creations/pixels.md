@@ -56,6 +56,22 @@ You can put these wherever on your website, just credit me :}
         </div>
     </div>
 </div>
+<br>
+<div class="box2">
+    <div class="rflex">
+        <img class="fnt" src="/2fntprvw/rustynights.webp" alt="Rusty Nights Font Preview">
+        <hr class="vr">
+        <div class="rcont" style="width:45%;">
+            <h3>Rusty Nights</h3>
+            <a href="https://ko-fi.com/s/5ab3449739">Download Here</a>
+            <p>I think I am getting better at this, what do you think?
+            <br> 
+            Created on March 04 2025. 
+            <br>
+            This font is openly licensed via <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0.</a></p>
+        </div>
+    </div>
+</div>
 
 <link rel="stylesheet" href="/1stylescripts/baguetteBox.alt.css">
 <script src="/1stylescripts/baguetteBox.min.js" charset="utf-8"></script>
