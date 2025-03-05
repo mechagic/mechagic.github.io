@@ -37,6 +37,9 @@ And was tested in
  And was coded using
  - The sublime text editor - [link](https://www.sublimetext.com/)
 
+ There are cookies however
+ - They are only used for when you change the colors and nothing else
+
  ### Crediting Stuff
 
  The fonts used are
