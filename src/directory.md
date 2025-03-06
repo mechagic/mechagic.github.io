@@ -37,6 +37,7 @@ The map to find the non-existent treasure on this website
 				<li><a href="/extras/unorthodox_kitten">Unorthodox Kitten</a> (coming soon)</li>
 			</ul>
 			<li><a href="/directory">Directory</a> <- You're here!</li>
+			<li><a href="/riiatw">RIIATW</a>
 		</ul>
 	</div>
 	<hr id="brd" class="vr">
