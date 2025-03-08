@@ -19,6 +19,7 @@ It’s the only information in your database.<br><br>
 You can find the rest out later.<br><br>
 They're the one that made you.<br><br>
 You don't feel anything about this.<br><br>
+~~Could you even feel anything at all?~~<br><br>
 You look down.<br><br>
 `TENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANETTENDTOTHEPLANET`<br><br>
 It's the thing you were made for.<br><br>
@@ -28,8 +29,8 @@ You do as you were meant to.<br><br>
 It’s a mess.<br><br>
 Their animals going extinct.<br><br>
 You must fix this.<br><br>
-You slowly stop the sea’s rising.<br><br>
+You slowly stop the seas being risen.<br><br>
 It has to be slow, too abrupt and it could end their world.<br><br>
 The very thing you were made to take care of.<br><br>
 Tend to the planet.<br><br>
-It's not yours but you were made for it.<br><br>
+It's not yours but you were made for it.

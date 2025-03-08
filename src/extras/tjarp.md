@@ -21,7 +21,9 @@
   <body>
     <div id="cntnr">
       <center>
-        <img class="banner" src="/2images/3tjarpbanner.webp" alt="shrine banner">
+        <a href="/">
+           <img class="banner" src="/2images/3tjarpbanner.webp" alt="shrine banner and link to the website's landing page">
+        </a>
         <div class="tjrbox">
           <p><a href="https://www.youtube.com/@JuneFlipArchive">And you, why do you still live in the past?</a></p>
         </div>
