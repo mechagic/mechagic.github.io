@@ -4,8 +4,6 @@ title: OC wiki
 details: All about my goofy goober OCs :}
 ---
 
-
-
 Currently being built.
 
 In-progress:

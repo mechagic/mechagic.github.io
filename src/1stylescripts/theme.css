@@ -496,6 +496,18 @@ a.oclink:hover {
 
 /*---*/
 
+/*OC page is hell 1*/
+
+@media screen and (max-width:1481px) {
+.ocgrid {
+   width:100%;
+   grid-template-columns:auto auto auto auto;
+   box-sizing: border-box!important;
+}
+}
+
+/*---*/
+
 /*tablet friendly*/
 @media screen and (max-width:851px) {
 *{
@@ -695,7 +707,6 @@ select{
 /*OC wiki related*/
 .ocgrid {
    width:100%;
-   gap: -15%!important;
    grid-template-columns:auto auto;
    box-sizing: border-box!important;
 }
@@ -704,7 +715,9 @@ select{
    width:10vw;
 }
 .octhumb{
-   width: 90%;
+   width: 75%;
+   margin-left: 3vw;
+   margin-bottom: 1.2vh;
 }
 
 img.ocimg, .ocdes, .ocbox1, .ocbox2{
@@ -717,7 +730,23 @@ img.ocimg, .ocdes{
    width: 75%;
    margin-left: auto!important;
    margin-right: auto!important;
-}
-
-
 }}
+
+/*OC page is hell 1*/
+
+@media screen and (max-width:301px) {
+.ocgrid {
+   width:100%;
+   grid-template-columns:auto;
+   box-sizing: border-box!important;
+}
+.clroc{
+   height: 7vh;
+   width:10vw;
+}
+.octhumb{
+   width: 80%;
+   margin-left: 3vw;
+   margin-bottom: 1.2vh;
+}
+}

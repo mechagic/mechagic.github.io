@@ -6,8 +6,10 @@ details: A description of a page describing a little bug? Don't make me laugh
 
 ### About Me
 <div class="rflex" style="justify-content: space-evenly;">
-	<div class="rcont" style="width: 45%; margin:0.8rem 1.5rem;">
-		<img class="ava" src="/2images/2avatar.webp" alt="Avatar">
+	<div class="rcont" style="width: 45%;">
+		<div class="trnsprnt" style="width:95%; margin:0.8rem 1.5rem;">
+			<img class="ava" src="/2images/2avatar.webp" alt="Avatar">
+		</div>
 	</div>
 	<vr>
 	<div class="trnsprnt" style="margin:0.8rem 1.5rem;">
