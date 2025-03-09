@@ -51,7 +51,7 @@ height: 100px;
 }
 
 #siwebring #webringdesc {  
-    -webkit-text-stroke: var(--clr1) 3px;
+    -webkit-text-stroke: var(--main1) 3px;
     paint-order: stroke; 
 }
 
