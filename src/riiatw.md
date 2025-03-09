@@ -19,6 +19,7 @@ This website is
  - 800 pixels width (Tablet-friendly)
  - and 600 pixels width (Mobile-friendly)
  - Anything larger then that would just be the regular layout
+ - There's technically more because the oc wiki grid was refusing to behave properly
 
 It is also
 - cleaner than 85% of all web pages globally - [link](https://www.websitecarbon.com/website/mechagic-party/)
