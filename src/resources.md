@@ -43,9 +43,9 @@ Colors, ASCII as well as some other stuff
 
 - Phosphoricons, FOSS icon pack - [link](https://phosphoricons.com/)
 - BitFontMaker, Make your own pixel fonts - [link](https://www.pentacom.jp/pentacom/bitfontmaker2/)
+- Dithermark, pretty good at dithering things - [link](https://app.dithermark.com/)
 - Ascii archive, categorized by the ASCII's theme - [link](https://www.asciiart.eu/)
 - Squoosh, used to compress or convert image files - [link](https://squoosh.app)
-- Dithermark, for the dithering on some of the images - [link](https://app.dithermark.com/)
 - Ezgif, not just gifs! It can be other stuff as well - [link](https://ezgif.com/)
 - Button Maker, idk what else to tell you, it's a button maker - [link](https://hekate2.github.io/buttonmaker/)
 - DaFont, free fonts that can be used for a variety of reasons - [link](https://www.dafont.com/)
