@@ -25,7 +25,6 @@
     z-index: 2147483649;
     background: rgba(0, 0, 0, 0.15);
     opacity: 0.25;
-    animation: scanline 36s linear infinite;
 }
 .scanlines:after {
     top: 0;
@@ -39,18 +38,8 @@
         rgba(0, 0, 0, 0.15) 51%
     );
     background-size: 100% 4px;
-    animation: scanlines 6s steps(60) infinite;
 }
-@keyframes scanline {
-    0% {
-        transform: translate3d(0, 200000%, 0);
-    }
-}
-@keyframes scanlines {
-    0% {
-        background-position: 0 50%;
-    }
-}
+
 /*text*/
 @font-face {
    font-family:Upheaval;
