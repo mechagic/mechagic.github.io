@@ -5,7 +5,7 @@ webring = {
 
   // list of sites in the ring
   sites: [
-    "https://mechagic.party/",
+    "https://mechagic.party/webring/",
     "https://tofutush.github.io/The-Iron-Ragdoll/misc/links/",
     "https://ironstar.nekoweb.org/",
     "https://bibliohound.neocities.org/webrings/",
