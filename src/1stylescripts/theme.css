@@ -611,7 +611,8 @@ img.main {
    width:30%;
 }
 img.ava {
-   width:50vw;
+   width:50%;
+   margin: auto;
 }
 img.btn, img.mbtn{
    width: 50%;
