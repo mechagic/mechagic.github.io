@@ -14,7 +14,8 @@ The map to find the non-existent treasure on this website
 		<ul>
 			<li><a href="/">Landing Page</a></li>
 			<ul>
-				<li><a href="/creations/guestbook">Guestbook</a></li>
+				<li><a href="/guestbook">Guestbook</a></li>
+				<li><a href="/webring">Webrings</a></li>
 			</ul>
 			<li><a href="/about">About Me</a></li>
 			<li><a href="/journal">Journal</a></li>
