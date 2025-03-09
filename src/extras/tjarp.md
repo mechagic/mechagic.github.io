@@ -20,7 +20,7 @@
 </head>
   <body>
     <div id="cntnr">
-    <div class="crt">
+    <div class="scanlines">
       <center>
         <a href="/">
            <img class="banner" src="/2images/3tjarpbanner.webp" alt="shrine banner and link to the website's landing page">

@@ -8,33 +8,48 @@
    --hdr: linear-gradient(90deg, rgba(14,0,255,1) 40%, rgba(255,255,255,0) 70%);
 }
 /*scanlines*/
-.crt::after {
-  content: " ";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background: rgba(18, 16, 16, 0.1);
-  opacity: 0;
-  z-index: 2;
-  pointer-events: none;
+.scanlines {
+    overflow: hidden;
+    position: relative;
 }
-.crt::before {
-  content: " ";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
-  z-index: 2;
-  background-size: 100% 2px, 3px 100%;
-  pointer-events: none;
+.scanlines:before,
+.scanlines:after {
+    display: block;
+    pointer-events: none;
+    content: "";
+    position: absolute;
 }
-.crt{
+.scanlines:before {
+    width: 100%;
+    height: 2px;
+    z-index: 2147483649;
+    background: rgba(0, 0, 0, 0.15);
+    opacity: 0.25;
+    animation: scanline 36s linear infinite;
+}
+.scanlines:after {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2147483648;
+    background: linear-gradient(
+        to bottom,
+        transparent 50%,
+        rgba(0, 0, 0, 0.15) 51%
+    );
+    background-size: 100% 4px;
+    animation: scanlines 6s steps(60) infinite;
+}
+@keyframes scanline {
+    0% {
+        transform: translate3d(0, 200000%, 0);
+    }
+}
+@keyframes scanlines {
+    0% {
+        background-position: 0 50%;
+    }
 }
 /*text*/
 @font-face {
