@@ -20,6 +20,7 @@
 </head>
   <body>
     <div id="cntnr">
+    <div class="crt">
       <center>
         <a href="/">
            <img class="banner" src="/2images/3tjarpbanner.webp" alt="shrine banner and link to the website's landing page">
@@ -55,6 +56,7 @@
   </div>
 </div>
       <center style="margin: 2vh 0vw 4vh 0vw;"><h4><a href="javascript:window.history.back()">Go Back</a></h4></center>
+    </div>
     </div>
   </body>
 </html>
