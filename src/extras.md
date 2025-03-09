@@ -34,6 +34,12 @@ All the graphics I used for this website
         <a href="/2images/1pagenotfound.webp" data-caption="The art you'd see when going to a part of the website that doesn't exist, I'm pretty proud of it. It really pops out, in my opinion">
             <img class="tramb" src="/2images/1pagenotfound.webp" alt="The art you'd see when going to a part of the website that doesn't exist, I'm pretty proud of it. It really pops out, in my opinion">
         </a>
+        <a href="/2images/1webring.webp" data-caption="The art on the landing page that's a semi-diagram of a webring, I was thinking of making it look like a web but I scrapped that idea lol">
+            <img class="tramb" src="/2images/1webring.webp" alt="The art on the landing page that's a semi-diagram of a webring, I was thinking of making it look like a web but I scrapped that idea lol">
+        </a>
+        <a href="/2images/2avatar.webp" data-caption="An avatar that I made in the about me page, I struggled a bit with the snout">
+            <img class="tramb" src="/2images/2avatar.webp" alt="An avatar that I made in the about me page, I struggled a bit with the snout">
+        </a>
    </div>
 </div>
 
