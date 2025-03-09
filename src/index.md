@@ -32,10 +32,8 @@ details: A very cool personal website that is owned by a cockroach that learned 
 <br><br>
 
 <div class="rflex" style="justify-content: center;">
-	<div class="rcont" style="width: 45%;">
-		<div class="trnsprnt" style="width:100%;">
-			<img class="ava" style="border: none!important;" src="/2images/1webring.webp" alt="Webrings">
-		</div>
+	<div class="acont" style="width: 50%;">
+		<img class="ava" style="border: none!important;" src="/2images/1webring.webp" alt="Webrings">
 	</div>
 	<vr>
 	<div class="trnsprnt" style="margin:0.8rem 1.5rem;">
