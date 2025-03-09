@@ -22,7 +22,7 @@ This website is
  - There's technically more because the oc wiki grid was refusing to behave properly
 
 It is also
-- cleaner than 85% of all web pages globally - [link](https://www.websitecarbon.com/website/mechagic-party/)
+- cleaner than 85% of all web pages globally - [link](https://www.websitecarbon.com/website/mechagic-party-webring/)
 - I picked the least clean page to show that I'm being honest here
 
 The code is hosted on
