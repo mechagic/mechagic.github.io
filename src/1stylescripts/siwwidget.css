@@ -8,6 +8,7 @@
 #siwebring #templateWebring {
     font-family: trebuchet ms, sans-serif;
     text-align: center;
+    margin:auto;
     width: 315px;
     height: 175px;
     background: url('/siwebring/siwidgetbg.png') no-repeat;
