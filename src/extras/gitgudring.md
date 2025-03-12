@@ -52,7 +52,7 @@ It's simple!
 		<a href="https://mechagic.party/"><strong>Mechagic's Fun Party</strong></a><br>A very cool personal website that is owned by a cockroach that learned how to type.
   </div>
 	<div class="cflex">
-		<img src="https://file.garden/ZvadqiE050beWbgP/The_Iron_Ragdoll.gif" alt="The Iron Ragdoll Button"> <br><hr>
+		<img src="https://file.garden/ZvadqiE050beWbgP/buttons/The_Iron_Ragdoll.gif" alt="The Iron Ragdoll Button"> <br><hr>
 		<a href="https://tofutush.github.io/The-Iron-Ragdoll/"><strong>The Iron Ragdoll</strong></a><br>A comic and paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
   </div>
 	<div class="cflex">
