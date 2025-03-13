@@ -9,8 +9,8 @@
     font-family: trebuchet ms, sans-serif;
     text-align: center;
     margin:auto;
-    width: 85%!important;
-    height: auto!important;
+    width: 85%!important!important;
+    height: auto!important!important;
     background: url('/siwebring/siwidgetbg.png') no-repeat;
     background-size: cover;
     border: 3px #FF74B8 solid;
