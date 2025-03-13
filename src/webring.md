@@ -3,6 +3,7 @@ layout: t4
 title: Webrings
 details: All the webrings I'm in!
 ---
+<link rel="stylesheet" href="/1stylescripts/siwwidget.css" /* istg if this doesnt work */>  
 
 If any of these are breaking please make sure that you're on the <code>https://</code> version of the website instead of the <code>http://</code> version, thanks in advance
 <div class="rflex" style="justify-content: space-evenly;">
@@ -10,7 +11,6 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 		<br><br>
-		<link rel="stylesheet" href="/1stylescripts/siwwidget.css">
 		<div id='siwebring'>
 		    <script src="/1stylescripts/siwebringuservars.js"></script>
 		    <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
