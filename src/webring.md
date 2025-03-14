@@ -89,7 +89,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<div id="vocaring"><script src="https://webring.adilene.net/widget.js"></script></div>
 		<br><br>
 	    <link rel="stylesheet" href="/1stylescripts/siwwidget.css">  
-	    <div id='siwebring' style="font-family: trebuchet ms, sans-serif; text-align: center; margin:auto; width: 85%!important; height: auto!important; background: url('/siwebring/siwidgetbg.png') no-repeat; background-size: cover; border: 3px #FF74B8 solid; font-size: 16px;">
+	    <div id='siwebring'>
 	        <script src="/1stylescripts/siwebringuservars.js"></script>
 	        <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
 	        <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
