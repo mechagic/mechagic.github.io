@@ -3,7 +3,6 @@ layout: t4
 title: Webrings
 details: All the webrings I'm in!
 ---
-
 If any of these are breaking please make sure that you're on the <code>https://</code> version of the website instead of the <code>http://</code> version, thanks in advance
 <div class="rflex" style="justify-content: space-evenly;">
 	<div class="trnsprnt">
