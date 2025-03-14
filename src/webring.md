@@ -10,12 +10,6 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 		<br><br>
-		<div id='siwebring'>
-		    <script src="/1stylescripts/siwebringuservars.js"></script>
-		    <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
-		    <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
-		</div>
-		<br><br>
 		<center>
 		    <script src="https://transring.neocities.org/ring.js"></script>
 		</center>
@@ -94,14 +88,14 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<div id="vocaring"><script src="https://webring.adilene.net/widget.js"></script></div>
 		<br><br>
+	    <link rel="stylesheet" href="/1stylescripts/siwwidget.css">  
+	    <div id='siwebring'>
+	        <script src="/1stylescripts/siwebringuservars.js"></script>
+	        <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
+	        <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
+	    </div>
+	    <br><br>
 	</div>
-	<link rel="stylesheet" href="/1stylescripts/siwwidget.css">  
-	<div id='siwebring'>
-	    <script src="/1stylescripts/siwebringuservars.js"></script>
-	    <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
-	    <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
-	</div>
-	<br><br>
 </div>
 
 <style>
