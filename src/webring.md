@@ -16,7 +16,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		    <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
 		    <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
 		</div>
-		<br><br>
+		<br><br><br><br>
 		<center>
 		    <script src="https://transring.neocities.org/ring.js"></script>
 		</center>
