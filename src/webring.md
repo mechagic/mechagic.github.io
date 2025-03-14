@@ -93,7 +93,7 @@ If any of these are breaking please make sure that you're on the <code>https://<
 	        <script src="/1stylescripts/siwebringuservars.js"></script>
 	        <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
 	        <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
-	    </div></div>
+	    </div>
 	    <br><br>
 	</div>
 </div>
