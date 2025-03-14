@@ -4,17 +4,6 @@
 
 /* === ONIONRING.CSS === */
 /* this file affects the style of the widget. remember to replace all instances of #webringid with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
-.bruh {
-    font-family: trebuchet ms, sans-serif;
-    text-align: center;
-    margin:auto;
-    width: 85%!important;
-    height: auto!important;
-    background: url('/siwebring/siwidgetbg.png') no-repeat;
-    background-size: cover;
-    border: 3px #FF74B8 solid;
-    font-size: 16px;
-}
 
 #siwebring #templateWebring {
     font-family: trebuchet ms, sans-serif;
