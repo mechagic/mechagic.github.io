@@ -75,6 +75,10 @@ It's simple!
 		<img src="https://file.garden/ZvadqiE050beWbgP/entropically.png" alt="Entropically's Button"> <br><hr>
 		<a href="https://entropically.neocities.org/"><strong>Entropically</strong></a><br> Just a little personal blog, maybe also a few resources for fellow indie web creators
   </div>
+	<div class="cflex">
+		No Button <br><hr>
+		<a href="https://theoliveoli.blahaj.land/"><strong>Oli's Internet Corner</strong></a><br>Little personal site where I sometimes write about random stuff that comes to my mind.
+  </div>
 </div>
 
 <style>

@@ -12,6 +12,7 @@ webring = {
     "https://bang1338.nekoweb.org/",
     "https://lockheartlove.neocities.org/",
     "https://entropically.neocities.org/",
+    "https://theoliveoli.blahaj.land/links/",
       ],
 
   // html inserted as your widget
