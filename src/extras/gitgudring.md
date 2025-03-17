@@ -15,7 +15,7 @@ Examples* of websites that belong on the webring are the following
 - websites deployed to neocities via github actions
 - websites hosted on services such as pages.gay and/or github pages
 
-<p>*Just because it doesn't desrcibe your website, doesn't mean that said website doesn't belong here</p>
+<p>*Just because it doesn't desrcibe your website, doesn't mean that said website doesn't belong here, please send details on whether or not your site belongs and I'll decide on if it does</p>
 
 ### What are the rules?
 
