@@ -10,6 +10,8 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<br><br>
 		<script defer src="https://mechagic.party/1stylescripts/gitgudring.js"></script>
 		<br><br>
+		<script src="https://jbcarreon123.nekoweb.org/webrings/ssgring/pmoring.js"></script>
+		<br><br>
 		<center>
 		    <script src="https://transring.neocities.org/ring.js"></script>
 		</center>
