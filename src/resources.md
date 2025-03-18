@@ -64,6 +64,7 @@ Stuff you can put on your website
 - BaguetteBox, the lightbox gallery I use- [link](https://github.com/feimosi/baguetteBox.js/)
 - HTML Journal, blogging tool for your website - [link](https://journal.miso.town/)
 - Ayano's Comment Widget, used on the guestbook - [link](https://virtualobserver.moe/ayano/comment-widget)
+- Drawbox - imagine a guestbook, but you can draw   - [link](https://drawbox.nekoweb.org/)
 - Scripted, a variety of code snippets for your website - [link](https://scripted.neocities.org/)
 
 ---
