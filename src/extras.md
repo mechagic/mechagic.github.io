@@ -40,6 +40,12 @@ All the graphics I used for this website
         <a href="/2images/2avatar.webp" data-caption="An avatar that I made in the about me page, I struggled a bit with the snout">
             <img class="tramb" src="/2images/2avatar.webp" alt="An avatar that I made in the about me page, I struggled a bit with the snout">
         </a>
+        <a href="/2images/3tjarpfuzz.webp" data-caption="Fuzz the cat art for my TJARP shrine">
+            <img class="tramb" src="/2images/3tjarpfuzz.webp" alt="Fuzz the cat art for my TJARP shrine">
+        </a>
+        <a href="/2images/3tjarparchivist.webp" data-caption="The Archivist art for my TJARP shrine">
+            <img class="tramb" src="/2images/3tjarparchivist.webp" alt="The Archivist art for my TJARP shrine">
+        </a>
    </div>
 </div>
 
