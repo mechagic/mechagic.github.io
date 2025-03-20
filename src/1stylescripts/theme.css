@@ -742,7 +742,7 @@ img.ocimg, .ocdes{
 
 /*OC page is hell 2*/
 
-@media screen and (max-width:301px) {
+@media screen and (max-width:351px) {
 .ocgrid {
    width:100%;
    grid-template-columns:auto;
