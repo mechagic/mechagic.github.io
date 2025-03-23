@@ -44,6 +44,7 @@ Colors, ASCII as well as some other stuff
 
 - Phosphoricons, FOSS icon pack - [link](https://phosphoricons.com/)
 - BitFontMaker, Make your own pixel fonts - [link](https://www.pentacom.jp/pentacom/bitfontmaker2/)
+- File Garden, file hosts with direct link - [link](https://filegarden.com/)
 - Dithermark, pretty good at dithering things - [link](https://app.dithermark.com/)
 - Ascii archive, categorized by the ASCII's theme - [link](https://www.asciiart.eu/)
 - Squoosh, used to compress or convert image files - [link](https://squoosh.app)
