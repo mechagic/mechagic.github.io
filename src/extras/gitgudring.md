@@ -79,6 +79,10 @@ It's simple!
 		No Button <br><hr>
 		<a href="https://theoliveoli.blahaj.land/"><strong>Oli's Internet Corner</strong></a><br>Little personal site where I sometimes write about random stuff that comes to my mind.
   </div>
+	<div class="cflex">
+		<img src="https://jbcarreon123.nekoweb.org/sitebuttonv2.png" alt="jb's button"> <br><hr>
+		<a href="https://jbcarreon123.nekoweb.org"><strong>jb's site</strong></a><br>A personal website that contains my ramblings and stuff. Also contains my personal projects.
+  </div>
 </div>
 
 <style>
