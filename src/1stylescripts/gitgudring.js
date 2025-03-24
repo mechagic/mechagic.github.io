@@ -3,7 +3,7 @@
 // settings
 webring = {
 
-  // list of sites in the ring 
+  // list of sites in the ring
   sites: [
     "https://mechagic.party/webring/",
     "https://tofutush.github.io/The-Iron-Ragdoll/misc/links/",
