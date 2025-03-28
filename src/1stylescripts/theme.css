@@ -412,8 +412,8 @@ select#pageDropdown{
 .ocgrid {
    width:100%;
    justify-content: space-evenly;
-   display:grid;
-   grid-template-columns:auto auto auto auto auto auto;
+   display:flex;
+   flex-wrap: wrap;
 }
 .occlr{
    width:100%;
@@ -430,9 +430,9 @@ select#pageDropdown{
 .octhumb{
    display: flex;
    flex-direction: column;
-   width: 100%;
-   margin-right: -8vh;
-   margin-bottom: var(--inner-margin);
+   width: 11vw;
+   margin: 0 0.5vw;
+   margin-bottom: var(--inner-margin)!important;
 }
 img.ocart{
    border-width:var(--brdr-width1);
@@ -500,18 +500,6 @@ a.oclink:hover {
 
 /*---*/
 
-/*OC page is hell 1*/
-
-@media screen and (max-width:1481px) {
-.ocgrid {
-   width:100%;
-   grid-template-columns:auto auto auto auto;
-   box-sizing: border-box!important;
-}
-}
-
-/*---*/
-
 /*tablet friendly*/
 @media screen and (max-width:851px) {
 *{
@@ -568,7 +556,6 @@ hr.vr{
 /*OC wiki related*/
 .ocgrid {
    width:100%;
-   grid-template-columns:auto auto auto;
    box-sizing: border-box!important;
 }
 .clroc{
@@ -576,8 +563,8 @@ hr.vr{
    width:10vw;
 }
 .octhumb{
-   width: 75%;
-   margin-left: 3vw;
+   width: 18.6vw;
+   margin: 0 1.5vw;
    margin-bottom: 1.2vh;
 }
 
@@ -712,7 +699,6 @@ select{
 /*OC wiki related*/
 .ocgrid {
    width:100%;
-   grid-template-columns:auto auto;
    box-sizing: border-box!important;
 }
 .clroc{
@@ -720,9 +706,7 @@ select{
    width:10vw;
 }
 .octhumb{
-   width: 75%;
-   margin-left: 3vw;
-   margin-bottom: 1.2vh;
+   width: 45vw;
 }
 
 img.ocimg, .ocdes, .ocbox1, .ocbox2{
@@ -736,24 +720,3 @@ img.ocimg, .ocdes{
    margin-left: auto!important;
    margin-right: auto!important;
 }}
-
-/*---*/
-
-/*OC page is hell 2*/
-
-@media screen and (max-width:351px) {
-.ocgrid {
-   width:100%;
-   grid-template-columns:auto;
-   box-sizing: border-box!important;
-}
-.clroc{
-   height: 7vh;
-   width:10vw;
-}
-.octhumb{
-   width: 80%;
-   margin-left: 3vw;
-   margin-bottom: 1.2vh;
-}
-}
