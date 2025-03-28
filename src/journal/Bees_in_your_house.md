@@ -20,3 +20,5 @@ Website that gives you a child if you access it on the WiiU
 - Where do the children come from, where do the children go? Toddler joe
 
 Website that turns your loved ones to gold if your name starts with the letter M
+
+> Bonus that's not in the nekoweb discord: Making your website redirect to a rickroll if someone visits on mobile
