@@ -370,10 +370,11 @@ th:last-child,td:last-child {
    grid-template-columns:auto auto auto auto auto;
 }
 .member {
-   margin:auto !important;
+   margin:auto;
    display:flex;
-   gap: 10px;
+   width: 75%;
    flex-wrap: wrap;
+   float: right;
 }
 .ringmembers {
    margin:0.5rem 3rem;
@@ -699,10 +700,7 @@ table,td,th {
    grid-template-columns:auto auto auto;
    overflow-x: hidden;
 }
-.member {
-   gap: -15px;
-   grid-template-columns:auto auto;
-}
+
 .ringmembers {
    gap:3vh;
    grid-template-columns:auto;

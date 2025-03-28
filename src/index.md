@@ -7,7 +7,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 <div class="flex">
 	<div class="trnsprnt">
 		<h2>LINK ME!</h2>
-		<div class="rflex" style="justify-items: center; width: 100%;">
+		<div class="rflex" style="margin: auto; width:50%;">
 			<a href="https://mechagic.party/"><img class="mbtn" src="/2images/1button.webp" alt="Mechagic's Celeboratory Button"></a> 
 		    <textarea style="margin-left: 2.5%;"><a href="https://mechagic.party/"><img src="https://file.garden/ZvadqiE050beWbgP/buttons/mechagic_button.webp" alt="Mechagic's Fun Button"></a></textarea>
 		</div>
@@ -24,7 +24,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 		    	<a href="https://theforest.link/go-for-a-walk">Walk The Forest</a> / <a href="https://theforest.link/">Info</a>
 		    </div>
 		    <a href="https://nonbot.org/pledged/view/9e279bff-d352-4e07-8280-ad07316f9074" target="_blank">
-		    	<img class="nobot" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
+		    	<img class="nobot" style="width:5vw;" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
 		    </a>
 		</div>
 	</div>
@@ -52,5 +52,11 @@ details: A very cool personal website that is owned by a cockroach that learned 
 <style>
 .flex{
 	justify-content: space-evenly;
+}
+@media screen and (max-width:800px) {
+img.nobot{
+	margin: 0px!important;
+	width: 25vw!important;
+}
 }
 </style>
