@@ -24,7 +24,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 		    	<a href="https://theforest.link/go-for-a-walk">Walk The Forest</a> / <a href="https://theforest.link/">Info</a>
 		    </div>
 		    <a href="https://nonbot.org/pledged/view/9e279bff-d352-4e07-8280-ad07316f9074" target="_blank">
-		    	<img class="nobot" style="width:50%;" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
+		    	<img class="nobot" src="https://nonbot.org/images/nonbot_pledged_logo.svg" alt="Human-made Content">
 		    </a>
 		</div>
 	</div>
@@ -52,11 +52,5 @@ details: A very cool personal website that is owned by a cockroach that learned 
 <style>
 .flex{
 	justify-content: space-evenly;
-}
-@media screen and (max-width:800px) {
-img.nobot{
-	margin: 0px!important;
-	width: 100%!important;
-}
 }
 </style>

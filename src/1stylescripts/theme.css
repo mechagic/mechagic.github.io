@@ -371,9 +371,9 @@ th:last-child,td:last-child {
 }
 .member {
    margin:auto !important;
-   display:grid;
+   display:flex;
    gap: 10px;
-   grid-template-columns:auto auto auto;
+   flex-wrap: wrap;
 }
 .ringmembers {
    margin:0.5rem 3rem;
