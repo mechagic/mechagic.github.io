@@ -73,6 +73,7 @@ Stuff you can put on your website
 Ad services that advertise other indie sites, somewhat an extension of the last category
 
 - Navlink - [link](https://dimden.dev/navlinkads/)
+- Artlink - [link](https://rubybulbs.net/artlink/)
 - Sidelink - [link](https://dogspit.nekoweb.org/sidelinkads.html)
 - Nekolink - [link](https://rubybulbs.net/nekolink.html)
 - Ringlink - [link](https://evehibi.nekoweb.org/ringlink/info)
