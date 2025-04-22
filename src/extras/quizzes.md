@@ -12,6 +12,7 @@ Get to know me without actually getting to know me!
 	<a class="qz" href="http://www.dragonflycave.com/quizzes/what-pokemon-are-you"><img class="quiz" src="http://www.dragonflycave.com/wpay/mew.gif" alt="I am a Mew!" title="Find out what Pokémon you are at The Cave of Dragonflies"></a>
     <a class="qz" href="http://www.nerdtests.com/ft_nq.php"><img class="quiz" src="http://www.nerdtests.com/images/ft/nq/63c833dff4.gif" alt="I am nerdier than 44% of all people. Are you a nerd? Click here to take the Nerd Test, get geeky images and jokes, and write on the nerd forum!"></a>
     <a class="qz" href="http://www.nerdtests.com/ft_weird.php?im"><img class="quiz" src="http://www.nerdtests.com/thetester/images/php/wq.php?val=8288" alt="What is your weird quotient? Click to find out!"></a>
+    <a class="qz" href="http://rice.place/quiz.html"><img class="quiz" src="https://rice.place/quiz/sweetrice.png" alt="pure" title="you are sweet rice"></a>
 </div>
 <div class="rflex">
 	<a class="qz" href="https://swiftyshq.neocities.org/fun/quiz/rock"><img class="quiz" src="https://swiftyshq.neocities.org/img/quiz/rock/r2.png" alt="smoothe river rock" title="ough.... youre so relaxed.... this rock is PERFECT for napping on.... it's warmed by the sun too... .yo.... snzz"></a>
