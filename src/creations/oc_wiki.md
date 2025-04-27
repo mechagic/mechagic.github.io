@@ -39,10 +39,10 @@ A bunch of OCs I have in a roleplay universe with other people where a bunch of 
 	</div>
 	<div class="octhumb">
 		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
-		<div class="ocname"><a href="testing" class="oclink">Narra!Toma</a></div>
+		<div class="ocname"><a href="testing" class="oclink">Toma</a></div>
 	</div>
 	<div class="octhumb">
 		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
-		<div class="ocname"><a href="testing" class="oclink">Narra!MIZ</a></div>
+		<div class="ocname"><a href="testing" class="oclink">MIZ</a></div>
 	</div>
 </div>
