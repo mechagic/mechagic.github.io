@@ -43,7 +43,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 		<br>
 		Click this <a href="/webring"><strong>link</strong></a> to go surfing on the web :}
 		<br><br>
-		Amount of webrings joined: 16
+		Amount of webrings joined: 15
 		<br>
 		Memberships pending: 1
 	</div>
