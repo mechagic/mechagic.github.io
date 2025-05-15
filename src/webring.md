@@ -89,13 +89,14 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<center><script src="https://juneish.neocities.org/ring/beepbox/ring.js"></script></center>
 		<br><br>
 		<div id="vocaring"><script src="https://webring.adilene.net/widget.js"></script></div>
-		<br><br>
-	    <div id='siwebring'>
-	        <script src="/1stylescripts/siwebringuservars.js"></script>
-	        <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
-	        <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
-	    </div>
-	    <br><br>
+	</div>
+</div>
+
+<div class=box2 style="background: lightpink!important; width: 45%!important;">
+	<div id='siwebring'>
+	    <script src="/1stylescripts/siwebringuservars.js"></script>
+	    <script src="https://dears.nekoweb.org/siwebring/onionring-variables.js"></script>
+	    <script src="https://dears.nekoweb.org/siwebring/onionring-widget.js"></script>
 	</div>
 </div>
 
