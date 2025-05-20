@@ -82,6 +82,10 @@ It's simple!
 		<img src="https://jbcarreon123.nekoweb.org/sitebuttonv2.png" alt="jb's button"> <br><hr>
 		<a href="https://jbcarreon123.nekoweb.org"><strong>jb's site</strong></a><br>A personal website that contains my ramblings and stuff. Also contains my personal projects.
   </div>
+	<div class="cflex">
+		<img src="https://riflesniper.art/img/buttons/riflesniper.png" alt="Riflesniper's button"> <br><hr>
+		<a href="https://riflesniper.art/"><strong>C:/local/sprite/index</strong></a><br>A green gay robot that likes to draw other gay robots
+  </div>
 </div>
 
 <style>
