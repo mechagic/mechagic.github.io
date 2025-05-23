@@ -5,11 +5,11 @@ details: Some are good, some are bad, and some were made by a bug having a bad d
 templateEngineOverride: njk, md
 ---
 
-[rss feed <i class="ph ph-link"></i>](/2feed/writing_feed.xml) for all categories
+[rss feed](/2feed/writing_feed.xml) for all categories, if you want to read my fanfiction go [here](https://archiveofourown.org/users/mechagic_party)  
 
-### Short Stories And Concepts <i class="ph ph-notebook"></i>
+### Short Stories And Concepts
 My short stories, I mostly make them up on the fly.
-<br>[rss feed <i class="ph ph-link"></i>](/2feed/story_feed.xml)
+<br>[rss feed](/2feed/story_feed.xml)
 
 <ul>
 {%- for post in collections.story | reverse -%}
@@ -17,9 +17,9 @@ My short stories, I mostly make them up on the fly.
   {%- endfor -%}
 </ul>
 
-### Poetry <i class="ph ph-scroll"></i>
+### Poetry
 All of these are experimental and some of these are pretentious
-<br>[rss feed <i class="ph ph-link"></i>](/2feed/poetry_feed.xml)
+<br>[rss feed](/2feed/poetry_feed.xml)
 
 <ul>
 {%- for post in collections.poetry | reverse -%}
@@ -27,7 +27,7 @@ All of these are experimental and some of these are pretentious
   {%- endfor -%}
 </ul>
 
-### Archives <i class="ph ph-archive"></i>
+### Archives
 Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting.
 <br>No rss feed needed
 
