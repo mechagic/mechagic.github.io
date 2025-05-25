@@ -51,7 +51,7 @@ It's simple!
 		<a href="https://mechagic.party/"><strong>Mechagic's Fun Party</strong></a><br>A very cool personal website that is owned by a cockroach that learned how to type.
   </div>
 	<div class="cflex">
-		<img src="https://file.garden/ZvadqiE050beWbgP/buttons/The_Iron_Ragdoll.gif" alt="The Iron Ragdoll Button"> <br><hr>
+		<img src="https://file.garden/aDHutGr50CqiwI_f/buttons/The_Iron_Ragdoll.gif" alt="The Iron Ragdoll Button"> <br><hr>
 		<a href="https://tofutush.github.io/The-Iron-Ragdoll/"><strong>The Iron Ragdoll</strong></a><br>A comic and paracosm about a little girl solving mysteries and getting tangled up in conspiracies, corporate intrigue, and international espionage.
   </div>
 	<div class="cflex">
@@ -71,7 +71,7 @@ It's simple!
 		<a href="https://lockheartlove.neocities.org/"><strong>Lockheart Love</strong></a><br> My internet brain dump, a corner of the internet that I get to decorate and enjoy!!
   </div>
 	<div class="cflex">
-		<img src="https://file.garden/ZvadqiE050beWbgP/buttons/entropically.png" alt="Entropically's Button"> <br><hr>
+		<img src="https://file.garden/aDHutGr50CqiwI_f/buttons/entropically.png" alt="Entropically's Button"> <br><hr>
 		<a href="https://entropically.neocities.org/"><strong>Entropically</strong></a><br> Just a little personal blog, maybe also a few resources for fellow indie web creators
   </div>
 	<div class="cflex">
