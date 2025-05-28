@@ -11,11 +11,11 @@ webring = {
     "https://bibliohound.neocities.org/webrings/",
     "https://bang1338.nekoweb.org/",
     "https://lockheartlove.neocities.org/",
-    "https://entropically.neocities.org/",
+    "https://entropically.neocities.org/home",
     "https://theoliveoli.blahaj.land/links/",
     "https://jbcarreon123.nekoweb.org/webrings/",
     "https://riflesniper.art/funstuff",
-    "https://friendshapedplant.neocities.org/links/joined/"
+    "https://friendshapedplant.neocities.org/links/joined"
       ],
 
   // html inserted as your widget
