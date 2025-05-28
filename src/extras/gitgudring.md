@@ -86,6 +86,10 @@ It's simple!
 		<img src="https://riflesniper.art/img/buttons/riflesniper.png" alt="Riflesniper's button"> <br><hr>
 		<a href="https://riflesniper.art/"><strong>C:/local/sprite/index</strong></a><br>A green gay robot that likes to draw other gay robots
   </div>
+	<div class="cflex">
+		<img src="https://i.ibb.co/pjLs2sD/FSPbutton.png" alt="Friend Shaped Plant's button"> <br><hr>
+		<a href="https://friendshapedplant.neocities.org/"><strong>Friend Shaped Plant</strong></a><br>Personal site about art n funny website shenanigans. And vidya game
+  </div>
 </div>
 
 <style>

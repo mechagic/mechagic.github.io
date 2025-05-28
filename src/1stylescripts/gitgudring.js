@@ -14,7 +14,8 @@ webring = {
     "https://entropically.neocities.org/",
     "https://theoliveoli.blahaj.land/links/",
     "https://jbcarreon123.nekoweb.org/webrings/",
-    "https://riflesniper.art/funstuff"
+    "https://riflesniper.art/funstuff",
+    "https://friendshapedplant.neocities.org/links/joined/"
       ],
 
   // html inserted as your widget
