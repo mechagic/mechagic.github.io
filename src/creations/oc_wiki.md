@@ -49,6 +49,10 @@ OCs that don't fit anywhere else
 	</div>
 	<div class="octhumb">
 		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
+		<div class="ocname"><a href="testing" class="oclink">Ferah</a></div>
+	</div>
+	<div class="octhumb">
+		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
 		<div class="ocname"><a href="testing" class="oclink">Blue</a></div>
 	</div>
 </div>
