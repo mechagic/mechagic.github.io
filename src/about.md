@@ -15,7 +15,7 @@ details: A description of a page describing a little bug? Don't make me laugh
     <br><br>
     I am some rando online that likes playing random games I sort of just post random stuff that has no substance whatsoever, aside from the rare art. I also recently got into some tarot stuff, but I don't post about it, I just find it interesting
     <br><br>
-    I am an aldernic, bigender, salmacian, and quoiromantic. I am also a neopronouns and xenogender user. I am quite literally a cockroach, I'm an alterbeing that's kintype is a cockroach
+    I am an bigender, salmacian, omnisexual and quoiromantic. I am also a neopronouns and xenogender user. I am quite literally a cockroach, I'm an alterbeing that's kintype is a cockroach.
     <br><br>
     Here are some useless facts about me: Minor, ENT-P, Earth Rat, and I won't have a lot of impact on life
     <br><br>
