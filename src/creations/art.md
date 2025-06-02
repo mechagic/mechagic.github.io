@@ -14,6 +14,9 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
     </div>
     <div id="2025" class="tabcontent">
       <div class="gallery">
+        <a class="hidden" href="/2art/jun022025.webp" data-caption=" Made for an Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | June 02 2025">
+            <img class="thumb" src="/2art/th/jun022025.webp" alt=" Made for an Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | June 02 2025">
+        </a>
         <a class="hidden" href="/2art/feb132025.webp" data-caption=" You see the red drip from my lips | My OC, Evi | February 13 2025">
             <img class="thumb" src="/2art/th/feb132025.webp" alt=" You see the red drip from my lips | My OC, Evi | February 13 2025">
         </a>
