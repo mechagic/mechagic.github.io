@@ -3,9 +3,11 @@ layout: t2
 title: Other Works
 details: Stuff I made that don't really fit in the other categories
 ---
+## Poyoweb (Paid)
+I'm not sure how to showcase these but you can see them on my group page - [link](https://www.roblox.com/communities/36084236/Mechagics-Wares#!/store)
 
 ## Poyoweb (Paid)
-Drew up multiple icons for an old version of [Poyoweb<i class="ph ph-link"></i>](https://poyoweb.org/) by Poyo. Which is a pretty cool webhost
+Drew up multiple icons for an old version of [Poyoweb](https://poyoweb.org/) by Poyo. Which is a pretty cool webhost
 
 <div class="box2">
     <div class="gallery">
@@ -38,7 +40,7 @@ Drew up multiple icons for an old version of [Poyoweb<i class="ph ph-link"></i>]
 <br>
 
 ## Chattable (Paid)
-Designed the logo for [Chattable <i class="ph ph-link"></i>](https://iframe.chat/) by Xobyte. It is a free live chat tool for your website that is customizable.
+Designed the logo for [Chattable](https://iframe.chat/) by Xobyte. It is a free live chat tool for your website that is customizable.
 
 Concept art not pictured.
 
