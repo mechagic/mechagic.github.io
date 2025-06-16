@@ -89,6 +89,12 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		<center><script src="https://juneish.neocities.org/ring/beepbox/ring.js"></script></center>
 		<br><br>
 		<div id="vocaring"><script src="https://webring.adilene.net/widget.js"></script></div>
+		<br><br>
+		<center><div id="ckwr">
+			<script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/var.js"></script>
+			<script type="text/javascript" src="https://evehibi.nekoweb.org/ckwr/widget.js"></script> 
+			<link rel="stylesheet" href="https://evehibi.nekoweb.org/ckwr/widget.css">
+		</div></center>
 	</div>
 </div>
 
