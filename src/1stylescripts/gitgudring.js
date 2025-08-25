@@ -13,7 +13,7 @@ webring = {
     "https://lockheartlove.neocities.org/",
     "https://entropically.neocities.org/home",
     "theoliveoli.nekoweb.org/links/",
-    "https://jbcarreon123.nekoweb.org/webrings/",
+    "https://jbc.lol/webrings/",
     "https://riflesniper.art/funstuff",
     "https://friendshapedplant.neocities.org/links/joined"
       ],
