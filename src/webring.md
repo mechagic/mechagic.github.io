@@ -69,9 +69,6 @@ If any of these are breaking please make sure that you're on the <code>https://<
 		   <script type="text/javascript" src="https://milkyway.moe/onlinewire/onionring-widget.js"></script>
 		</div>
 		<br><br>
-		    <center><a href="https://peanits.lol/webrings/musicring/index.php"><img src="https://peanits.lol/webrings/musicring/assets/button.gif"></a></center>
-			<a href="https://peanits.lol/webrings/musicring/prev.php?slug=mechagic">prev</a> | <a href="https://peanits.lol/webrings/musicring/rand.php">rand</a> | <a href="https://peanits.lol/webrings/musicring/next.php?slug=mechagic">next</a>
-	    <br><br>
 		<div id='gfdkris'>
 			<script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-variables.js"></script>
 			<script type="text/javascript" src="https://fabstarotcorner.neocities.org/webring/onionring-widget.js"></script>
