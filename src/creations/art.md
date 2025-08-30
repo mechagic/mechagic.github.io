@@ -14,6 +14,9 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
     </div>
     <div id="2025" class="tabcontent">
       <div class="gallery">
+        <a class="hidden" href="/2art/aug292025.webp" data-caption=" Another Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | August 29 2025">
+            <img class="thumb" src="/2art/th/aug292025.webp" alt=" Another Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | August 29 2025">
+        </a>
         <a class="hidden" href="/2art/jun022025.webp" data-caption=" Made for an Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | June 02 2025">
             <img class="thumb" src="/2art/th/jun022025.webp" alt=" Made for an Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | June 02 2025">
         </a>
