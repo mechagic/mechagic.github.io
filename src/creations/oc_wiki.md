@@ -8,6 +8,11 @@ Currently being built.
 
 ---
 
+### Sacred Rupture
+My main thingy! I've got it all planned out in my head but I'm not revealing all the chess pieces involved in this yet, just know that it exists
+
+---
+
 ### Narraverse
 A bunch of OCs I have in a roleplay universe with other people where a bunch of lore is going on 
 
@@ -43,14 +48,6 @@ A bunch of OCs I have in a roleplay universe with other people where a bunch of 
 ### Misc
 OCs that don't fit anywhere else
 <div class="ocgrid">
-	<div class="octhumb">
-		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
-		<div class="ocname"><a href="testing" class="oclink">Obiser</a></div>
-	</div>
-	<div class="octhumb">
-		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
-		<div class="ocname"><a href="testing" class="oclink">Ferah</a></div>
-	</div>
 	<div class="octhumb">
 		<img class="ocart" src="/2oc/th/ocplaceholder.webp" alt="OC placeholder thumbnail art">
 		<div class="ocname"><a href="testing" class="oclink">Blue</a></div>
