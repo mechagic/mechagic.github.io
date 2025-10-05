@@ -3,8 +3,8 @@ layout: t2
 title: Other Works
 details: Stuff I made that don't really fit in the other categories
 ---
-## Poyoweb (Paid)
-I'm not sure how to showcase these but you can see them on my group page - [link](https://www.roblox.com/communities/36084236/Mechagics-Wares#!/store)
+## Roblox Clothes
+~~I'm not sure how to showcase these but you can see them on my group page~~ I FIGURED IT OUT GIMME A WEEK OR TWO - [link](https://www.roblox.com/communities/36084236/Mechagics-Wares#!/store)
 
 ## Poyoweb (Paid)
 Drew up multiple icons for an old version of [Poyoweb](https://poyoweb.org/) by Poyo. Which is a pretty cool webhost
