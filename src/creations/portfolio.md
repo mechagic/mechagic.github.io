@@ -41,7 +41,7 @@ Drew up multiple icons for an old version of Poyoweb by Poyo, which was a pretty
 <br>
 
 ## Chattable (Paid)
-Designed the logo for [Chattable](https://iframe.chat/) by Xobyte. It is a free live chat tool for your website that is customizable.
+Designed an older logo for [Chattable](https://iframe.chat/) by Xobyte. It is a free live chat tool for your website that is customizable.
 
 Concept art not pictured.
 
