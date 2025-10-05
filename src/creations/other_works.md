@@ -8,7 +8,7 @@ details: Stuff I made that don't really fit in the other categories
 <br>
 
 ## Poyoweb (Paid)
-Drew up multiple icons for an old version of Poyoweb by Poyo. Which was a pretty cool webhost, Poyo is now in a buncha other cool projects though, give them a look: [link](https://indieseas.net/)
+Drew up multiple icons for an old version of Poyoweb by Poyo, which was a pretty cool webhost, Poyo is now in a buncha other cool projects though, give them a look: [link](https://indieseas.net/)
 
 <div class="box2">
     <div class="gallery">
