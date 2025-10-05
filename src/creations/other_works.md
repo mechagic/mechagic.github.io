@@ -28,7 +28,7 @@ Drew up multiple icons for an old version of Poyoweb by Poyo, which was a pretty
             <img class="tramb" src="/2pw/5poyoweb.webp" alt="Photo File Icon">
         </a>
         <a href="/2pw/6poyoweb.webp" data-caption="Document Icon">
-            <img class="tramb" src="/2pw/6poyoweb.webp" alt="Document Icon">
+            <img class="tramb" src="/2pw/6poyoweb.webp" alt="Under Construction Image">
         </a>
         <a href="/2pw/7poyoweb.webp" data-caption="Carl with mouth closed">
             <img class="tramb" src="/2pw/7poyoweb.webp" alt="Carl with mouth closed">
