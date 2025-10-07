@@ -14,6 +14,10 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
     </div>
     <div id="2025" class="tabcontent">
       <div class="gallery">
+       <a class="hidden" href="/2art/oct72025.webp" data-caption="Swallowed whole while angels weep | My OC, Yamin | October 6 2025">
+            <img class="thumb" src="/2art/th/oct72025.webp" alt="Swallowed whole while angels weep
+ | My OC, Yamin | October 6 2025">
+        </a>
         <a class="hidden" href="/2art/aug292025.webp" data-caption=" Another Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | August 29 2025">
             <img class="thumb" src="/2art/th/aug292025.webp" alt=" Another Art Trade w/ the owner of this OC | HellishRelish on Unvale.io | August 29 2025">
         </a>
@@ -27,7 +31,7 @@ A bunch of my art, some original stuff mixed with some fanart. All of which are 
             <img class="thumb" src="/2art/th/feb032025.webp" alt=" Happy early valentines day! | toyforanangel on tumblr (left), my   OC (right) | February 03 2025">
         </a>
         <a class="hidden" href="/2art/jan312025.webp" data-caption="What you doin in this situation | My OC, MIZ | January 31 2025">
-            <img class="thumb" src="/2art/th/jan312025.webp" alt="What you doin in this situation | My OC, MIZ |January 31 2025">
+            <img class="thumb" src="/2art/th/jan312025.webp" alt="What you doin in this situation | My OC, MIZ | January 31 2025">
         </a>
       </div>
     </div>
