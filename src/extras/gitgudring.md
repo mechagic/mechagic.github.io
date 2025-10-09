@@ -95,7 +95,7 @@ It's simple!
 		<a href="https://sad.ovh/"><strong>sad.ovh</strong></a><br>sophie's personal site of project information and more
   </div>
 </div>
-
+ 
 <style>
 	.cflex{
     border-width:var(--brdr-width2);
