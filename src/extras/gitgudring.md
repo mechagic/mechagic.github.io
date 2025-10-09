@@ -91,8 +91,8 @@ It's simple!
 		<a href="https://friendshapedplant.neocities.org/"><strong>Friend Shaped Plant</strong></a><br>Personal site about art n funny website shenanigans. And vidya game
   </div>
 	<div class="cflex">
-		<img src="https://sad.ovh/assets/binkies/sadovh.png" alt="sad.ovh's button"> <br><hr>
-		<a href="https://sad.ovh/"><strong>sad.ovh</strong></a><br>sophie's personal site of project information and more
+		<img src="https://sad.ovh/assets/binkies/sadovh.png" alt="sad ovh's button"> <br><hr>
+		<a href="https://sad.ovh/"><strong>sad ovh</strong></a><br>sophie's personal site of project information and more
   </div>
 </div>
  
