@@ -98,4 +98,4 @@ I haven't used most of these myself, but I've heard some good things. Maybe in t
 - Blahaj.Land - [link](https://blahaj.land/)
 - Github Pages - [link](https://pages.github.com/)
 - Marigold Town - [link](https://marigold.town/)
-- SourceHut Pages - [link](https://srht.site/)
+- SourceHut Pages - [link](https://srht.site/) 
