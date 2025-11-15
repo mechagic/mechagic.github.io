@@ -4,7 +4,7 @@ title: Portfolio
 details: A portfolio of works I've done for projects, usually paid for.
 ---
 ## Roblox Clothes
-~~I'm not sure how to showcase these but you can see them on my group page~~ I FIGURED IT OUT GIMME A WEEK OR TWO - [link](https://www.roblox.com/communities/36084236/Mechagics-Wares#!/store)
+~~I'm not sure how to showcase these but you can see them on my group page~~ I FIGURED IT OUT WAIT UNTIL I HAVE MOTIVATION TO DO SO - [link](https://www.roblox.com/communities/36084236/Mechagics-Wares#!/store)
 <br>
 
 ## Poyoweb (Paid)
