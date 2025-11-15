@@ -26,7 +26,7 @@ The map to find the non-existent treasure on this website
 				<li><a href="/creations/pixels">Pixels</a></li>
 				<li><a href="/creations/writing">Writing</a></li>
 				<li><a href="/creations/music">Music</a></li>
-				<li><a href="/creations/other_works">Other Works</a></li>
+				<li><a href="/creations/portfolio">Portfolio</a></li>
 			</ul>
 			<li><a href="/platforms">Platforms</a></li>
 			<li><a href="/resources">Resources</a></li>

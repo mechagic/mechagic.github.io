@@ -7,6 +7,22 @@ details: A portfolio of works I've done for projects, usually paid for.
 ~~I'm not sure how to showcase these but you can see them on my group page~~ I FIGURED IT OUT WAIT UNTIL I HAVE MOTIVATION TO DO SO - [link](https://www.roblox.com/communities/36084236/Mechagics-Wares#!/store)
 <br>
 
+## NekoWeb Zine 2025
+Submitted a piece for [2025's Nekoweb Zine](https://zine.nekoweb.org/), originally submitted on April 28, 2025<br>
+
+<div class="box2">
+    <div class="rflex">
+    <div class="gallery" style="width: 85%;">
+        <a href="/2pw/nekowebzine2025.webp" data-caption="Back Button">
+            <img class="tramb" src="/2pw/nekowebzine2025_thmb.webp" alt="Back Button">
+        </a>
+        <div class="trnsprnt" style="margin:0.8rem 1.5rem; align-self: center;">
+            Thumbnail is NOT indicative of the actual art submission
+        </div>
+    </div>
+    </div>
+</div>
+
 ## Poyoweb (Paid)
 Drew up multiple icons for an old version of Poyoweb by Poyo, which was a pretty cool webhost, Poyo is now in a buncha other cool projects though, give them a look: [link](https://indieseas.net/)
 
