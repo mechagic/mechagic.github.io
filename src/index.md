@@ -17,7 +17,7 @@ details: A very cool personal website that is owned by a cockroach that learned 
 		<div class="member">
 			<a href="https://kalechips.net/responsive/"><img class="btn" style="width:100%;" src="https://kalechips.net/responsive/buttons/8831-1.png" alt="Link to the responsive directory"></a>
 			<div class ="trnsprnt" style="margin: var(--inner-margin);">
-				<a href="https://pkmn.caelestis.nu" rel="noopener noreferrer">I Choose You!</a> <img src="/2images/4primarina.webp" style="margin: 0px -15px; background: transparent;"> Primarina
+				<a href="https://pkmn.aquarels.net/" rel="noopener noreferrer">I Choose You!</a> <img src="/2images/4primarina.webp" style="margin: 0px -15px; background: transparent;"> Primarina
 		    </div>
 		    </br></br>
 		    <div class="trnsprnt" style="justify-self: center;">
