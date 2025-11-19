@@ -49,6 +49,7 @@ All the graphics I used for this website
    </div>
 </div>
 
+
 <link rel="stylesheet" href="/1stylescripts/baguetteBox.min.css">
 <script src="/1stylescripts/baguetteBox.min.js" charset="utf-8"></script>
 <script type="text/javascript">
