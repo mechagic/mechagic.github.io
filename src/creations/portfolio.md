@@ -37,8 +37,8 @@ Submitted a piece for [2025's Nekoweb Zine](https://zine.nekoweb.org/), original
 <div class="box2">
     <div class="rflex">
     <div class="gallery" style="width: 85%;">
-        <a href="/2pw/nekowebzine2025.webp" data-caption="Back Button">
-            <img class="tramb" src="/2pw/nekowebzine2025_thmb.webp" alt="Back Button">
+        <a href="/2pw/nekowebzine2025.webp" data-caption="Nekoweb Zine Submission">
+            <img class="tramb" src="/2pw/nekowebzine2025_thmb.webp" alt="Nekoweb Zine Submission">
         </a>
         <div class="trnsprnt" style="margin:0.8rem 1.5rem; align-self: center;">
             Thumbnail is NOT indicative of the actual art submission
