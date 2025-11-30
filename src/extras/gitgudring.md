@@ -88,7 +88,7 @@ It's simple!
   </div>
 	<div class="cflex">
 		<img src="https://i.ibb.co/pjLs2sD/FSPbutton.png" alt="Friend Shaped Plant's button"> <br><hr>
-		<a href="https://friendshapedplant.neocities.org/"><strong>Friend Shaped Plant</strong></a><br>Personal site about art n funny website shenanigans. And vidya game
+		<a href="https://friendshaped.garden/"><strong>Friend Shaped Plant</strong></a><br>Personal site about art n funny website shenanigans. And vidya game
   </div>
 	<div class="cflex">
 		<img src="https://sad.ovh/assets/binkies/sadovh.png" alt="sad ovh's button"> <br><hr>

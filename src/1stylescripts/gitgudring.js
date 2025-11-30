@@ -15,7 +15,7 @@ webring = {
     "theoliveoli.nekoweb.org/links/",
     "https://jbc.lol/webrings/",
     "https://riflesniper.art/funstuff",
-    "https://friendshapedplant.neocities.org/links/joined",
+    "https://friendshaped.garden/links/joined",
     "https://sad.ovh/"
       ],
 
