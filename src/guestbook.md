@@ -6,4 +6,4 @@ details: My guestbook! Go sign it to gain additional coolness points,  If your c
 ---
 
  <div id="c_widget"></div>
- <script src="/1stylescripts/comment-widget.js"></script>
+ <script src="/1stylescripts/gb-widget.js"></script>
