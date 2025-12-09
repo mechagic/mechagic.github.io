@@ -87,7 +87,6 @@ Ad services that advertise other indie sites, somewhat an extension of the last 
 I haven't used most of these myself, but I've heard some good things. Maybe in the future I'll add a pros and cons list for these things
 
 - Teacake - [link](https://teacake.org/)
-- Poyoweb - [link](https://poyoweb.org/)
 - Nekoweb - [link](https://nekoweb.org/)
 - Dorothea - [link](https://dorothea.us/)
 - Codeberg - [link](https://docs.codeberg.org/codeberg-pages/)
