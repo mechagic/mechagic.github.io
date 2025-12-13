@@ -2,14 +2,13 @@
 layout: t2
 title: My Writing
 details: Some are good, some are bad, and some were made by a bug having a bad day
-templateEngineOverride: njk, md
 ---
 
-[rss feed](/2feed/writing_feed.xml) for all categories, if you want to read my fanfiction go [here](https://archiveofourown.org/users/mechagic_party)  
+<p><a href="/2feed/writing_feed.xml">rss feed</a> for all categories, if you want to read my fanfiction go <a href="https://archiveofourown.org/users/mechagic_party">here</a></p>
 
-### Short Stories And Concepts
-My short stories, I mostly make them up on the fly.
-<br>[rss feed](/2feed/story_feed.xml)
+<h3>Short Stories And Concepts</h3>
+<p>My short stories, I mostly make them up on the fly.
+<br><a href="/2feed/story_feed.xml">rss feed</a></p>
 
 <ul>
 {%- for post in collections.story | reverse -%}
@@ -17,9 +16,9 @@ My short stories, I mostly make them up on the fly.
   {%- endfor -%}
 </ul>
 
-### Poetry
-All of these are experimental and some of these are pretentious
-<br>[rss feed](/2feed/poetry_feed.xml)
+<h3>Poetry</h3>
+<p>All of these are experimental and some of these are pretentious
+<br><a href="/2feed/poetry_feed.xml">rss feed</a></p>
 
 <ul>
 {%- for post in collections.poetry | reverse -%}
@@ -27,9 +26,8 @@ All of these are experimental and some of these are pretentious
   {%- endfor -%}
 </ul>
 
-### Archives
-Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting.
-<br>No rss feed needed
+<h3>Archives</h3>
+<p>Old stuff from my original writing blog on Tumblr, might rewrite IOTD. SaH is under rewriting.
 
 <ul>
 {%- for post in collections.archive | reverse -%}
