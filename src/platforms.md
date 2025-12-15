@@ -15,8 +15,6 @@ My Discord account is `mechagic` and my email is `mechagic@proton.me `
 - Lemmy - [link](https://lemmy.blahaj.zone/u/MECHAGIC)
 - Github - [link](https://github.com/mechagic/)
 - Tumblr - [link](https://mechagic.tumblr.com/)
-- Sheezy.art - [link](https://sheezy.art/mechagic)
-- ArchiveOfOurOwn - [link](https://archiveofourown.org/users/mechagic_party)
 
 ---
 
