@@ -16,7 +16,8 @@ webring = {
     "https://jbc.lol/webrings/",
     "https://riflesniper.art/funstuff",
     "https://friendshaped.garden/links/joined",
-    "https://sad.ovh/"
+    "https://sad.ovh/",
+    "https://abtmtr.link/"
       ],
 
   // html inserted as your widget
