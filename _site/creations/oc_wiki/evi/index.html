@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="/1stylescripts/colors.css">
+    <link rel="stylesheet" href="/1stylescripts/theme.css">
+    <script src="https://cdn.jsdelivr.net/npm/theme-change@2.0.2/index.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Evi</title>
+    <meta name="title" content="Evi" />
+    <meta name="description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mechagic.party/" />
+    <meta property="og:title" content="Evi" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="/2images/1icon.webp" />
+    <meta name="theme-color" content="#0087FF">
+    <link rel="icon" type="image/x-icon" href="/2images/1icon.webp">
+  </head>
+  <body>
+    <div id="cntnr">
+      <div id="header">
+        <div class="trnsprnt" style="background: var(--hdr); padding: 0.5rem;"><a class="hidden" href="/"><h1 class="head">MECHAGIC.PARTY</h1></a></div>
+      </div>
+      <main>
+        <div class="rflex">
+          <div class="trnsprnt">
+            <div class="float">
+              <div class="cflex">
+                <img class="ocimg" src="/2oc/Evi.webp" alt="OC art">
+                <div class="ocdes"><h4>Evi</h4></div>
+              </div>
+            </div>
+          </div>
+          <div class="cflex">
+            <div class="rflex">
+              <div class="ocbox1">
+                <h3>Info</h3>
+                <hr>
+                <div class="rflex">
+                    <p>age-  30s <br> height- 5'0 <br> species- Human <br> pronouns- Any <br> gender- Uingender</p><hr class="vr"><p>orientation- Objectum<br>+Bisexual <br> occupation- None <br> voiceclaim- Funkyfrogbait <br> alignment- Rebel Impure</p>
+                </div>
+              </div>
+              <div class="ocbox2">
+                <h3>Colors</h3>
+                <hr>
+                <div class="occlr">
+                  <div class="clroc" style="background:#c29470;"> </div> <div class="clroc" style="background:#a0f;"> </div> <div class="clroc" style="background:#202020;"> </div> <div class="clroc" style="background:#512f25;"> </div> <div class="clroc" style="background:#704d44;"> </div> <div class="clroc" style="background:#9ba8a9;"> </div> <div class="clroc" style="background:#2c9cca;"> </div> <div class="clroc" style="background:#47dee5;"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="invis">
+              <div class="tabcontainer">
+                <div class="tab">
+                  <button class="tablinks" onclick="openTab(event, 'Personality')" id="defaultOpen">Personality</button>
+                  <button class="tablinks" onclick="openTab(event, 'Biography')">Biography</button>
+                  <button class="tablinks" onclick="openTab(event, 'Abilities')">Abilities</button>
+                  <button class="tablinks" onclick="openTab(event, 'More Lore')">More Lore</button>
+                </div>
+                <div id="Personality" class="tabcontent">
+                  <h3>Personality</h3> Unable to handle the loss of his best friend properly, Evi is eager to return to the past and has a hunger for new attachments despite also being scared of experiencing that loss once again. <br><br> This guy does NOT know how to have a healthy relationship that doesn't devolve into over codependency! Talk about a dog that bites the feeding hand to try and get it to stay longer. <br><br> She will never be able to fully process that grief, not really, it will dwell in the corner of their mind constantly.
+                </div>
+                <div id="Biography" class="tabcontent">
+                  <h3>Biography</h3> Her backstory isn't all that interesting, being a wanderer that travelled too far, ended up in a strange place, and eventually settled down with her best friend - a radio with strange capabilities<br><br>Eventually the thing died, and it came back, but it wasn't his friend, it was someone else. She wouldn't except that. The years before the return, he did nothing except the bare minimum for survival, eating only to eat and not to savor the food.
+                </div>
+                <div id="Abilities" class="tabcontent">
+                  <h3>Abilities</h3> A normal human with a knack for outdoor survival, she's awfully good at swinging axe and successfully drawing blood with it.
+                </div>
+                <div id="More Lore" class="tabcontent">
+                  She will never move on. She will never let go.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <center><h4><a href="javascript:window.history.back()">Go Back</a></h4></center>
+      </main>
+      <div id="footer">
+        <center><a href="/riiatw">Relatively Important Information About the Website (Or RIIAtW for short)</a></center>
+      </div>
+    </div>
+  </body>
+</html>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+<style>
+  .tabcontainer{
+    width: 91.5%;
+    margin: 0vh 0vw 2vh 2.5vw !important;
+  }
+  .tabcontent{
+    padding: var(--pad1);
+  }
+  .cflex {
+   display:flex;
+   flex-direction: column;
+   width:100%;
+}
+@media screen and (max-width:800px) {
+  .tabcontainer{
+    width:95%;
+    box-sizing: border-box!important;
+    margin: var(--inner-margin);
+  }
+}
+</style>

@@ -1,0 +1,11 @@
+{
+	"allowInsecure": false
+}
+
+{
+	"allowPrivate": true
+}
+
+{
+	"basePath": "_site"
+}
