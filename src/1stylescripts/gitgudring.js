@@ -5,19 +5,6 @@ webring = {
 
   // list of sites in the ring 
   sites: [
-    "https://mechagic.party/webring/",
-    "https://tofutush.github.io/The-Iron-Ragdoll/misc/links/",
-    "https://ironstar.nekoweb.org/",
-    "https://bibliohound.neocities.org/webrings/",
-    "https://bang1338.nekoweb.org/",
-    "https://lockheartlove.neocities.org/",
-    "https://entropically.neocities.org/home",
-    "theoliveoli.nekoweb.org/links/",
-    "https://jbc.lol/webrings/",
-    "https://riflesniper.art/funstuff",
-    "https://friendshaped.garden/links/joined",
-    "https://sad.ovh/",
-    "https://abtmtr.link/"
       ],
 
   // html inserted as your widget
@@ -40,7 +27,7 @@ webring = {
   stylesheet: "https://mechagic.party/1stylescripts/gitgudring.css",
 
   // html inserted instead of your widget on sites that aren't in the ring
-  error: "<div>This website isn't part of the GitGudRing yet! GET TO IT NOW WEBMASTER MECHAGIC!!!</div>",
+  error: "<div>Webring location has updated, go to `https://mechagic.pages.gay/extras/gitgudring/` to update it</div>",
 
 };
 
