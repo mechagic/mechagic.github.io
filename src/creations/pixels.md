@@ -73,8 +73,8 @@ You can put these wherever on your website, just credit me :}
     </div>
 </div>
 
-<link rel="stylesheet" href="/1stylescripts/baguetteBox.alt.css">
-<script src="/1stylescripts/baguetteBox.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="/1stylescripts/gallery/baguetteBox.alt.css">
+<script src="/1stylescripts/gallery/baguetteBox.min.js" charset="utf-8"></script>
 <script type="text/javascript">
     window.addEventListener('load', function() { baguetteBox.run('.gallery');});
 </script>
